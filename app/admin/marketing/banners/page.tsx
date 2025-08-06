@@ -418,7 +418,6 @@ export default function BannersPage() {
                         <Switch
                           checked={banner.is_active}
                           onCheckedChange={(checked) => toggleBannerStatus(banner, checked)}
-                          size="sm"
                         />
                         <span className="text-xs text-muted-foreground">
                           {banner.is_active ? '활성' : '비활성'}
