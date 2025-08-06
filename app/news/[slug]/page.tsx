@@ -77,9 +77,8 @@ export default function NewsDetailPage() {
   }
 
   const getCategoryInfo = (page: Page) => {
-    const category = page.meta?.category || 
-                    (page.slug.includes('notice') ? 'notice' : 
-                     page.slug.includes('event') ? 'event' : 'news')
+    const category = page.slug.includes('notice') ? 'notice' : 
+                    page.slug.includes('event') ? 'event' : 'news'
     return categories.find(cat => cat.id === category) || categories[2]
   }
 
