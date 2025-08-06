@@ -28,6 +28,57 @@ const DEFAULT_SITE_SETTINGS: SiteSettings = {
   maintenance: { enabled: false, message: '' }, created_at: '', updated_at: ''
 };
 
+const DEFAULT_PAGE: Page = {
+  id: '', slug: '', template: 'default', page_type: 'static',
+  meta: { title: { ko: '', en: '' }, description: { ko: '', en: '' }, keywords: [] },
+  settings: { show_header: true, show_footer: true, show_breadcrumb: true, container_width: 'default' },
+  status: 'draft', access_rules: { require_login: false, allowed_roles: [], redirect_url: '' },
+  animations: { page_transition: '', scroll_animation: '', animation_duration: 300, stagger_delay: 100 },
+  version: 1, created_at: '', updated_at: ''
+};
+
+const DEFAULT_PRODUCT: Product = {
+  id: '', sku: '', name: { ko: '', en: '' }, slug: '', category_ids: [],
+  pricing: { price_text: '', is_price_visible: false },
+  media: { gallery: [], videos: [], documents: [] },
+  quality: { gmp_certified: false, haccp_certified: false, organic_certified: false, other_certifications: [] },
+  inquiry_settings: { enable_inquiry: false, inquiry_button_text: '', show_kakao_chat: false, show_phone_number: false },
+  related_products: { cross_sells: [], up_sells: [], frequently_bought: [] },
+  status: 'draft', featured: false, is_new: false, is_best: false,
+  stats: { view_count: 0, inquiry_count: 0, brochure_download_count: 0 },
+  seo: {}, custom_fields: {}, created_at: '', updated_at: ''
+};
+
+const DEFAULT_CATEGORY: Category = {
+  id: '', name: { ko: '', en: '' }, slug: '', meta: {},
+  display_settings: { show_in_menu: false, show_in_homepage: false, show_in_footer: false, featured: false },
+  layout_settings: { products_per_page: 12, default_view: 'grid', show_filters: true, show_sorting: true },
+  custom_fields: {}, position: 0, level: 0, is_active: true, created_at: '', updated_at: ''
+};
+
+const DEFAULT_MENU: Menu = {
+  id: '', menu_location: 'header', title: { ko: '', en: '' }, url_type: 'internal', target: '_self',
+  is_mega_menu: false, mega_menu_columns: 1,
+  visibility_rules: { show_logged_in: true, show_logged_out: true, required_roles: [], hide_on_mobile: false },
+  position: 0, is_active: true, created_at: '', updated_at: ''
+};
+
+const DEFAULT_BANNER: Banner = {
+  id: '', name: '', type: 'hero', title: { ko: '', en: '' },
+  image: { desktop: '' },
+  position: { location: 'hero', priority: 0 },
+  display_rules: { pages: [], show_logged_in: true, show_logged_out: true, frequency: 'always' },
+  analytics: { impressions: 0, clicks: 0, conversion_rate: 0 },
+  is_active: false, created_at: '', updated_at: ''
+};
+
+const DEFAULT_STORE_LOCATION: StoreLocation = {
+  id: '', name: { ko: '', en: '' }, type: 'branch',
+  address: { ko: '', en: '' }, contact: {}, hours: {}, services: [],
+  features: { parking: false, wheelchair_accessible: false, public_transport: false, wifi: false },
+  images: [], is_active: true, created_at: '', updated_at: ''
+};
+
 // ============================================================================
 // SITE SETTINGS
 // ============================================================================
@@ -176,7 +227,7 @@ export const pages = {
       
       return createResponse(page)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PAGE, error)
     }
   },
 
@@ -213,7 +264,7 @@ export const pages = {
 
       return createResponse(data as unknown as Page)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PAGE, error)
     }
   },
 
@@ -239,7 +290,7 @@ export const pages = {
       
       return createResponse(data as unknown as Page)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PAGE, error)
     }
   },
 
@@ -265,7 +316,7 @@ export const pages = {
       
       return createResponse(data as unknown as Page)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PAGE, error)
     }
   },
 
@@ -397,7 +448,7 @@ export const products = {
       
       return createResponse(product)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PRODUCT, error)
     }
   },
 
@@ -477,7 +528,7 @@ export const products = {
 
       return createResponse(data as unknown as Product)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PRODUCT, error)
     }
   },
 
@@ -503,7 +554,7 @@ export const products = {
       
       return createResponse(data as unknown as Product)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PRODUCT, error)
     }
   },
 
@@ -529,7 +580,7 @@ export const products = {
       
       return createResponse(data as unknown as Product)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_PRODUCT, error)
     }
   },
 
@@ -655,7 +706,7 @@ export const categories = {
       
       return createResponse(category)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_CATEGORY, error)
     }
   },
 
@@ -704,7 +755,7 @@ export const categories = {
 
       return createResponse(data as unknown as Category)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_CATEGORY, error)
     }
   },
 
@@ -729,7 +780,7 @@ export const categories = {
       
       return createResponse(data as unknown as Category)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_CATEGORY, error)
     }
   },
 
@@ -755,7 +806,7 @@ export const categories = {
       
       return createResponse(data as unknown as Category)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_CATEGORY, error)
     }
   },
 
@@ -904,7 +955,7 @@ export const menus = {
 
       return createResponse(data as unknown as Menu)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_MENU, error)
     }
   },
 
@@ -929,7 +980,7 @@ export const menus = {
       
       return createResponse(data as unknown as Menu)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_MENU, error)
     }
   },
 
@@ -955,7 +1006,7 @@ export const menus = {
       
       return createResponse(data as unknown as Menu)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_MENU, error)
     }
   },
 
@@ -1127,7 +1178,7 @@ export const banners = {
 
       return createResponse(data as unknown as Banner)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_BANNER, error)
     }
   },
 
@@ -1152,7 +1203,7 @@ export const banners = {
       
       return createResponse(data as unknown as Banner)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_BANNER, error)
     }
   },
 
@@ -1178,7 +1229,7 @@ export const banners = {
       
       return createResponse(data as unknown as Banner)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_BANNER, error)
     }
   },
 
@@ -1267,7 +1318,7 @@ export const storeLocations = {
       
       return createResponse(location)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_STORE_LOCATION, error)
     }
   },
 
@@ -1307,7 +1358,7 @@ export const storeLocations = {
 
       return createResponse(data as unknown as StoreLocation)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_STORE_LOCATION, error)
     }
   },
 
@@ -1332,7 +1383,7 @@ export const storeLocations = {
       
       return createResponse(data as unknown as StoreLocation)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_STORE_LOCATION, error)
     }
   },
 
@@ -1358,7 +1409,7 @@ export const storeLocations = {
       
       return createResponse(data as unknown as StoreLocation)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_STORE_LOCATION, error)
     }
   },
 
