@@ -154,8 +154,8 @@ export default function StoreLocationsPage() {
             wednesday: { open: '09:00', close: '18:00' },
             thursday: { open: '09:00', close: '18:00' },
             friday: { open: '09:00', close: '18:00' },
-            saturday: { closed: true },
-            sunday: { closed: true }
+            saturday: { open: '', close: '', closed: true },
+            sunday: { open: '', close: '', closed: true }
           },
           services: ['상담', '제품 전시', '고객 지원'],
           features: {
@@ -198,7 +198,7 @@ export default function StoreLocationsPage() {
             thursday: { open: '09:00', close: '18:00' },
             friday: { open: '09:00', close: '18:00' },
             saturday: { open: '10:00', close: '15:00' },
-            sunday: { closed: true }
+            sunday: { open: '', close: '', closed: true }
           },
           services: ['제품 상담', 'A/S'],
           features: {
@@ -819,7 +819,7 @@ export default function StoreLocationsPage() {
                               ...prev.hours,
                               [day.key]: checked ? 
                                 { open: '09:00', close: '18:00' } : 
-                                { closed: true }
+                                { open: '', close: '', closed: true }
                             }
                           } : null)
                         }
