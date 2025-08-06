@@ -12,7 +12,7 @@ import { Badge } from "@/components/ui/badge"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { toast } from "@/hooks/use-toast"
-import { banners } from "@/lib/cms"
+import { banners as bannersApi } from "@/lib/cms"
 import { Banner } from "@/lib/types/cms"
 import { 
   Loader2, 
@@ -112,7 +112,7 @@ export default function BannersPage() {
   const loadBanners = async () => {
     try {
       setLoading(true)
-      const { data } = await banners.getAll()
+      const { data } = await bannersApi.getAll()
       setBanners(data || [])
     } catch (error: any) {
       console.error('Error loading banners:', error)
@@ -148,9 +148,9 @@ export default function BannersPage() {
       }
 
       if (editingBanner.id) {
-        await banners.update(editingBanner.id, bannerData)
+        await bannersApi.update(editingBanner.id, bannerData)
       } else {
-        await banners.create(bannerData)
+        await bannersApi.create(bannerData)
       }
 
       toast({
@@ -177,7 +177,7 @@ export default function BannersPage() {
     if (!confirm('정말 삭제하시겠습니까?')) return
 
     try {
-      await banners.delete(id)
+      await bannersApi.delete(id)
 
       toast({
         title: "성공",
@@ -197,7 +197,7 @@ export default function BannersPage() {
 
   const toggleBannerStatus = async (banner: Banner, isActive: boolean) => {
     try {
-      await banners.update(banner.id, { is_active: isActive })
+      await bannersApi.update(banner.id, { is_active: isActive })
 
       toast({
         title: "성공",
