@@ -82,7 +82,19 @@ export default function MediaPage() {
       if (imageError) {
         console.error('Error loading images:', imageError)
       } else {
-        setImageFiles(imageData || [])
+        const formattedImageFiles = (imageData || []).map(file => ({
+          ...file,
+          metadata: {
+            eTag: file.metadata?.eTag || '',
+            size: file.metadata?.size || 0,
+            mimetype: file.metadata?.mimetype || '',
+            cacheControl: file.metadata?.cacheControl || '',
+            lastModified: file.metadata?.lastModified || '',
+            contentLength: file.metadata?.contentLength || 0,
+            httpStatusCode: file.metadata?.httpStatusCode || 0
+          }
+        }))
+        setImageFiles(formattedImageFiles)
       }
 
       // 비디오 파일 로드
@@ -97,7 +109,19 @@ export default function MediaPage() {
       if (videoError) {
         console.error('Error loading videos:', videoError)
       } else {
-        setVideoFiles(videoData || [])
+        const formattedVideoFiles = (videoData || []).map(file => ({
+          ...file,
+          metadata: {
+            eTag: file.metadata?.eTag || '',
+            size: file.metadata?.size || 0,
+            mimetype: file.metadata?.mimetype || '',
+            cacheControl: file.metadata?.cacheControl || '',
+            lastModified: file.metadata?.lastModified || '',
+            contentLength: file.metadata?.contentLength || 0,
+            httpStatusCode: file.metadata?.httpStatusCode || 0
+          }
+        }))
+        setVideoFiles(formattedVideoFiles)
       }
     } catch (error: any) {
       console.error('Error loading media:', error)
