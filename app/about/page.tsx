@@ -170,9 +170,18 @@ export default function AboutPage() {
 
       {/* Company Statistics */}
       <Section className="bg-white">
-        <motion.div variants={staggerContainer} className="grid grid-cols-2 lg:grid-cols-4 gap-8">
+        <motion.div 
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ staggerChildren: 0.2 }}
+          className="grid grid-cols-2 lg:grid-cols-4 gap-8">
           {statistics.map((stat, index) => (
-            <motion.div key={index} variants={fadeInUp} className="text-center group">
+            <motion.div 
+              key={index} 
+              initial={{ opacity: 0, y: 60 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+              className="text-center group">
               <div className="inline-flex items-center justify-center w-16 h-16 bg-emerald-100 text-emerald-600 rounded-full mb-4 group-hover:scale-110 transition-transform duration-300">
                 <stat.icon className="w-8 h-8" />
               </div>
@@ -185,7 +194,11 @@ export default function AboutPage() {
 
       {/* History Timeline */}
       <Section className="bg-gray-50">
-        <motion.div variants={fadeInUp} className="text-center mb-16">
+        <motion.div 
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className="text-center mb-16">
           <h2 className="text-emerald-600 font-semibold mb-4 text-lg">COMPANY HISTORY</h2>
           <h3 className="text-3xl lg:text-5xl font-bold text-gray-900 mb-6">
             30년간의 <span className="text-emerald-600">성장 스토리</span>
@@ -195,14 +208,20 @@ export default function AboutPage() {
           </p>
         </motion.div>
 
-        <motion.div variants={staggerContainer} className="relative">
+        <motion.div 
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ staggerChildren: 0.2 }}
+          className="relative">
           {/* Timeline Line */}
           <div className="absolute left-4 lg:left-1/2 top-0 bottom-0 w-0.5 bg-emerald-200 transform lg:-translate-x-px"></div>
           
           {historyData.map((item, index) => (
             <motion.div
               key={index}
-              variants={fadeInUp}
+              initial={{ opacity: 0, y: 60 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
               className={`relative flex items-center mb-12 ${
                 index % 2 === 0 ? 'lg:justify-start' : 'lg:justify-end'
               }`}
@@ -221,7 +240,11 @@ export default function AboutPage() {
 
       {/* Core Values */}
       <Section className="bg-white">
-        <motion.div variants={fadeInUp} className="text-center mb-16">
+        <motion.div 
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className="text-center mb-16">
           <h2 className="text-emerald-600 font-semibold mb-4 text-lg">CORE VALUES</h2>
           <h3 className="text-3xl lg:text-5xl font-bold text-gray-900 mb-6">
             우리의 <span className="text-emerald-600">핵심 가치</span>
@@ -231,11 +254,17 @@ export default function AboutPage() {
           </p>
         </motion.div>
 
-        <motion.div variants={staggerContainer} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <motion.div 
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ staggerChildren: 0.2 }}
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {coreValues.map((value, index) => (
             <motion.div
               key={index}
-              variants={fadeInUp}
+              initial={{ opacity: 0, y: 60 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
               className={`group p-8 bg-white rounded-2xl border-2 ${value.borderColor} hover:shadow-xl transition-all duration-300 hover:-translate-y-2`}
             >
               <div className={`w-16 h-16 ${value.bgColor} rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300`}>
@@ -250,7 +279,11 @@ export default function AboutPage() {
 
       {/* CEO Message */}
       <Section className="bg-gradient-to-r from-emerald-600 to-green-600 text-white">
-        <motion.div variants={fadeInUp} className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <motion.div 
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <h2 className="text-white/90 font-semibold mb-4 text-lg">CEO MESSAGE</h2>
             <h3 className="text-3xl lg:text-4xl font-bold mb-6">
@@ -291,7 +324,11 @@ export default function AboutPage() {
 
       {/* Certifications Gallery */}
       <Section className="bg-gray-50">
-        <motion.div variants={fadeInUp} className="text-center mb-16">
+        <motion.div 
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className="text-center mb-16">
           <h2 className="text-emerald-600 font-semibold mb-4 text-lg">CERTIFICATIONS</h2>
           <h3 className="text-3xl lg:text-5xl font-bold text-gray-900 mb-6">
             <span className="text-emerald-600">인증</span>과 자격
@@ -301,11 +338,17 @@ export default function AboutPage() {
           </p>
         </motion.div>
 
-        <motion.div variants={staggerContainer} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <motion.div 
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ staggerChildren: 0.2 }}
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {certifications.map((cert, index) => (
             <motion.div
               key={index}
-              variants={fadeInUp}
+              initial={{ opacity: 0, y: 60 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
               className="bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 group"
             >
               <div className="aspect-square bg-gray-100 rounded-xl mb-4 flex items-center justify-center overflow-hidden">
@@ -320,7 +363,11 @@ export default function AboutPage() {
 
       {/* Office Photos */}
       <Section className="bg-white">
-        <motion.div variants={fadeInUp} className="text-center mb-16">
+        <motion.div 
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className="text-center mb-16">
           <h2 className="text-emerald-600 font-semibold mb-4 text-lg">OFFICE & FACILITIES</h2>
           <h3 className="text-3xl lg:text-5xl font-bold text-gray-900 mb-6">
             <span className="text-emerald-600">최첨단 시설</span>과 환경
@@ -330,7 +377,11 @@ export default function AboutPage() {
           </p>
         </motion.div>
 
-        <motion.div variants={staggerContainer} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <motion.div 
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ staggerChildren: 0.2 }}
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
             { title: '생산 시설', description: 'GMP 인증 생산라인' },
             { title: '연구개발센터', description: '최첨단 R&D 시설' },
@@ -341,7 +392,9 @@ export default function AboutPage() {
           ].map((office, index) => (
             <motion.div
               key={index}
-              variants={fadeInUp}
+              initial={{ opacity: 0, y: 60 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
               className="group relative overflow-hidden rounded-2xl aspect-[4/3] bg-gradient-to-br from-emerald-100 to-blue-100"
             >
               <div className="absolute inset-0 flex items-center justify-center">
@@ -360,7 +413,11 @@ export default function AboutPage() {
 
       {/* Contact CTA */}
       <Section className="bg-emerald-600 text-white">
-        <motion.div variants={fadeInUp} className="text-center">
+        <motion.div 
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className="text-center">
           <h2 className="text-3xl lg:text-5xl font-bold mb-6">
             더 자세한 정보가 필요하신가요?
           </h2>
