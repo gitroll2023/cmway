@@ -226,14 +226,14 @@ export default function AnalyticsPage() {
                   <div className="w-full bg-emerald-100 rounded-t relative" 
                     style={{ 
                       height: `${(selectedMetric === 'visitors' 
-                        ? (item.visitors / 2000) * 100 
-                        : ((item as any).sales / 100000) * 100)}%` 
+                        ? ('visitors' in item ? (item.visitors / 2000) * 100 : 0)
+                        : ('sales' in item ? (item.sales / 100000) * 100 : 0))}%` 
                     }}
                   >
                     <div className="absolute -top-6 left-1/2 transform -translate-x-1/2 text-xs text-gray-600 whitespace-nowrap">
                       {selectedMetric === 'visitors' 
-                        ? formatNumber(item.visitors)
-                        : formatCurrency((item as any).sales)}
+                        ? ('visitors' in item ? formatNumber(item.visitors) : '')
+                        : ('sales' in item ? formatCurrency(item.sales) : '')}
                     </div>
                   </div>
                   <span className="text-xs text-gray-500 mt-2">{item.date}</span>
