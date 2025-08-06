@@ -143,7 +143,11 @@ export default function AboutPage() {
     <MainLayout>
       {/* Hero Section */}
       <Section className="bg-gradient-to-br from-emerald-50 via-blue-50 to-green-50 pt-32">
-        <motion.div variants={fadeInUp} className="text-center">
+        <motion.div 
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className="text-center">
           <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6">
             <span className="text-emerald-600">건강한 미래</span>를 만들어가는
             <br />
