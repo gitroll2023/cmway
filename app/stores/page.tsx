@@ -53,8 +53,8 @@ const mockStores: StoreLocation[] = [
       wednesday: { open: '09:00', close: '18:00' },
       thursday: { open: '09:00', close: '18:00' },
       friday: { open: '09:00', close: '18:00' },
-      saturday: { closed: true },
-      sunday: { closed: true }
+      saturday: { open: '', close: '', closed: true },
+      sunday: { open: '', close: '', closed: true }
     },
     services: ['제품 상담', '고객 서비스', '브로슈어 제공'],
     features: {
@@ -92,7 +92,7 @@ const mockStores: StoreLocation[] = [
       thursday: { open: '10:00', close: '19:00' },
       friday: { open: '10:00', close: '19:00' },
       saturday: { open: '10:00', close: '17:00' },
-      sunday: { closed: true }
+      sunday: { open: '', close: '', closed: true }
     },
     services: ['제품 상담', '샘플 제공', '주문 접수'],
     features: {
@@ -129,8 +129,8 @@ const mockStores: StoreLocation[] = [
       wednesday: { open: '08:00', close: '17:00' },
       thursday: { open: '08:00', close: '17:00' },
       friday: { open: '08:00', close: '17:00' },
-      saturday: { closed: true },
-      sunday: { closed: true }
+      saturday: { open: '', close: '', closed: true },
+      sunday: { open: '', close: '', closed: true }
     },
     services: ['물류 배송', '재고 관리', '대량 주문'],
     features: {
