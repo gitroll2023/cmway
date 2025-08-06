@@ -342,7 +342,6 @@ export default function CategoriesPage() {
                   <Switch
                     checked={category.is_active}
                     onCheckedChange={(checked) => toggleCategoryStatus(category, checked)}
-                    size="sm"
                   />
                   <span className="text-xs text-muted-foreground">활성</span>
                 </div>

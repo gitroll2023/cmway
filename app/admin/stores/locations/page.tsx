@@ -528,7 +528,6 @@ export default function StoreLocationsPage() {
                         <Switch
                           checked={location.is_active}
                           onCheckedChange={(checked) => toggleLocationStatus(location, checked)}
-                          size="sm"
                         />
                         <span className="text-xs text-muted-foreground">
                           {location.is_active ? '활성' : '비활성'}
