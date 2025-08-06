@@ -974,7 +974,11 @@ export default function StoreLocationsPage() {
                       onChange={(e) => 
                         setEditingLocation(prev => prev ? {
                           ...prev,
-                          manager: { ...prev.manager, phone: e.target.value }
+                          manager: { 
+                            name: prev.manager?.name || '',
+                            ...prev.manager, 
+                            phone: e.target.value 
+                          }
                         } : null)
                       }
                       placeholder="010-1234-5678"
@@ -988,7 +992,11 @@ export default function StoreLocationsPage() {
                       onChange={(e) => 
                         setEditingLocation(prev => prev ? {
                           ...prev,
-                          manager: { ...prev.manager, email: e.target.value }
+                          manager: { 
+                            name: prev.manager?.name || '',
+                            ...prev.manager, 
+                            email: e.target.value 
+                          }
                         } : null)
                       }
                       placeholder="manager@company.com"
