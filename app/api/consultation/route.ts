@@ -19,7 +19,7 @@ export async function GET(request: NextRequest) {
       return NextResponse.json(
         { 
           success: false, 
-          error: error instanceof Error ? error.message : 'Failed to fetch consultations' 
+          error: typeof error === 'string' ? error : 'Failed to fetch consultations' 
         },
         { status: 500 }
       )
@@ -77,7 +77,7 @@ export async function PUT(request: NextRequest) {
 
     if (error) {
       return NextResponse.json(
-        { success: false, error: error instanceof Error ? error.message : 'Failed to update consultation' },
+        { success: false, error: 'Failed to update consultation' },
         { status: 500 }
       )
     }
@@ -111,7 +111,7 @@ export async function DELETE(request: NextRequest) {
 
     if (error) {
       return NextResponse.json(
-        { success: false, error: error instanceof Error ? error.message : 'Failed to delete consultation' },
+        { success: false, error: 'Failed to delete consultation' },
         { status: 500 }
       )
     }
