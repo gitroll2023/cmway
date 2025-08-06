@@ -116,7 +116,7 @@ export default function HeroSlider() {
       </AnimatePresence>
 
       {/* Slide Indicators - PC: 우측 세로, Mobile: 하단 가로 */}
-      <div className="absolute md:right-8 md:top-1/2 md:-translate-y-1/2 bottom-24 left-1/2 md:left-auto -translate-x-1/2 md:translate-x-0 flex md:flex-col items-center md:space-y-4 space-x-3 md:space-x-0 z-20">
+      <div className="absolute md:right-8 md:top-1/2 md:-translate-y-1/2 bottom-32 left-1/2 md:left-auto -translate-x-1/2 md:translate-x-0 flex md:flex-col items-center md:space-y-4 space-x-3 md:space-x-0 z-20">
         {slides.map((_, index) => (
           <button
             key={index}
@@ -166,7 +166,7 @@ export default function HeroSlider() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 2, duration: 1 }}
-        className="absolute bottom-10 left-1/2 -translate-x-1/2 text-white z-20"
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 text-white z-20"
       >
         <motion.div
           animate={{ y: [0, 10, 0] }}
