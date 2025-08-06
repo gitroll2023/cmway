@@ -72,8 +72,7 @@ export function ContactInquiriesTable({ page, status, search }: ContactInquiries
       const { data, count } = await contacts.getAll({
         page,
         limit: pageSize,
-        status: status === 'all' ? undefined : status as any,
-        search: search || undefined
+        status: status === 'all' ? undefined : status as any
       })
       
       setContacts(data || [])
