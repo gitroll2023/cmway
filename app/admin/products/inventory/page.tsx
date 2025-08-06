@@ -15,16 +15,173 @@ import {
   Save,
   X
 } from 'lucide-react';
-import { useCMSStore } from '@/store/cms';
-import type { Product } from '@/lib/types';
+import type { Product } from '@/lib/types/cms';
 
 interface InventoryItem extends Product {
   stock_status: 'in_stock' | 'low_stock' | 'out_of_stock';
   stock_alert_level: number;
+  stock_quantity: number;
+  price: number;
+  category: string;
+  images?: string[];
 }
 
+// Mock data for inventory
+const mockProducts: InventoryItem[] = [
+  {
+    id: '1',
+    sku: 'PRD-001',
+    name: { ko: '멀티비타민', en: 'Multivitamin' },
+    slug: 'multivitamin',
+    stock_quantity: 150,
+    price: 45000,
+    category: 'vitamin',
+    stock_status: 'in_stock',
+    stock_alert_level: 20,
+    pricing: {
+      display_price: 45000,
+      price_text: '₩45,000',
+      is_price_visible: true
+    },
+    media: {
+      gallery: [],
+      videos: [],
+      documents: []
+    },
+    category_ids: [],
+    inquiry_settings: {
+      enable_inquiry: true,
+      inquiry_button_text: '문의하기',
+      show_kakao_chat: false,
+      show_phone_number: false
+    },
+    related_products: {
+      cross_sells: [],
+      up_sells: [],
+      frequently_bought: []
+    },
+    quality: {
+      gmp_certified: true,
+      haccp_certified: true,
+      organic_certified: false,
+      other_certifications: []
+    },
+    status: 'published',
+    featured: false,
+    is_new: false,
+    is_best: false,
+    stats: {
+      view_count: 0,
+      inquiry_count: 0,
+      brochure_download_count: 0
+    },
+    created_at: new Date().toISOString(),
+    updated_at: new Date().toISOString()
+  },
+  {
+    id: '2',
+    sku: 'PRD-002',
+    name: { ko: '오메가3', en: 'Omega-3' },
+    slug: 'omega-3',
+    stock_quantity: 18,
+    price: 35000,
+    category: 'health',
+    stock_status: 'low_stock',
+    stock_alert_level: 20,
+    pricing: {
+      display_price: 35000,
+      price_text: '₩35,000',
+      is_price_visible: true
+    },
+    media: {
+      gallery: [],
+      videos: [],
+      documents: []
+    },
+    category_ids: [],
+    inquiry_settings: {
+      enable_inquiry: true,
+      inquiry_button_text: '문의하기',
+      show_kakao_chat: false,
+      show_phone_number: false
+    },
+    related_products: {
+      cross_sells: [],
+      up_sells: [],
+      frequently_bought: []
+    },
+    quality: {
+      gmp_certified: true,
+      haccp_certified: true,
+      organic_certified: false,
+      other_certifications: []
+    },
+    status: 'published',
+    featured: false,
+    is_new: false,
+    is_best: false,
+    stats: {
+      view_count: 0,
+      inquiry_count: 0,
+      brochure_download_count: 0
+    },
+    created_at: new Date().toISOString(),
+    updated_at: new Date().toISOString()
+  },
+  {
+    id: '3',
+    sku: 'PRD-003',
+    name: { ko: '프로바이오틱스', en: 'Probiotics' },
+    slug: 'probiotics',
+    stock_quantity: 0,
+    price: 55000,
+    category: 'health',
+    stock_status: 'out_of_stock',
+    stock_alert_level: 20,
+    pricing: {
+      display_price: 55000,
+      price_text: '₩55,000',
+      is_price_visible: true
+    },
+    media: {
+      gallery: [],
+      videos: [],
+      documents: []
+    },
+    category_ids: [],
+    inquiry_settings: {
+      enable_inquiry: true,
+      inquiry_button_text: '문의하기',
+      show_kakao_chat: false,
+      show_phone_number: false
+    },
+    related_products: {
+      cross_sells: [],
+      up_sells: [],
+      frequently_bought: []
+    },
+    quality: {
+      gmp_certified: true,
+      haccp_certified: true,
+      organic_certified: true,
+      other_certifications: []
+    },
+    status: 'out_of_stock',
+    featured: false,
+    is_new: false,
+    is_best: false,
+    stats: {
+      view_count: 0,
+      inquiry_count: 0,
+      brochure_download_count: 0
+    },
+    created_at: new Date().toISOString(),
+    updated_at: new Date().toISOString()
+  }
+];
+
 export default function InventoryPage() {
-  const { products = [], updateProduct } = useCMSStore();
+  const [products, setProducts] = useState<InventoryItem[]>(mockProducts);
   const [searchTerm, setSearchTerm] = useState('');
   const [filterCategory, setFilterCategory] = useState('');
   const [filterStatus, setFilterStatus] = useState('');
@@ -60,11 +217,22 @@ export default function InventoryPage() {
   });
 
   const handleStockUpdate = async (productId: string) => {
-    const product = products.find(p => p.id === productId);
-    if (product) {
-      await updateProduct(productId, { ...product, stock_quantity: editingStock });
-      setEditingId(null);
-    }
+    setProducts(prevProducts => 
+      prevProducts.map(p => 
+        p.id === productId 
+          ? { 
+              ...p, 
+              stock_quantity: editingStock,
+              stock_status: editingStock === 0 
+                ? 'out_of_stock' 
+                : editingStock < 20 
+                  ? 'low_stock' 
+                  : 'in_stock'
+            }
+          : p
+      )
+    );
+    setEditingId(null);
   };
 
   const getStatusBadge = (status: string) => {

@@ -33,7 +33,8 @@
       "Bash(claude config show)",
       "mcp__ide__executeCode",
       "Bash(npm install:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(claude config --help)"
     ]
   },
   "enableAllProjectMcpServers": true,
