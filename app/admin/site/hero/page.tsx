@@ -196,7 +196,7 @@ export default function HeroSettingsPage() {
   const uploadMockImages = async () => {
     try {
       setLoading(true);
-      toast.info('Mock 이미지를 업로드하는 중...');
+      toast('Mock 이미지를 업로드하는 중...', { icon: 'ℹ️' });
       
       const mockSlides: HeroSlide[] = [
         {
