@@ -57,7 +57,22 @@ export default function GeneralSettingsPage() {
 
   useEffect(() => {
     if (siteSettings) {
-      setFormData(siteSettings);
+      setFormData({
+        site_name: siteSettings.site_name,
+        tagline: siteSettings.tagline,
+        logo: siteSettings.logo || '',
+        logo_dark: siteSettings.logo_dark || '',
+        favicon: siteSettings.favicon || '',
+        company_info: siteSettings.company_info,
+        social_links: {
+          facebook: siteSettings.social_links?.facebook || '',
+          instagram: siteSettings.social_links?.instagram || '',
+          youtube: siteSettings.social_links?.youtube || '',
+          blog: siteSettings.social_links?.blog || '',
+          kakao: siteSettings.social_links?.kakao || ''
+        },
+        footer_config: siteSettings.footer_config
+      });
     }
   }, [siteSettings]);
 

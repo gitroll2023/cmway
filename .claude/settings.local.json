@@ -34,7 +34,9 @@
       "mcp__ide__executeCode",
       "Bash(npm install:*)",
       "Bash(rm:*)",
-      "Bash(claude config --help)"
+      "Bash(claude config --help)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
