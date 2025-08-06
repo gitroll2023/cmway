@@ -51,7 +51,7 @@ export function Header() {
   const [isHovered, setIsHovered] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const [activeSubmenu, setActiveSubmenu] = useState<number | null>(null)
-  const [mounted, setMounted] = useState(false)
+  const [, setMounted] = useState(false)
   const { siteSettings } = useCMSStore()
   const pathname = usePathname()
   

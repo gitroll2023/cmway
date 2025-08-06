@@ -20,7 +20,9 @@ interface Contact {
   email?: string
   subject: string
   message: string
-  status: 'new' | 'in_progress' | 'completed'
+  inquiry_type: string
+  company?: string
+  status: 'new' | 'replied' | 'resolved' | 'archived'
   created_at: string
   response?: string
   responded_at?: string
@@ -116,7 +118,7 @@ export function ContactInquiriesTable({ page, status, search }: ContactInquiries
     setDialogOpen(true)
   }
 
-  const handleUpdateStatus = async (newStatus: 'pending' | 'responded' | 'closed') => {
+  const handleUpdateStatus = async (newStatus: 'new' | 'replied' | 'resolved' | 'archived') => {
     if (!selectedContact) return
 
     try {
@@ -146,11 +148,11 @@ export function ContactInquiriesTable({ page, status, search }: ContactInquiries
 
   const getStatusBadge = (status: string) => {
     const variants = {
-      pending: { variant: 'secondary' as const, label: '대기중', icon: Clock },
-      responded: { variant: 'default' as const, label: '답변완료', icon: CheckCircle },
+      new: { variant: 'secondary' as const, label: '신규', icon: Clock },
+      replied: { variant: 'default' as const, label: '답변완료', icon: CheckCircle },
       closed: { variant: 'outline' as const, label: '종료', icon: XCircle }
     }
-    const config = variants[status as keyof typeof variants] || variants.pending
+    const config = variants[status as keyof typeof variants] || variants.new
     const IconComponent = config.icon
     
     return (
@@ -215,8 +217,8 @@ export function ContactInquiriesTable({ page, status, search }: ContactInquiries
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">모든 상태</SelectItem>
-              <SelectItem value="pending">대기중</SelectItem>
-              <SelectItem value="responded">답변완료</SelectItem>
+              <SelectItem value="new">신규</SelectItem>
+              <SelectItem value="replied">답변완료</SelectItem>
               <SelectItem value="closed">종료</SelectItem>
             </SelectContent>
           </Select>
@@ -401,7 +403,7 @@ export function ContactInquiriesTable({ page, status, search }: ContactInquiries
               </div>
 
               {/* Response Section */}
-              {selectedContact.status === 'pending' && (
+              {selectedContact.status === 'new' && (
                 <div className="space-y-3 border-t pt-6">
                   <h3 className="font-semibold text-lg">답변 작성</h3>
                   <div className="space-y-2">
@@ -442,10 +444,10 @@ export function ContactInquiriesTable({ page, status, search }: ContactInquiries
               닫기
             </Button>
             
-            {selectedContact?.status === 'pending' && (
+            {selectedContact?.status === 'new' && (
               <>
                 <Button
-                  onClick={() => handleUpdateStatus('responded')}
+                  onClick={() => handleUpdateStatus('replied')}
                   disabled={updating || !response.trim()}
                   className="gap-2"
                 >
@@ -455,9 +457,9 @@ export function ContactInquiriesTable({ page, status, search }: ContactInquiries
               </>
             )}
             
-            {selectedContact?.status === 'responded' && (
+            {selectedContact?.status === 'replied' && (
               <Button
-                onClick={() => handleUpdateStatus('closed')}
+                onClick={() => handleUpdateStatus('resolved')}
                 disabled={updating}
                 variant="outline"
                 className="gap-2"

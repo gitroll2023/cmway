@@ -16,6 +16,18 @@ import type {
   Translation
 } from './types/cms'
 
+// Default empty objects for error handling
+const DEFAULT_SITE_SETTINGS: SiteSettings = {
+  id: '', site_name: { ko: '', en: '' }, tagline: { ko: '', en: '' },
+  company_info: { name: '', ceo: '', business_number: '', online_business_number: '', address: { ko: '', en: '' }, phone: '', fax: '', email: '', customer_center: { phone: '', hours: '', lunch: '', holiday: '' } },
+  seo_config: { default_title: '', title_template: '', default_description: '', default_keywords: [], robots: '', canonical_domain: '' },
+  og_config: { og_type: 'website', og_site_name: '', twitter_card: 'summary', twitter_handle: '' },
+  social_links: {}, integrations: {},
+  footer_config: { copyright: '', show_family_sites: false, show_certifications: false, show_payment_methods: false },
+  design_tokens: { colors: { primary: '', secondary: '', accent: '', success: '', warning: '', error: '' }, fonts: { heading: '', body: '', code: '' }, animations: { enable_scroll: false, enable_hover: false, enable_page_transition: false } },
+  maintenance: { enabled: false, message: '' }, created_at: '', updated_at: ''
+};
+
 // ============================================================================
 // SITE SETTINGS
 // ============================================================================
@@ -46,7 +58,7 @@ export const siteSettings = {
       
       return createResponse(settings)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_SITE_SETTINGS, error)
     }
   },
 
@@ -74,7 +86,7 @@ export const siteSettings = {
       
       return createResponse(settings)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse(DEFAULT_SITE_SETTINGS, error)
     }
   }
 }
@@ -128,7 +140,7 @@ export const pages = {
       const pagesList = data as unknown as Page[]
       cache.set(cacheKey, pagesList)
       
-      return createResponse(pagesList, null, count)
+      return createResponse(pagesList, null, count || undefined)
     } catch (error) {
       return createResponse([], error)
     }
@@ -1127,7 +1139,6 @@ export const banners = {
         .from('banners')
         .insert({
           ...bannerData,
-          analytics: { impressions: 0, clicks: 0, conversion_rate: 0 },
           created_at: new Date().toISOString(),
           updated_at: new Date().toISOString()
         })
@@ -1478,7 +1489,7 @@ export const consultations = {
 
       if (error) throw error
 
-      return createResponse(data || [], null, count)
+      return createResponse(data || [], null, count || undefined)
     } catch (error) {
       return createResponse([], error)
     }
@@ -1611,7 +1622,7 @@ export const contacts = {
 
       if (error) throw error
 
-      return createResponse(data || [], null, count)
+      return createResponse(data || [], null, count || undefined)
     } catch (error) {
       return createResponse([], error)
     }

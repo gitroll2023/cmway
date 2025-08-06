@@ -50,8 +50,9 @@ export default function GeneralSettingsPage() {
     },
     footer_config: {
       copyright: '',
-      show_social_links: true,
-      show_customer_center: true
+      show_family_sites: true,
+      show_certifications: true,
+      show_payment_methods: true
     }
   });
 

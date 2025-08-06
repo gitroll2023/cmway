@@ -20,7 +20,11 @@ const StoreMapClient = ({ stores, selectedStore, onStoreSelect, className = '' }
 
     const initMap = async () => {
       const L = (await import('leaflet')).default;
-      await import('leaflet/dist/leaflet.css');
+      // Import leaflet CSS dynamically to avoid TypeScript errors
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+      document.head.appendChild(link);
 
       // Fix for default markers
       delete (L.Icon.Default.prototype as any)._getIconUrl;

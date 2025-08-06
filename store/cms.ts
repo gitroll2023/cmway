@@ -41,8 +41,9 @@ interface SiteSettings {
   }
   footer_config: {
     copyright: string
-    show_social_links: boolean
-    show_customer_center: boolean
+    show_family_sites: boolean
+    show_certifications: boolean
+    show_payment_methods: boolean
   }
 }
 
@@ -106,8 +107,9 @@ const defaultSiteSettings: SiteSettings = {
   },
   footer_config: {
     copyright: '© 2025 CMWay Co., Ltd. All rights reserved.',
-    show_social_links: true,
-    show_customer_center: true
+    show_family_sites: true,
+    show_certifications: true,
+    show_payment_methods: true
   }
 }
 

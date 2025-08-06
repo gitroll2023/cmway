@@ -14,6 +14,7 @@ const defaultCategories = [
     description: '99.9% 고순도 클로로필a 원액 제품',
     image: '/images/chlorophyll-leaflet.jpg',
     hoverColor: 'hover:from-green-700/90 hover:to-green-900/90',
+    link: '/products?category=chlorophyll-liquid',
   },
   {
     id: 'cat-002',
@@ -22,6 +23,7 @@ const defaultCategories = [
     description: '간편하게 섭취하는 클로로필a 캡슐',
     image: '/mock/slide1.jpg',
     hoverColor: 'hover:from-emerald-700/90 hover:to-emerald-900/90',
+    link: '/products?category=chlorophyll-capsule',
   },
   {
     id: 'cat-003',
@@ -30,6 +32,7 @@ const defaultCategories = [
     description: '과학적으로 입증된 건강기능식품',
     image: '/mock/slide2.jpg',
     hoverColor: 'hover:from-blue-700/90 hover:to-blue-900/90',
+    link: '/products?category=health-functional',
   },
   {
     id: 'cat-004',
@@ -38,6 +41,7 @@ const defaultCategories = [
     description: '지속적인 연구를 통한 혁신 제품',
     image: '/mock/slide3.jpg',
     hoverColor: 'hover:from-purple-700/90 hover:to-purple-900/90',
+    link: '/products?category=research-products',
   },
 ];
 

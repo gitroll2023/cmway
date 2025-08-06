@@ -369,7 +369,7 @@ export async function incrementFAQFeedback(id: string, type: 'helpful_yes' | 'he
   if (data) {
     await supabase
       .from('faqs')
-      .update({ [type]: data[type] + 1 })
+      .update({ [type]: (data as any)[type] + 1 })
       .eq('id', id);
   }
 }

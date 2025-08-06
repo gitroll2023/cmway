@@ -46,6 +46,7 @@ export function ProductsSection({
   const defaultProducts = [
     {
       id: '1',
+      sku: 'PMV-001',
       name: { ko: '프리미엄 멀티비타민', en: 'Premium Multivitamin' },
       slug: 'premium-multivitamin',
       short_description: { 
@@ -53,13 +54,24 @@ export function ProductsSection({
         en: 'Complete daily vitamin in one capsule' 
       },
       pricing: { price_text: '상담 후 안내', is_price_visible: false },
-      media: { featured_image: undefined, gallery: [] },
+      media: { featured_image: undefined, gallery: [], videos: [], documents: [] },
+      quality: { gmp_certified: true, haccp_certified: true, organic_certified: false, other_certifications: [] },
+      seo: {},
+      inquiry_settings: { enable_inquiry: true, inquiry_button_text: '문의하기', show_kakao_chat: true, show_phone_number: true },
+      related_products: { cross_sells: [], up_sells: [], frequently_bought: [] },
+      status: 'published' as const,
+      stats: { view_count: 0, inquiry_count: 0, brochure_download_count: 0 },
+      custom_fields: {},
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString(),
       featured: true,
       is_new: true,
+      is_best: false,
       category_ids: ['vitamins']
     },
     {
-      id: '2', 
+      id: '2',
+      sku: 'OMG-002', 
       name: { ko: '오메가-3 프리미엄', en: 'Premium Omega-3' },
       slug: 'premium-omega-3',
       short_description: { 
@@ -67,13 +79,24 @@ export function ProductsSection({
         en: 'High concentration EPA/DHA Omega-3' 
       },
       pricing: { price_text: '상담 후 안내', is_price_visible: false },
-      media: { featured_image: undefined, gallery: [] },
+      media: { featured_image: undefined, gallery: [], videos: [], documents: [] },
+      quality: { gmp_certified: true, haccp_certified: true, organic_certified: false, other_certifications: [] },
+      seo: {},
+      inquiry_settings: { enable_inquiry: true, inquiry_button_text: '문의하기', show_kakao_chat: true, show_phone_number: true },
+      related_products: { cross_sells: [], up_sells: [], frequently_bought: [] },
+      status: 'published' as const,
+      stats: { view_count: 0, inquiry_count: 0, brochure_download_count: 0 },
+      custom_fields: {},
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString(),
       featured: true,
       is_new: false,
+      is_best: false,
       category_ids: ['omega']
     },
     {
       id: '3',
+      sku: 'PRO-003',
       name: { ko: '프로바이오틱스 플러스', en: 'Probiotics Plus' },
       slug: 'probiotics-plus',
       short_description: { 
@@ -81,18 +104,80 @@ export function ProductsSection({
         en: 'Beneficial bacteria for gut health' 
       },
       pricing: { price_text: '상담 후 안내', is_price_visible: false },
-      media: { featured_image: undefined, gallery: [] },
+      media: { featured_image: undefined, gallery: [], videos: [], documents: [] },
+      quality: { gmp_certified: true, haccp_certified: true, organic_certified: false, other_certifications: [] },
+      seo: {},
+      inquiry_settings: { enable_inquiry: true, inquiry_button_text: '문의하기', show_kakao_chat: true, show_phone_number: true },
+      related_products: { cross_sells: [], up_sells: [], frequently_bought: [] },
+      status: 'published' as const,
+      stats: { view_count: 0, inquiry_count: 0, brochure_download_count: 0 },
+      custom_fields: {},
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString(),
       featured: true,
       is_new: false,
+      is_best: false,
       category_ids: ['probiotics']
     }
   ] as Product[]
 
   const defaultCategories = [
-    { id: 'all', name: { ko: '전체', en: 'All' }, slug: 'all' },
-    { id: 'vitamins', name: { ko: '비타민', en: 'Vitamins' }, slug: 'vitamins' },
-    { id: 'omega', name: { ko: '오메가-3', en: 'Omega-3' }, slug: 'omega' },
-    { id: 'probiotics', name: { ko: '프로바이오틱스', en: 'Probiotics' }, slug: 'probiotics' }
+    { 
+      id: 'all', 
+      name: { ko: '전체', en: 'All' }, 
+      slug: 'all',
+      meta: {},
+      display_settings: { show_in_menu: true, show_in_homepage: true, show_in_footer: false, featured: false },
+      layout_settings: { products_per_page: 12, default_view: 'grid' as const, show_filters: true, show_sorting: true },
+      custom_fields: {},
+      position: 0,
+      level: 0,
+      is_active: true,
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString()
+    },
+    { 
+      id: 'vitamins', 
+      name: { ko: '비타민', en: 'Vitamins' }, 
+      slug: 'vitamins',
+      meta: {},
+      display_settings: { show_in_menu: true, show_in_homepage: true, show_in_footer: false, featured: true },
+      layout_settings: { products_per_page: 12, default_view: 'grid' as const, show_filters: true, show_sorting: true },
+      custom_fields: {},
+      position: 1,
+      level: 0,
+      is_active: true,
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString()
+    },
+    { 
+      id: 'omega', 
+      name: { ko: '오메가-3', en: 'Omega-3' }, 
+      slug: 'omega',
+      meta: {},
+      display_settings: { show_in_menu: true, show_in_homepage: true, show_in_footer: false, featured: true },
+      layout_settings: { products_per_page: 12, default_view: 'grid' as const, show_filters: true, show_sorting: true },
+      custom_fields: {},
+      position: 2,
+      level: 0,
+      is_active: true,
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString()
+    },
+    { 
+      id: 'probiotics', 
+      name: { ko: '프로바이오틱스', en: 'Probiotics' }, 
+      slug: 'probiotics',
+      meta: {},
+      display_settings: { show_in_menu: true, show_in_homepage: true, show_in_footer: false, featured: true },
+      layout_settings: { products_per_page: 12, default_view: 'grid' as const, show_filters: true, show_sorting: true },
+      custom_fields: {},
+      position: 3,
+      level: 0,
+      is_active: true,
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString()
+    }
   ] as Category[]
 
   const displayProducts = products.length > 0 ? products : defaultProducts
