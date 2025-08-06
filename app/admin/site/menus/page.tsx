@@ -100,7 +100,33 @@ export default function MenusPage() {
 
       if (error) throw error
 
-      setMenus(data || [])
+      // Convert database data to Menu type
+      const formattedMenus = (data || []).map(menu => ({
+        ...menu,
+        menu_location: menu.menu_location as 'header' | 'footer' | 'mobile' | 'sidebar',
+        parent_id: menu.parent_id || undefined,
+        title: menu.title || { ko: '', en: '' },
+        url: menu.url || undefined,
+        url_type: menu.url_type || 'internal',
+        target: menu.target || '_self',
+        icon: menu.icon || undefined,
+        badge_text: menu.badge_text || undefined,
+        badge_color: menu.badge_color || undefined,
+        css_class: menu.css_class || undefined,
+        is_mega_menu: menu.is_mega_menu || false,
+        mega_menu_columns: menu.mega_menu_columns || 1,
+        mega_menu_content: menu.mega_menu_content || undefined,
+        visibility_rules: menu.visibility_rules || {
+          show_logged_in: true,
+          show_logged_out: true,
+          required_roles: [],
+          hide_on_mobile: false
+        },
+        position: menu.position || 0,
+        is_active: menu.is_active ?? true
+      })) as Menu[]
+      
+      setMenus(formattedMenus)
     } catch (error: any) {
       console.error('Error loading menus:', error)
       toast.error('메뉴를 불러오는데 실패했습니다.')
