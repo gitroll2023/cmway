@@ -234,7 +234,33 @@ export default function ProductsListPage() {
 
       if (error) throw error
 
-      setCategories(data || [])
+      // Convert null values to undefined for TypeScript compatibility
+      const formattedCategories = (data || []).map(cat => ({
+        ...cat,
+        parent_id: cat.parent_id || undefined,
+        name: cat.name || { ko: '', en: '' },
+        description: cat.description || undefined,
+        thumbnail: cat.thumbnail || undefined,
+        banner_image: cat.banner_image || undefined,
+        icon: cat.icon || undefined,
+        meta: cat.meta || {},
+        display_settings: cat.display_settings || {
+          show_in_menu: true,
+          show_in_homepage: false,
+          show_in_footer: false,
+          featured: false
+        },
+        layout_settings: cat.layout_settings || {
+          products_per_page: 12,
+          default_view: 'grid',
+          show_filters: true,
+          show_sorting: true
+        },
+        custom_fields: cat.custom_fields || {},
+        path: cat.path || undefined
+      })) as Category[]
+      
+      setCategories(formattedCategories)
     } catch (error: any) {
       console.error('Error loading categories:', error)
     }
