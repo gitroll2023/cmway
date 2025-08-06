@@ -95,10 +95,9 @@ export default function NewsPage({ searchParams }: NewsPageProps) {
   }
 
   const getCategoryInfo = (page: Page) => {
-    // Try to extract category from meta or slug
-    const category = page.meta?.category || 
-                    (page.slug.includes('notice') ? 'notice' : 
-                     page.slug.includes('event') ? 'event' : 'news')
+    // Try to extract category from slug
+    const category = page.slug.includes('notice') ? 'notice' : 
+                    page.slug.includes('event') ? 'event' : 'news'
     const categoryInfo = categories.find(cat => cat.id === category) || categories[2]
     return categoryInfo
   }
