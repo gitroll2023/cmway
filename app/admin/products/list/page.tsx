@@ -148,10 +148,71 @@ export default function ProductsListPage() {
         ...product,
         barcode: product.barcode || undefined,
         brand_id: product.brand_id || undefined,
-        category_ids: product.category_ids || undefined,
-        slug: product.slug || undefined,
-        thumbnail: product.thumbnail || undefined,
-        video_url: product.video_url || undefined
+        primary_category_id: product.primary_category_id || undefined,
+        category_ids: product.category_ids || [],
+        slug: product.slug || '',
+        // Parse pricing from Json to proper structure
+        pricing: product.pricing ? (typeof product.pricing === 'string' 
+          ? JSON.parse(product.pricing) 
+          : product.pricing) : {
+          display_price: undefined,
+          price_text: '문의',
+          is_price_visible: true
+        },
+        // Parse media from Json to proper structure
+        media: product.media ? (typeof product.media === 'string'
+          ? JSON.parse(product.media)
+          : product.media) : {
+          featured_image: undefined,
+          gallery: [],
+          videos: [],
+          "360_view": undefined,
+          documents: []
+        },
+        // Parse other Json fields
+        name: product.name || { ko: '', en: '' },
+        short_description: product.short_description || undefined,
+        description: product.description || undefined,
+        features: product.features || undefined,
+        benefits: product.benefits || undefined,
+        usage: product.usage || undefined,
+        specifications: product.specifications || undefined,
+        ingredients: product.ingredients || undefined,
+        nutrition_facts: product.nutrition_facts || undefined,
+        certifications: product.certifications || undefined,
+        quality: product.quality ? (typeof product.quality === 'string'
+          ? JSON.parse(product.quality)
+          : product.quality) : {
+          gmp_certified: false,
+          haccp_certified: false,
+          organic_certified: false,
+          other_certifications: []
+        },
+        seo: product.seo || undefined,
+        inquiry_settings: product.inquiry_settings ? (typeof product.inquiry_settings === 'string'
+          ? JSON.parse(product.inquiry_settings)
+          : product.inquiry_settings) : {
+          enable_inquiry: true,
+          inquiry_button_text: '문의하기',
+          show_kakao_chat: false,
+          show_phone_number: false
+        },
+        related_products: product.related_products ? (typeof product.related_products === 'string'
+          ? JSON.parse(product.related_products)
+          : product.related_products) : {
+          cross_sells: [],
+          up_sells: [],
+          frequently_bought: []
+        },
+        stats: product.stats ? (typeof product.stats === 'string'
+          ? JSON.parse(product.stats)
+          : product.stats) : {
+          view_count: 0,
+          inquiry_count: 0,
+          brochure_download_count: 0
+        },
+        custom_fields: product.custom_fields || undefined,
+        published_at: product.published_at || undefined
       })) as Product[]
 
       setProducts(formattedProducts)
