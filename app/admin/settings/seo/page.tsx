@@ -35,13 +35,9 @@ export default function SEOSettingsPage() {
   });
 
   useEffect(() => {
-    if (siteSettings?.seo) {
-      setSeoData({
-        ...seoData,
-        ...siteSettings.seo
-      });
-      setKeywords(siteSettings.seo.keywords || []);
-    }
+    // SEO settings would normally come from the database
+    // For now, using default values
+    // TODO: Implement SEO settings in SiteSettings type or fetch from database
   }, [siteSettings]);
 
   const handleAddKeyword = () => {
