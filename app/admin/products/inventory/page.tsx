@@ -75,6 +75,8 @@ const mockProducts: InventoryItem[] = [
       inquiry_count: 0,
       brochure_download_count: 0
     },
+    seo: {},
+    custom_fields: {},
     created_at: new Date().toISOString(),
     updated_at: new Date().toISOString()
   },
@@ -125,6 +127,8 @@ const mockProducts: InventoryItem[] = [
       inquiry_count: 0,
       brochure_download_count: 0
     },
+    seo: {},
+    custom_fields: {},
     created_at: new Date().toISOString(),
     updated_at: new Date().toISOString()
   },
@@ -175,6 +179,8 @@ const mockProducts: InventoryItem[] = [
       inquiry_count: 0,
       brochure_download_count: 0
     },
+    seo: {},
+    custom_fields: {},
     created_at: new Date().toISOString(),
     updated_at: new Date().toISOString()
   }
