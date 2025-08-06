@@ -1560,7 +1560,7 @@ export const consultations = {
 
       return createResponse(data)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse({}, error)
     }
   },
 
@@ -1583,7 +1583,7 @@ export const consultations = {
 
       return createResponse(data)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse({}, error)
     }
   },
 
@@ -1693,7 +1693,7 @@ export const contacts = {
 
       return createResponse(data)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse({}, error)
     }
   },
 
@@ -1716,7 +1716,7 @@ export const contacts = {
 
       return createResponse(data)
     } catch (error) {
-      return createResponse(null, error)
+      return createResponse({}, error)
     }
   },
 
