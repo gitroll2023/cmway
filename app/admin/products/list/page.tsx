@@ -143,7 +143,18 @@ export default function ProductsListPage() {
 
       if (error) throw error
 
-      setProducts(data || [])
+      // Convert null values to undefined for TypeScript compatibility
+      const formattedProducts = (data || []).map(product => ({
+        ...product,
+        barcode: product.barcode || undefined,
+        brand_id: product.brand_id || undefined,
+        category_ids: product.category_ids || undefined,
+        slug: product.slug || undefined,
+        thumbnail: product.thumbnail || undefined,
+        video_url: product.video_url || undefined
+      })) as Product[]
+
+      setProducts(formattedProducts)
     } catch (error: any) {
       console.error('Error loading products:', error)
       toast.error('제품을 불러오는데 실패했습니다.')
