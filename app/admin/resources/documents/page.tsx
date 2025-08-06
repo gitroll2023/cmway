@@ -241,7 +241,7 @@ export default function DocumentsPage() {
   const uploadInitialFiles = async () => {
     try {
       setLoading(true);
-      toast.info('파일들을 업로드하는 중...');
+      toast('파일들을 업로드하는 중...', { icon: 'ℹ️' });
 
       // 카테고리 생성
       const categories = [

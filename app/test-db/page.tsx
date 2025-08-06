@@ -15,7 +15,7 @@ export default function TestDBPage() {
       
       try {
         // Test products table
-        console.log('Fetching products...')
+        // Fetching products...
         const { data: productsData, error: productsError } = await supabase
           .from('products')
           .select('*')
@@ -24,12 +24,12 @@ export default function TestDBPage() {
           console.error('Products error:', productsError)
           setError(`Products error: ${productsError.message}`)
         } else {
-          console.log('Products data:', productsData)
+          // Products data fetched
           setProducts(productsData || [])
         }
 
         // Test categories table
-        console.log('Fetching categories...')
+        // Fetching categories...
         const { data: categoriesData, error: categoriesError } = await supabase
           .from('categories')
           .select('*')
@@ -38,7 +38,7 @@ export default function TestDBPage() {
           console.error('Categories error:', categoriesError)
           setError(prev => prev + `\nCategories error: ${categoriesError.message}`)
         } else {
-          console.log('Categories data:', categoriesData)
+          // Categories data fetched
           setCategories(categoriesData || [])
         }
       } catch (err) {
