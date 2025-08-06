@@ -12,7 +12,19 @@ import { Textarea } from '@/components/ui/textarea'
 import { Label } from '@/components/ui/label'
 import { toast } from '@/hooks/use-toast'
 import { contacts } from '@/lib/cms'
-import { Contact } from '@/lib/types/cms'
+// Contact type is defined locally
+interface Contact {
+  id: string
+  name: string
+  phone: string
+  email?: string
+  subject: string
+  message: string
+  status: 'new' | 'in_progress' | 'completed'
+  created_at: string
+  response?: string
+  responded_at?: string
+}
 import { 
   Search, 
   Filter,
