@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "supabase": {
+      "type": "stdio",
+      "command": "bash",
+      "args": [
+        "-c",
+        "SUPABASE_ACCESS_TOKEN=sbp_v0_1571034a1e85c924287a9ae1cd5fdcf8fbd01165 npx -y @supabase/mcp-server-supabase@latest --project-ref=dautcoqzqdmkfaafxfqt"
+      ]
+    },
+    "playwright": {
+      "type": "stdio",
+      "command": "bash",
+      "args": [
+        "-c",
+        "npx -y @playwright/mcp@latest"
+      ]
+    }
+  }
+}

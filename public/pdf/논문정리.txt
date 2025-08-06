@@ -1,0 +1,1951 @@
+클로로필a 논문 정리
+
+
+-, [산화환원반응, 세포 보호]
+   Chlorophyll, chlorophyllin and related tetrapyrroles are significant inducers 
+   of mammalian phase 2 cytoprotective genes.
+   클로로필, 클로로필린 및 관련 테트라피롤은
+   포유동물 위상 2 세포방어 유전인자의 중요한 유도물질이다..................................................6
+
+-, [림프 백혈병, Molt 4B세포 성장억제, 항종양 및 세포자멸사 유도작용]
+   Pheophorbide a, a moiety of chlorophyll a, induces apoptosis 
+   in human lymphoid leukemia molt 4B cells.
+   인간 림프성 백혈병 탈피 4B 세포에 있어서 세포자멸사를 유도하는
+   엽록소 a의 일부분, Pheophorbide a............................................................................... 7
+
+-, [암 방사선감작치료, 발암 억제제, 혈청 알부민]
+   Human serum albumin complexes with chlorophyll and chlorophyllin.
+   인간 혈청 알부민 복합체는 클로로필 및 클로로필린과 일치한다........................................... 8
+
+-, [핵산결합체, 암 방사선감작치료]
+   RNA adducts with chlorophyll and chlorophyllin: stability and structural features.
+   엽록소 및 클로로필린과 같은 RNA 부과물 : 안전성 및 구조상의 특징................................... 10
+
+-, [단백질결합체, 암 방사선감작치료,, 발암 억제제]
+   DNA adducts with chlorophyll and chlorophyllin as antimutagenic agents: 
+   synthesis, stability, and structural features. 
+   항돌연변이 제제처럼 엽록소 및 클로로필린과 같은 DNA 부과물 : 
+   합성, 안전성 및 구조상의 특징......................................................................................... 12 
+
+-, [유전자독성 제어]
+   Chlorophyll and chlorophyllin as modifiers of genotoxic effects.
+   유전자독성 영향의 변경인자로서의 클로로필 및 클로로필린................................................. 14
+
+-, [돌연변이유발 및 종양증식억제작용, 종양조직 억제작용, 골수종양 세포의 증식의 흡수와 억제작용]
+   Effect of dietary chlorophyll derivatives on mutagenesis and tumor cell growth.
+   돌연변이유발 및 종양 세포 증식에 식이성 엽록소 유도체의 효능.......................................... 15
+
+-, [항유전독성, 항돌연변이, 항발암]
+   Antigenotoxic activity of natural chlorophylls.
+   천연 엽록소의 항유전독성 활동........................................................................................ 17
+
+-, [항암제 유전자독성, 항돌연변이]
+   Effect of selected antimutagens on the genotoxicity of antitumor agents.
+   항암제의 유전자독성에 대하여 선택된 항돌연변이 물질의 효능............................................ 18
+
+-, [혈청 단백분해효소 억제제]
+   The effects of intravenously administered chlorophyll-A 
+   on naturally occurring serum protease inhibitors in rabbits.
+   토끼에 있어서 혈청 단백분해효소 억제제로 생각되는 예상대로
+   정맥주사로 투여한 클로로필a의 효능................................................................................ 20
+
+-, [결장직장암, 대장암]
+   Heme and chlorophyll intake and risk of colorectal cancer in the Netherlands cohort study.
+   네덜란드 코호트연구에 있어서 헴 및 엽록소 섭취와 직장결장암의 위험................................. 21
+
+-, [후두, 후두인두 종양, 목 림프절, 식도암종]
+   Application of chlorophyll in the cervical lymph nodes dissection 
+   of laryngeal and hypopharyngeal carcinomas. 
+   후두 및 hypopharyngeal 악성종양의 경구 림프 혹 절개에 있어서 엽록소의 효과.................... 22
+
+-, [인간 장 세포에 의한 엽록소유도체의 흡수, 식물내재영양소]
+   Assessment of degradation and intestinal cell uptake of carotenoids and chlorophyll          derivatives from spinach puree using an in vitro digestion and Caco-2 human cell model.
+   시험관내 침지와 Caco-2 인간 세포 모델을 사용한 실험에서 시금치 퓌레에서 유도된
+   카로티노이드와 클로로필의 섭취에 따른 분해 및 장 세포의 평가........................................ 24
+
+-, [발암억제, 결장암]
+   Promotion versus suppression of rat colon carcinogenesis by chlorophyllin and chlorophyll: 
+   modulation of apoptosis, cell proliferation, and beta-catenin/Tcf signaling. 
+   클로로필린 및 클로로필에 의한 쥐 결장 발암현상의 촉진 억제:
+   세포사멸의 조절, 세포증식, 그리고 베타-카테닌/Tcf 신호.................................................... 26
+
+-, [항돌연변이작용, 디벤조피렌,]
+   Chemoprotection by natural chlorophylls in vivo: 
+   inhibition of dibenzo[a,l]pyrene-DNA adducts in rainbow trout liver.
+   in vivo 실험에서 천연 엽록소에 의한 보호작용 :
+   무지개송어의 간에서 dibenzo[a,l]pyrene-DNA의 부가생성물을 억제................................... 28
+
+-, [독성 헴 형성 억제, 유해물질, 독성물질, 결장 상피이상증식 억제, 결장암]
+   Green vegetables, red meat and colon cancer: chlorophyll prevents the cytotoxic and
+   hyperproliferative effects of haem in rat colon
+   푸른 채소, 붉은 육류 그리고 결장암 :
+   쥐 결장 내 헴에 발생하는 독성물질과 이상증식을 엽록소로 예방할 수 있다......................... 30
+
+-, [관강내 독성 억제작용, 결장 이식증식억제작용]
+   Natural Chlorophyll but Not Chlorophyllin Prevents Heme-Induced Cytotoxic and
+   Hyperproliferative Effects in Rat Colon1,2
+   쥐 결장에서 헴으로 인한 세포화학적독소 및
+   이상증식작용을 클로로필린이 아닌 천연엽록소가 예방...................................................... 32
+
+-, [결장암]
+(클로로필(엽록소)가 효과 클로로필린은 효과 없음)
+   Green vegetables and colon cancer: the mechanism of a protective effect by chlorophyll.
+   녹색 채소와 결장암: 엽록소에 의한 보호 효과 메커니즘.................................................... 34
+
+-, [항돌연변이]
+   Antimutagenic activities of common vegetables and their chlorophyll content.
+   일반적인 채소 및 그것들의 엽록소 내용물의 항 돌연변이성 활동........................................ 36
+
+-, [aflatoxin B1, fumonisin B1, 수퍼옥사이드, mycotoxin]
+   Dietary strategies to counteract the effects of mycotoxins: a review.
+   진균 독성의 영향을 상쇄시키는 식이 전략........................................................................ 37
+
+-, [암예방, 암치료, 발암억제]
+   Effect of dietary phytochemicals on cancer development (review)
+   암 성장에 있어 식이성 피토케미칼의 영향........................................................................ 38
+
+-, [항 돌연변이작용, 항암작용, 피부암 억제]
+   Potent suppressive activity of chlorophyll a and b from green tea (Camellia sinensis)
+   against tumor promotion in mouse skin
+   쥐 피부에 있어 암 증식을 막는 녹차에서 추출한 엽록소 a, b의 강력한 억제 작용................ 39
+
+-, [만성 췌장염]
+   Therapeutic effect of chlorophyll-a in the treatment of patients with chronic pancreatitis.
+   만성적인 췌장염 같은 환자의 치료에 있어서 클로로필a의 치료상의 효과............................ 41
+
+-, [상처치료]
+   Chlorophyll and wound healing : Experimental and clinical study
+   엽록소와 상처 치료 ; 실험에 입각한 임상 연구................................................................ 42
+
+-, [상처치료]
+   Chlorophyll : An experimental study of its water soluble derivatives in wound healing 
+   엽록소 : 수용성 유도체의 상처 치료 실험 연구................................................................ 43
+
+-, [화농성 질환, 상처치료]
+   Chlorophyll in wound healing and suppurative disease
+   화농성의 질환과 상처 치료에 있어서의 엽록소.................................................................. 44
+
+-, [급성 또는 만성 화농성 질환]
+   Chlorophyll - Its therapeutic place in acute and suppurative disease :
+   Preliminary report of clinical use and rationale
+   엽록소 - 급성 화농성질환에 있어서의 치료적 의미 : 
+             임상적 사용과 이론적 근거의 예비적인 보고 .................................................... 45
+
+-, [화상 치료]
+   Chlorophyll and adrenal cortical extract in the local treatment of burns 
+   화상의 국소적인 치료에 있어서의 엽록소와 부신 피질 추출물............................................. 46
+
+-, [상처치료 촉진, 소양증, 통증 제거, 직장(항문)의 상태에 따라 수술 전,후 치료]
+   Role of chlorophyll in proctology
+   직장(항문)병학에 있어서 엽록소의 역할........................................................................... 47
+
+-, [만성궤양]
+   Treatment of chronic ulcers with chlorophyll : Review of a series of fifty cases 
+   엽록소로 만성 궤양의 치료 : 일련의 50 사례의 리뷰........................................................ 48
+
+-, [만성 골수염, 만성 궤양]
+   Clinical experiences with chlorophyll preparations :
+   With particular reference to chronic osteomyelitis and chronic ulcers
+   조제 엽록소 사용한 임상 경험: 만성 골수염 및 만성 궤양에 대한 특별한 관계에 관하여 ................................................................................................................................ 49
+
+-, [각종 궤양. 괴저 상처 치료]
+   Papain-chlorophyll-urea ointment in surgery
+   외과에 있어 파파인-엽록소-요소 연고............................................................................ 50
+
+-, [구강 패혈증]
+   The use of water soluble chlorophyll in oral sepsis : An experimental study of 300 cases
+   구강 패혈증에 있어서의 수용성 엽록소의 사용 : 300 사례의 실험에 의거한 연구.................. 51
+
+-, [여드름]
+   Chlorophyll in the treatment of acne vulgaris.
+   여드름을 치료하는 엽록소...............................................................................................52
+
+-, [인간의 2형 당뇨병, 비만치료]
+   The chlorophyll-derived metabolite phytanic acid induces white adipocyte differentiation.
+   엽록소유도체인 피탄산이 백색지방 분화를 유도한다...........................................................53
+
+
+
+
+
+
+
+
+-, [2형 당뇨병]
+   The chlorophyll metabolite phytanic acid is a natural rexinoid--potential
+   for treatment and prevention of diabetes.
+   엽록소 대사산물인 피탄산은 천연의 rexinoid--당뇨병 치료와 예방에의 가능성.................... 54
+
+-, [고아밀라아제혈증, 급성 췌장염]
+   Effect of chlorophyll-a, fluorouracil, and pituitrin on experimental acute pancreatitis.
+   실험적 급성 췌장염에 끼치는 chlorophyll-a, fluorouracil, 및 pituitrin의 효과....................... 55
+
+-, [2형 당뇨병, 당대사, 인슐린내성관리]
+   Phytanic acid, a natural peroxisome proliferator-activated receptor (PPAR) agonist,
+   regulates glucose metabolism in rat primary hepatocytes.
+   쥐의 단일 간세포에서 천연 퍼옥시좀 증식체 활성화 수용체-감마 효능제인
+   피탄산이 당대사를 조절한다.......................................................................................... 56
+
+-, [살균작용, 그람음성균]
+   Synergistic action of photosensitizers and normal human serum in a bactericidal process.
+   I. Effect of chlorophylls.
+   살균과정에서 광민감 물질과 정상 인간 혈청의 상승 작용. I.엽록소의 효능.......................... 57
+
+-, [다이옥신, 체내 유해물질 배출,]
+   Promotive excretion of causative agents of Yusho by one year intake of FBRA in Japanese people.
+   일본인에서 일 년 간 FBRA섭취로 Yusho 원인물질의 배출자극.......................................... 58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(산화 환원 반응, 세포 보호)
+Carcinogenesis. 2005 Jul;26(7):1247-55. Epub 2005 Mar 17. 
+
+Chlorophyll, chlorophyllin and related tetrapyrroles are significant inducers
+of mammalian phase 2 cytoprotective genes.
+클로로필, 클로로필린 및 관련 테트라피롤은 포유동물 위상 2 세포방어 유전인자의 중요한 유도물질이다.
+
+Fahey JW, Stephenson KK, Dinkova-Kostova AT, Egner PA, Kensler TW, Talalay P. 
+Lewis B. and Dorothy Cullman Cancer Chemoprotection Center, Department of Pharmacology and Molecular Sciences, School of Medicine, Johns Hopkins University, Baltimore, MD 21205-2185, USA. jfahey@jhmi.edu
+
+
+Plant chlorophylls and carotenoids are highly colored, conjugated polyenes that play central roles in photosynthesis. Other porphyrins (tetrapyrroles), such as cytochromes, which are structurally related to chlorophyll, participate in redox reactions in many living systems. An unexpected new property of tetrapyrroles, including tetramethyl coproporphyrin III, tetrabenzoporphine, copper chlorin e4 ethyl ester, and of carotenoids including zeaxanthin and alpha-cryptoxanthin is their ability to induce mammalian phase 2 proteins that protect cells against oxidants and electrophiles. The capacity of these compounds to induce the phase 2 response depends upon their ability or that of their metabolites to react with thiol groups, a property shared with all other classes of phase 2 inducers, which show few other structural similarities. Pseudo second-order rate constants of these inducers are correlated with their potency in inducing the phase 2 enzyme NAD(P)H:quinone oxidoreductase 1 (NQO1) in murine hepatoma cells. One of the most potent inducers was isolated from chlorophyllin, a semisynthetic water-soluble chlorophyll derivative. Although chlorophyll itself is low in inducer potency, it may nevertheless account for some of the disease-protective effects attributed to diets rich in green vegetables because it occurs in much higher concentrations in those plants than the widely studied 'phytochemicals'.
+
+PMID: 15774490 [PubMed - indexed for MEDLINE]
+
+
+식물엽록소와 카로티노이드는 색이 짙고, 광합성에서 중심적 역할을 하는 복합폴리엔입니다. 엽록소와 구조적으로 연관되는 시토크롬 등의 포르피린(테트라피롤)은, 많은 생명계의 산화환원반응에 참여합니다. 테트라메틸 코프로포르피린 III, 구리염소 e4 에틸에스테르 등의 테트라피롤과, 지아잔틴, 알파-크립토크산틴 등의 카로티노이드의 예상치 못했던 새로운 특성은, 산화와 친전자성에 대해 세포를 보호하는 동물 2단계 단백질을 유도하는 능력입니다.
+2단계 반응을 이끌어내는 이 복합물의 최대능력은, 복합물의 능력 혹은 치올 기와 반응하는 복합물 대사산물의 능력에 달려있습니다. 모든 다른 종류의 2단계 유도제와 이 성질을 공유하지만, 다른 구조적 유사성은 거의 없습니다. 이 유도물질의 유사 2차속도 상수는, 2단계 효소 니코틴아미드 아데닌 디뉴클레오타이드 인(NAD(P)H)을 유도하는 능력과 관련 있습니다. NAD(P)H는 발진성 간암 세포내의 퀴논 산화·환원 효소(quinone oxidoreductase 1(NQO1))입니다. 반 합성 수용성엽록소 유도체인 클로로필린에서 가장 강력한 유도물질중 하나가 분리되었습니다. 널리 연구된 파이토케미칼(식물 생리활성영양소)보다도 식물 내에서의 엽록소 농도가 더 높기 때문에, 엽록소 자체의 유도 능력은 낮을지라도, 몇 가지 질병보호효과는 녹색 야채가 풍부한 식단덕택이라고 설명할 수도 있을 것입니다. 
+
+tetrapyrroles (테트라피롤)
+네개의 피롤(pyrrole) 핵을 포함하는 분자; 예를 들면 포르피린(porphyrin)
+
+
+
+
+[림프 백혈병, Molt 4B세포 성장억제, 항종양 및 세포자멸사 유도작용]
+
+Int J Mol Med. 2000 Sep;6(3):277-9.
+  
+Pheophorbide a, a moiety of chlorophyll a, induces apoptosis in human
+lymphoid leukemia molt 4B cells.
+인간 림프성 백혈병 탈피 4B 세포에 있어서 세포자멸사를 유도하는 엽록소 a의 일부분, Pheophorbide a
+
+Hibasami H, Kyohkon M, Ohwaki S, Katsuzaki H, Imai K, Nakagawa M, Ishi Y, Komiya T. 
+Faculty of Medicine, Mie University, Tsu-city, Mie 514-0001, Japan.
+
+
+The exposure of human lymphoid leukemia Molt 4B cells to pheophorbide a (PPB a), a moiety of chlorophyll a, led both to growth inhibition and induction of programmed cell death (apoptosis). The growth inhibition by PPB a was much stronger than that by chlorophyll a. Morphological change showing apoptotic bodies was observed in the Molt 4B cells treated with PPB a. The fragmentation by PPB a of DNA to oligonucleosomal-sized fragments, that are characteristics of apoptosis, was observed to be concentration- and time-dependent. These findings suggest that growth inhibition by PPB a of Molt 4B cells results from the induction of apoptosis and that PPB a, moiety of chlorophyll a, is essential for exertion of antitumor and apoptosis-inducing activity in these cells.
+
+PMID: 10934289 [PubMed - indexed for MEDLINE]
+
+
+Molt 4B 인간 림프구성 백혈병세포를 엽록소의 일부분인 페오포르비드 a(PPB a)에 노출시키면 성장억제 및 세포예정사(세포자멸사)의 유도 모두가 일어납니다. PPB에 의한 성장억제는 엽록소a 보다 훨씬 더 강합니다. 아포프토시스 소체를 나타내는 형태변화가 PPB로 처리한 Molt 4B세포에서 관찰되었습니다. PPB에 의한 올리고뉴클레오좀 크기로의 DNA분열이 농도 및 시간에 따라 관찰되었으며 이것은 세포자멸사의 특징입니다. 이 결과는 Molt 4B세포내에서 세포자멸사의 유도로 PPB에 의한 Molt 4B세포의 성장억제라는 결과가 나오며, 엽록소의 일부분인 PPB a는 항종양 및 세포자멸사 유도작용을 하는데 필수적이라는 것을 나타냅니다. 
+
+
+apoptosis (세포자멸사, 아포프토시스)
+합목적적으로 발현되는 프로그램된 세포사를 말한다. 종래에는 세포사란 괴사 즉 화상 등으로 인하여 한무리의 세포가 죽는 것이라 이해되었으나 1972년 Kerr, Wylliie, Currie의 세 병리학자가 형태적으로 명백하게 다른 또 하나의 세포사를 발견하고 이를 아포푸토시스라고 정의했다. 그 뒤의 연구를 통해 발생단계에서 어느 특정세포가 일정시기, 장소, 순서에 의해죽어감으로써 정상적인 발생이 완료하는 것으로 알려졌으며 특별히 프로그램 세포라 부르는 때도 있다. 또한 가슴샘을 중심으로 하는 면역계의 발달과정에서도 이 세포사는 매우 중요한 역할을 한다는 점, 여러 가지 병과의 관련에 있어서 유전자 수준의 해석을 통한 암관련 유전자, 증식유전자 등과의 복잡한 관련도 알려져 있다. 형태적으로 괴사는 세포전체나 사립체가 서서히 팽창되고 세포질의 변화가 선행되며 최종적으로 세포막의 파괴가 일어나는데 비해, 세포자멸사에서는 DNA의 단편화가 선행되고 그 결과 염색질이 핵막주변에 응집하여 핵농축, 핵용해가 일어나며 거의 동시에 세포의 축소라든가 융모 등의 소실되고 결국 세포 전체가 막에 쌓인 크고 작은 세포자멸사 소체로 단편화되고 최종적으로 비염증적으로 큰포식세포에 탐식된다. 세포자멸사는 괴사와 대립적으로 이해되어 왔지만 최근 들어 이들 두가지 세포죽음의 형태의 공통점도 많이 부각되고 있다.
+
+pheophorbide a (페오포리바이드 a)
+엽록소 분해생성물로 광여기물질(光勵起物質). 클로로필에서 Mg이 이탈하여 페오피틴으로 변하고 여기에 다시 피톨 부분이 이탈하여 페오포리바이드가 된다. 광민감 물질로 알려져 있다.
+
+
+[암 방사선감작치료, 발암 억제제, 혈청 알부민]
+
+Biopolymers. 2005 Feb 15;77(3):129-36.
+
+Human serum albumin complexes with chlorophyll and chlorophyllin.
+인간 혈청 알부민 복합체는 클로로필 및 클로로필린과 일치한다.
+(인간 혈청 알부민은 클로로필, 클로로필린과 복합체를 형성한다.)
+
+Ouameur AA, Marty R, Tajmir-Riahi HA. 
+Department of Chemistry-Biology, University of Quebec at Trois-Rivieres, C.P. 500, TR (Quebec), Canada G9A 5H7.
+
+Porphyrins and their metal derivatives are strong protein binders. Some of these compounds have been used for radiation sensitization therapy of cancer and are targeted to interact with cellular DNA and protein. The presence of several high-affinity binding sites on human serum albumin (HSA) makes it possible target for many organic and inorganic molecules. Chlorophyll a and chlorophyllin (a food-grade derivative of chlorophyll), the ubiquitous green plant pigment widely consumed by humans, are potent inhibitors of experimental carcinogenesis and interact with protein and DNA in many ways. This study was designed to examine the interaction of HSA with chlorophyll (Chl) and chlorophyllin (Chln) in aqueous solution at physiological conditions. Fourier transform infrared, UV-visible, and CD spectroscopic methods were used to determine the pigment binding mode, the binding constant, and the effects of porphyrin complexation on protein secondary structure. Spectroscopic results showed that chlorophyll and chlorophyllin are located along the polypeptide chains with no specific interaction. Stronger protein association was observed for Chl than for Chln, with overall binding constants of K(Chl) = 2.9 x 10(4)M(-1) and K(Chln) = 7.0 x 10(3)M(-1). The protein conformation was altered (infrared data) with reduction of alpha-helix from 55% (free HSA) to 41-40% and increase of beta-structure from 22% (free HSA) to 29-35% in the pigment-protein complexes. Using the CDSSTR program (CD data) also showed major reduction of alpha-helix from 66% (free HSA) to 58 and 55% upon complexation with Chl and Chln, respectively.
+
+PMID: 15630698 [PubMed - indexed for MEDLINE]
+
+포르피린 및 이것의 금속유도체는 강한 단백질결합체입니다. 이 화합물중 몇 가지는 암 방사선감작치료에 사용되며 세포 DNA와 단백질과의 상호작용에의 표적이 됩니다. 인간 혈청 알부민(HSA)에의 몇몇 고친화성 결합부위의 존재는 많은 유기 및 무기분자의 잠재적 표적이 됩니다. 사람이 일반적으로 섭취하는 녹색소인 엽록소 a 및 클로로필린(엽록소의 식품등급 유도체)은 실험적 발암의 강력한 억제제이며 많은 방식으로 단백질과 DNA와 상호작용합니다. 이 연구는 생리조건의 수용액에서 HSA와 엽록소(Chl) 및 클로로필린(Chln)과의 상호작용을 조사하기 위해 계획되었습니다. 색소결합형태, 결합상수 및 단백질 이차구조에 끼치는 포르피린복합체의 영향을 확인하기위해 FT-IR 분광법, 자외선 및 가시선 분광분석법과 원편광 이색성 분광기를 사용했습니다. 분광결과는 폴리펩타이드 사슬을 따라서 특정한 상호작용 없이 엽록소와 클로로필린이 위치해있다는 것을 밝혔습니다. 전체 결합상수는 K(Chl) = 2.9 x 10(4)M(-1) 및 K(Chln) = 7.0 x 10(3)M(-1)로 클로로필린보다 엽록소에서 더 강한 단백질 결합이 관찰되었습니다. 알파 헬릭스 형태가 55%(유리 HSA)에서 41-40%로 감소되고, 베타구조 형태가 22%(유리 HSA)에서 29-35%로 증가하면서 색소 단백질복합체내의 단백질 입체형태가 변화(적외선 자료)되었습니다. CDSSTR 프로그램(CD 자료)에서는 또한 엽록소 및 Chln과 복합체를 형성함에 따라 알파헬릭스가 66% (유리 HSA)에서 각각 58 및 55%로의 두드러진 감소를 보였습니다. 
+
+albumin (알부민)
+단백질 분류상의 한 그룹. 동물의 알부민에는 난백알부민, 혈청알부민, 젖의 락트알부민 등이 있고, 식물의 알부민에는 보리의 류코신, 완두의 레구민, 아주까리의 리신 등이 있다. 알부민의 정의는 1907년 영국생리학회가 제안한 단백질분류법에 따른다. 이에 의하면 아미노산만으로 구성되는 단순단백질 가운데서 물에 잘 녹는 것을 알부민이라 하고, 물에 잘 녹지 않는 것을 글로불린이라고 분류했다. 그러나 현재 알부민이라는 분류 가운데에는 분자량과 아미노산 조성·역할 등에서 서로 다른 여러 가지 단백질이 함유되어 있음이 이미 알려져 있다.
+
+porphyrin (포르피린) 
+피롤고리 4개가 4개의 메틸기와 결합하여 생긴 포르핀 유도체. 포르피린에 철·구리·마그네슘이 결합한 분자내 착염은 천연으로 존재하며, 생리적으로 중요한 것이 많다. 예를 들면 시토크롬·카탈라아제·헤모글로빈 등은 철포르피린 유도체인 헴이나 헤마틴을 함유하고 있으며, 식물의 엽록체에는 마그네슘포르피린으로서의 엽록소가 합유되어 있다. 포르피린의 물리·화학적 성질은 곁사슬의 종류에 따라 크게 다르다. 카르복시산을 곁사슬로 갖는 것은 피롤핵의 제3급 질소의 약염기성과 함께 양성(兩性) 전해질의 성질을 갖는다. 카르복시기가 많은 것은 친수성이 강하다. 포르피린은 일반적으로 붉은색을 띤다. 각종 생물에서 포르피린핵의 생합성은, 먼저 글리신과 숙시닐 CoA로부터의 미토콘드리아내의 ALA신디아제에 의한 5－아미노레브르산(ALA)의 합성으로 시작되어, 다음에 PBG신디아제(ALA 디히드라이제)의 작용으로 포르포빌리노겐(PBG)을 생성하고, 이어서 4분자의 PBG의 축합으로 최초의 테트라피롤인 우로포르피리노겐Ⅲ형이 생성된다. 포르피리노겐은 무색이지만, 그 메틸렌다리가 자동산화함으로써 메틸다리가 되면 붉은색 포르피린이 된다. 프로토포르피린에 철이 효소를 매개로 하여 도입되면 프로토헴이 생성된다. 한편 프로토포르피리노겐이 생성되는 단계는, 보통 분자상(分子狀) 산소를 요구한다. 포르피린의 생합성과 분해의 대사과정 이상으로 생기는 유전성 질환이 여러 가지 알려져 있다. 그 가운데 포르피린 또는 그 전구체인 ALA, PBG 등이 오줌으로 대량 배출되는 질환을 포르피린증이라 한다. 심한 복통, 구토, 정신신경증상 등을 일으키는 경우가 있다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[핵산결합체, 암 방사선감작치료]
+
+J Biomol Struct Dyn. 2004 Aug;22(1):45-50.
+
+RNA adducts with chlorophyll and chlorophyllin: stability and structural 
+features.
+엽록소 및 클로로필린과 같은 RNA 부과물 : 안전성 및 구조상의 특징.
+
+Marty R, Ouameur AA, Neault JF, Tajmir-Riahi HA. 
+Department of Chemistry-Biology, University of Quebec at Trois-Rivieres, C.P. 500, TR (Quebec), Canada G9A 5H7.
+
+Porphyrins and their metal derivatives are strong nucleic acids binders. Some of these compounds have been used for radiation sensitization therapy of cancer and are targeted to interact with cellular DNA. Chlorophyll (Chl) binds DNA via guanine N-7 atom (major groove) and the backbone phosphate group (Neault and Tajmir-Riahi. Biophys. J. 76, 2177, 1999), whereas chlorophyllin (Chln) intercalates into A-T and G-C regions (Neault and Tajmir-Riahi. J. Phys. Chem. B. 102, 1610, 1998). This study was designed to examine the interaction of RNA with chlorophyll a and chlorophyllin in aqueous solution at physiological pH with pigment/RNA(phosphate) ratios (r) of 1/80 to 1/2. Fourier transform infrared (FTIR) and UV-visible difference spectroscopic methods were used to characterize the nature of pigment-RNA interaction and to establish correlation between spectral changes and the pigment binding mode, binding constant, RNA secondary structure and structural variations of pigment-RNA complexes in aqueous solution. Spectroscopic results showed that Chl and Chln bind RNA through G-C and A-U bases and the backbone phosphate group with overall binding constants of KChl = 1.95 x 10(5) M(-1) and KChln = 1.61 x 10(5) M(-1). The larger K value obtained for Chl-RNA complexes is attributed to the formation of more stable five or six-coordinate Mg cation in the RNA adducts, while the four-coordination Cu(II) in Chln can be more stable than that of the five or six-coordinated copper ion in the Chln-RNA complexes. Aggregation of pigment-RNA complexes occurs at high metalloporphyrin concentrations. No biopolymer secondary structural changes were observed upon pigment interaction and RNA remains in the A-family structure in these pigment complexes. 
+
+PMID: 15214804 [PubMed - indexed for MEDLINE]
+
+포르피린 및 그 금속 유도체는 강한 핵산결합체입니다. 세포 DNA와 상호 작용시킨 이 화합물 중 몇 가지는 암 치료를 위한 방사선 증감요법에 사용됩니다. 엽록소는 구아닌 N-7원자와 주 인산염기를 통해 DNA와 결합하는 반면, 클로로필린은 A-T 와 G-C영역 사이에 삽입됩니다. 이 연구는 1/80에서 1/2까지의 색소/RNA(인산염)비율로 생리적 PH조건에서 수용액내에서의 엽록소 a 및 클로로필린과 RNA의 상호작용을 조사하기 위해 계획되었습니다. 색소-RNA 상호작용의 본질을 규명하고, 수용액내의 색소-RNA화합물의 분광 변화, 색소 결합방식, 결합 지속성, RNA 이차구조 및 구조적변종간의 상관관계를 확립하기 위하여, 적외선 분광 광도계(FTIR) 및 자외선-가시광선 차 분광법이 주로 사용되었습니다. 엽록소와 클로로필린이 G-C와 A-U를 기반으로 RNA와 결합하며, 주 인산염기와의 결합 상수는 K엽록소 = 1.95 × 105 M-1 및 K클로로필렌 = 1.61 × 105 M-1 로 연구결과가 나왔습니다. 엽록소-RNA 복합체의 더 높은 K가는 RNA 부가물 내에서 더 안정적인 5나6 배위 마그네슘이온의 형태를 띠려는 속성 때문이지만, 클로로필린-RNA복합물 내에서는 클로로필린의 4배위구리((II)가 5나6배위 구리이온보다 더 안정적일 수도 있습니다. 색소-RNA복합물의 집합체는 금속포르피린 농도가 높을 때 생깁니다. 이 색소복합물의 A-구조에 남아있는 RNA와 색소상호작용에서 생물고분자물질의 이차적 구조적변형은 나타나지 않았습니다.
+
+RNA (아르엔에이)
+핵산 가운데 당성분이 D-리보오스인 것. 리보핵산(ribonucleic acid)의 약칭이다. 염기로서는 아데닌(A), 구아닌(G), 시토신(C), 우라실(U) 등 4염기가 주성분인데, 이들의 메틸유도체 등 미량의 염기를 포함하는 것도 있다. DNA의 유전정보를 바탕으로 하여 단백질을 합성하는 과정에서 여러 가지 중요한 역할을 한다. 고등 동·식물에서 세균(bacteria)까지 모든 세포에 존재하며, 일부의 바이러스에도 들어 있다. 분자의 종류는 세균에 대해서만도 1000종류 정도가 존재하지만, 기능적으로는 전령RNA(messenger RNA；약기 mRNA), 리보솜RNA(ribosomal RNA；약기 rRNA), 운반RNA(transfer RNA；약기 tRNA) 등으로 크게 나눌 수 있다. 일부의 바이러스에는 유전자 본체로서 DNA 대신 RNA를 가진 것이 있는데, RNA바이러스라 하여 DNA바이러스와 구별된다. RNA바이러스의 유전자RNA를 제거하면 생체 내의 RNA는 DNA의 염기배열을 전사하여 합성된다. DNA의 유전정보는 핵 내에서 mRNA에 전사되고, 세포질의 리보솜에서 tRNA의 작용을 통해 단백질로 발현된다. 
+
+porphyrin (포르피린) 
+피롤고리 4개가 4개의 메틸기와 결합하여 생긴 포르핀 유도체. 포르피린에 철·구리·마그네슘이 결합한 분자내 착염은 천연으로 존재하며, 생리적으로 중요한 것이 많다. 예를 들면 시토크롬·카탈라아제·헤모글로빈 등은 철포르피린 유도체인 헴이나 헤마틴을 함유하고 있으며, 식물의 엽록체에는 마그네슘포르피린으로서의 엽록소가 합유되어 있다. 포르피린의 물리·화학적 성질은 곁사슬의 종류에 따라 크게 다르다. 카르복시산을 곁사슬로 갖는 것은 피롤핵의 제3급 질소의 약염기성과 함께 양성(兩性) 전해질의 성질을 갖는다. 카르복시기가 많은 것은 친수성이 강하다. 포르피린은 일반적으로 붉은색을 띤다. 각종 생물에서 포르피린핵의 생합성은, 먼저 글리신과 숙시닐 CoA로부터의 미토콘드리아내의 ALA신디아제에 의한 5－아미노레브르산(ALA)의 합성으로 시작되어, 다음에 PBG신디아제(ALA 디히드라이제)의 작용으로 포르포빌리노겐(PBG)을 생성하고, 이어서 4분자의 PBG의 축합으로 최초의 테트라피롤인 우로포르피리노겐Ⅲ형이 생성된다. 포르피리노겐은 무색이지만, 그 메틸렌다리가 자동산화함으로써 메틸다리가 되면 붉은색 포르피린이 된다. 프로토포르피린에 철이 효소를 매개로 하여 도입되면 프로토헴이 생성된다. 한편 프로토포르피리노겐이 생성되는 단계는, 보통 분자상(分子狀) 산소를 요구한다. 포르피린의 생합성과 분해의 대사과정 이상으로 생기는 유전성 질환이 여러 가지 알려져 있다. 그 가운데 포르피린 또는 그 전구체인 ALA, PBG 등이 오줌으로 대량 배출되는 질환을 포르피린증이라 한다. 심한 복통, 구토, 정신신경증상 등을 일으키는 경우가 있다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[단백질결합체, 암 방사선감작치료,, 발암 억제제]
+
+Methods Mol Biol. 2004;274:159-71.
+
+DNA adducts with chlorophyll and chlorophyllin as antimutagenic agents:
+synthesis, stability, and structural features.
+항돌연변이 제제처럼 엽록소 및 클로로필린과 같은 DNA 부과물 : 합성, 안전성 및 구조상의 특징.
+
+Tajmir-Riahi HA, Neault JF, Diamantoglou S. 
+Departement de Chimie-Biologie, Universite du Quebec a Trois-Rivieres, Quebec, Canada.
+
+Porphyrins and their metal derivatives are strong DNA binders with association constants of 10(5) M(-1) to 10(7) M(-1). Some of these compounds have been used for radiation sensitization therapy of cancer and are targeted to interact with cellular DNA. Chlorophyll (CHL) and chlorophyllin (CHLN), a food-grade derivative of chlorophyll, the ubiquitous green plant pigment widely consumed by humans, are potent inhibitors of experimental carcinogenesis. The aim of this report was to examine the interaction of calf-thymus DNA with CHL and CHLN in aqueous solution at physiological pH, with pigment/DNA(phosphate) molar ratios (r) of 1/80 to 1/2. Fourier transform infrared (FTIR) difference spectroscopic method was used to determine the pigment binding mode, binding constant, sequence selectivity, DNA secondary structure and structural variations of the pigment-DNA complexes in aqueous solution.
+
+PMID: 15187278 [PubMed - indexed for MEDLINE]
+
+포르피린 및 이것의 금속유도체는 결합상수 10(5) M(-1)에서 10(7) M(-1)까지인 강한 단백질결합체입니다. 이 화합물중 몇 가지는 암 방사선감작치료에 사용되며 세포 DNA와의 상호작용에의 표적이 됩니다. 사람이 일반적으로 섭취하는 녹색소인 엽록소 a 및 클로로필린(엽록소의 식품등급 유도체)은 실험적 발암의 강력한 억제제입니다. 이 보고서의 목적은 생리조건의 수용액에서 1/80에서 1/2까지의 색소/DNA(인산염) 몰 비율을 가진, 송아지 가슴샘 DNA와 엽록소(Chl) 및 클로로필린(Chln)과의 상호작용을 조사하는 것입니다. 수용액 내에서 색소-DNA복합체의 색소결합형태, 결합상수, 서열선택성, DNA 이차구조 및 구조적 변이를 확인하기위해 FT-IR 분광법을 사용했습니다. 
+
+DNA (디엔에이)
+자연계에 존재하는 2종류의 핵산 중 디옥시리보오스를 함유한 것의 총칭. 디옥시리보핵산(deoxyribonucleic acid)의 약칭이다. 핵산 중에서 당성분이 D-디옥시리보오스로서 유전자의 본체를 이룬다. 교육이나 체험에 의하지 않고 부모로부터 자식에게로 전달되는 성질을 유전형질이라고 한다. 이 유전형질의 근원이 되는 물질의 단위를 유전자라고 하는데, 이 유전자가 바로 가늘고 긴 실모양의 물질인 DNA이다. DNA는 어떤 생물의 어떤 세포에서도 그 생물의 전체 유전정보 분량을 갖는다. 세포분열이 일어나기 전에 DNA는 복제되므로, 분열 후 2개의 딸세포는 DNA를 똑같이 함유한다. 이때 DNA의 유전정보는 mRNA(전령 RNA)를 통해서 단백질로 전달되어 유전형질 발현된다〔그림 1〕. 생물의 몸을 구성하거나 생물이 생명을 유지하기 위한 기능을 담당하는 것은 주로 단백질이므로, 각 생물의 형질은 어떠한 단백질이 생성되는가에 따라 결정된다. 그러므로 DNA는 바로 생물의 설계도라고 말할 수 있다.
+
+thymus (胸腺, 흉선)
+어류 이상의 모든 척추동물에 존재하는 면역기관. 새낭에서 유래하며, T세포 분화의 장(場)이다. 
+사람의 흉선은 흉골 바로 뒤, 심장의 앞위쪽에 있는 편평한 기관으로, 좌우 양엽(兩葉)으로 나뉘어져 있으나 정중선(正中線)에서 서로 유착되어 있다. 태생기의 제3·4새낭에서 유래되었으며, 제4새낭에서 유래된 부분은 거의 소실되었다. 태생기에 급속히 증대하여, 출생기에 12~15g이 되며, 그 뒤에도 느린 성장을 계속하여 사춘기에 최대(30~40g)가 된다. 사춘기를 지나면 다시 퇴화하여 실질의 상당부분이 지방조직으로 바뀌어 60세에는 10~15g이 된다. 흉선 표면은 결합조직성 피막에 싸여 그 연결부분이 실질 속으로 들어가 소엽(小葉) 사이의 결합조직이 되어 실질을 여러개의 소엽(lobule)으로 나누고 있다. 각 소엽을 살펴보면 그 표층은 피질(皮質, correx)이라 하며 세포가 밀집해 있고, 중심부는 세포가 피질에 비해 성글며 수질(髓質, medulla)이라 한다. 피질·수질을 불문하고 세포에는 림프구·상피성세망(上皮性細網)세포·매크로파지(macrophage, 大食세포)의 3종류가 있다. 림프구는 소림프구로 둥글고 작은 호염기성을 나타내며, 흉선세포(thymocyte)라고도 한다. 골수로부터 와서 이곳에 머물러 흉선유래림프구(thymus-derived lymphocyte, T세포)가 된다. 상피성세낭세포(epithelial reticulum cell)는 새낭상피에서 유래하며 내배엽성(內胚葉性)으로 크고 부정형(不正形)이며 펩티드성호르몬(라이모신 thymosin·타이모포이에틴 thymopoietin 등)을 분비한다. 이들 호르몬은 T세포의 분화를 돕는 것으로 알려져 있다. 그러나 형태학적으로 분비과정은 보이지 않는다. 또 신생아의 흉선을 적출하면 온몸의 림프 장기가 발달할 수 없어 림프구의 생산·항체생산 능력이 나타나지 않는다. T세포는 흉선에서 온몸으로 보내져, B세포의 증식·분화를 촉진하고 그 항체 생산을 자극 또는 억제하며 매크로파지의 기능을 자극하고 이종(異種)세포에 장애를 주는 등 다양한 능력을 지닌다. 매크로파지는 다른 기관의 대식세포와 마찬가지로 이물질이며 세균 등을 모두 처리한다.
+
+porphyrin (포르피린) 
+피롤고리 4개가 4개의 메틸기와 결합하여 생긴 포르핀 유도체. 포르피린에 철·구리·마그네슘이 결합한 분자내 착염은 천연으로 존재하며, 생리적으로 중요한 것이 많다. 예를 들면 시토크롬·카탈라아제·헤모글로빈 등은 철포르피린 유도체인 헴이나 헤마틴을 함유하고 있으며, 식물의 엽록체에는 마그네슘포르피린으로서의 엽록소가 합유되어 있다. 포르피린의 물리·화학적 성질은 곁사슬의 종류에 따라 크게 다르다. 카르복시산을 곁사슬로 갖는 것은 피롤핵의 제3급 질소의 약염기성과 함께 양성(兩性) 전해질의 성질을 갖는다. 카르복시기가 많은 것은 친수성이 강하다. 포르피린은 일반적으로 붉은색을 띤다. 각종 생물에서 포르피린핵의 생합성은, 먼저 글리신과 숙시닐 CoA로부터의 미토콘드리아내의 ALA신디아제에 의한 5－아미노레브르산(ALA)의 합성으로 시작되어, 다음에 PBG신디아제(ALA 디히드라이제)의 작용으로 포르포빌리노겐(PBG)을 생성하고, 이어서 4분자의 PBG의 축합으로 최초의 테트라피롤인 우로포르피리노겐Ⅲ형이 생성된다. 포르피리노겐은 무색이지만, 그 메틸렌다리가 자동산화함으로써 메틸다리가 되면 붉은색 포르피린이 된다. 프로토포르피린에 철이 효소를 매개로 하여 도입되면 프로토헴이 생성된다. 한편 프로토포르피리노겐이 생성되는 단계는, 보통 분자상(分子狀) 산소를 요구한다. 포르피린의 생합성과 분해의 대사과정 이상으로 생기는 유전성 질환이 여러 가지 알려져 있다. 그 가운데 포르피린 또는 그 전구체인 ALA, PBG 등이 오줌으로 대량 배출되는 질환을 포르피린증이라 한다. 심한 복통, 구토, 정신신경증상 등을 일으키는 경우가 있다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[유전자독성 제어]
+
+Mutat Res. 1994 Dec;318(3):239-47.Chlorophyll and chlorophyllin as modifiers of genotoxic effects
+유전자독성 영향의 변경인자로서의 클로로필 및 클로로필린
+
+Sarkar D, Sharma A, Talukder G.
+Department of Botany, University of Calcutta, India.
+
+Reports on an inverse relationship between the consumption of fresh vegetables and human gastrointestinal cancer have been followed by screening for the protective activity of a large number of plant extracts, including leafy vegetables. Chlorophyll is ubiquitous in all green plant parts.
+
+Chlorophyllins are derivatives of chlorophyll in which the central magnesium atom is replaced by other metals, such as cobalt, copper or iron. An attempt has been made in this article to review the relative efficacy of chlorophyll and chlorophyllin in modifying the genotoxic effects of various known toxicants.
+
+PMID: 7527487 [PubMed - indexed for MEDLINE]
+
+신선한 채소의 섭취와 인간 위장암 과의 역관계에 대한 보고서의 결과로 잎이 많은 채소를 포함하는 다수의 식물추출물의 보호 작용에 대한 선별이 있었습니다. 엽록소는 모든 녹색식물 부분에 풍부합니다. 
+
+클로로필린은 중심 마그네슘 원자가 다른 금속(코발트, 구리 혹은 철)으로 대체된 엽록소의 유도체입니다. 다양한 알려진 독물의 유전자독성 효과를 조절하는데 있어서의 클로로필과 클로로필린의 상대적 효능을 이 논문에서 검토했습니다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[돌연변이유발 및 종양증식억제작용, 종양조직 억제작용, 골수종양 세포의 증식의 흡수와 억제작용]
+
+Teratogenesis, Carcinogenesis, and Mutagenesis
+Volume 19, Issue 5, Pages 313 - 322, 1999
+
+Effect of dietary chlorophyll derivatives on mutagenesis
+and tumor cell growth
+돌연변이유발 및 종양 세포 증식에 식이성 엽록소 유도체의 효능
+Simon Chernomorsky(1,*), Alvin Segelman(2), Ronald D. Poretz(1) 
+(1) Department of Biochemistry and Microbiology, Rutgers University, New Brunswick, New Jersey
+(2) Department of Chemical Biology and Pharmacology, Rutgers University, New Brunswick, 
+    New Jersey
+(*) Correspondence to Simon Chernomorsky, Department of Biochemistry and Microbiology,     Rutgers University, 76 Lipman Drive, New Brunswick, NJ 08901-8525
+
+Much attention in recent years has been given to the antigenotoxicity of chlorophyll. Chlorophyll, however, is known to be converted into pheophytin, pyropheophytin, and pheophorbide in processed vegetable food and following ingestion by humans. 
+Studies were conducted on the antimutagenic and tumoricidal potencies of these compounds. All the chlorophyll derivatives tested exhibit identical antimutagenic effect towards 3-methylcholanthrene (3-MC), suggesting that the porphyrin nucleus may complex directly with the mutagen. It does not exclude, however, another mechanism of activity involving inactivation the enzymatic transformation of 3-MC. 
+In contrast, the action of N-nitro-N-nitrosoguanidine (MNNG) depends upon structural differences between the chlorophyll derivatives. It is significantly lower when the phytol-containing pheophytin and pyropheophytin are tested as to that of the phytol-lacking pheophorbide.
+The higher concentrations of the chlorophyll derivatives were required to reduce the mutagenicity of MNNG than needed for 3-MC. The cytotoxicity of chlorophyll derivatives against tumor cells also was evaluated. The cellular uptake and inhibition of myeloma cell multiplicity were found to be greater for pheophorbide than for pheophytin. 
+Calculated on the amount of cell associated chlorophyll derivative, however, pheophytin was more cytostatic/cytotoxic than pheophorbide. The results presented in this report indicate that food sources that yield chlorophyll derivatives may play a significant role in cancer prevention. 
+
+최근 들어, 엽록소의 유전독성억제효과에 많은 관심이 집중되고 있습니다. 하지만 가공된 야채식품 내에서 및 사람이 섭취한 후에 엽록소는 페오피틴, pyropheophytin 및 페오포르바이드로 전환된다고 알려져 있습니다. 이러한 화합물의 항 돌연변이유발 및 종양파괴성 효능에 관한 연구를 수행했습니다. 
+실험한 모든 엽록소 유도체는 3-methylcholanthrene(3-MC)에 대해 동일한 항 돌연변이유발 작용을 보였으며, 이것은 포르피린 핵이 돌연변이 원과 직접적으로 복합체를 형성할 지도 모른다는 것을 뜻합니다. 그렇다고 3-MC의 효소변형 비활성화에 관계되는 다른 작용메커니즘을 배제하는 것은 아닙니다. 
+대조적으로, N-nitro-N-nitrosoguanidine(MNNG)의 활동은 엽록소 유도체간의 구조적 차이에 의존합니다. 피톨이 없는 페오포르바이드와 비교해, 피톨이 들어있는 페오피틴 및 pyropheophytin을 테스트했을 때 N-nitro-N-nitrosoguanidine(MNNG)의 활동은 현저하게 낮았습니다. MNNG의 돌연변이작용을 감소시키기 위해서는 3-MC에서 필요한 것보다 더 높은 농도의 엽록소유도체를 필요로 했습니다. 종양세포에 대한 엽록소 유도체의 세포독성을 또한 평가했습니다. 골수종 세포증식의 세포흡수와 억제는 페오피틴보다 페오포르바이드가 더 큰 것으로 나타났습니다. 
+엽록소유도체와 결합한 세포 양을 계산한 결과, 페오포르바이드보다 페오피틴이 더 세포증식억제성/세포독성이 높았습니다. 이 보고서에서 나타난 결과는 엽록소유도체를 생산하는 식품 공급원은 암 예방에 있어서 중요한 역할을 할지도 모른다는 것을 나타냅니다.
+
+N-Methyl-N'-nitro-N-nitrosoguanidine(MNNG)DNA adduct를 형성하여 암을 일으키는 완전한 발암물질(complete carcinogen)로서 동물 모델에서뿐만 아니라 세포모델에서도 강력한 발암성을 나타내어 화학적 발암화 연구에 널리 사용되고 있다.
+3-methylcholanthrene
+전구 발암물(procarcinogen)로 전구발암물은 최종 발암물(ultimate carcinogen)이 되어야 암을 일으킬 수 있는 물질로 polycyclic aromatic hydrocarbon, aromatic amine과 amide, nitrosamine 등이 여기에 해당한다. 전구발암물은 cytochrome p-450 dependent mono-oxygenase와 같은 산화 및 과산화 효소에 의해 대사되어 중간산물(proximate carcinogen)을 거쳐 최종 발암물이 되어야 발암성을 획득한다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[항유전독성, 항돌연변이, 항발암]
+
+
+Mutat Res. 1997 May 12;376(1-2):97-100.
+
+Antigenotoxic activity of natural chlorophylls.
+천연 엽록소의 항유전독성 활동.
+
+Negishi T, Rai H, Hayatsu H. 
+Faculty of Pharmaceutical Sciences, Okayama University, Japan.
+
+
+Chlorophyllin, a man-made water-soluble form of chlorophyll, is a focus of intensive studies from many laboratories for its antimutagenic and anticarcinogenic properties. Natural chlorophylls, in contrast, have been little studied in this regard. Since yellow-green vegetables are implicated to be protective against human cancers by epidemiological studies, it is important to explore the antigenotoxic properties of natural chlorophylls. Previously, we reported that a chlorophyll sample prepared from Chlorella vulgaris inhibited the mutagenicity of 3-hydroxyamino-1-methyl-5H-pyrido[4,3-b]indole, a direct-acting mutagen, in Salmonella, and that the chlorophyll also showed inhibition of wing spot formation in Drosophila induced by 3-amino-1-methyl-5H-pyrido[4,3-b]indole (Trp-P-2). We have now prepared several samples of chlorophyll from spinach and chlorella, and studied their effect on the genotoxicity of 4-nitroquinoline 1-oxide (4NQO) in Drosophila. The results showed that the genotoxicity of orally given 4NQO was suppressed by simultaneous administration of the chlorophylls. The mechanisms of this inhibition are discussed.
+
+PMID: 9202743 [PubMed - indexed for MEDLINE]
+
+
+클로로필린(인공의 수용성 엽록소 형태)의 항 돌연변이 및 항 발암 성질은 많은 실험실의 집중연구 대상입니다. 대조적으로 이 점에 있어서 천연엽록소는 거의 연구되지 않았습니다. 역학연구로 인간 암에 대항하여 녹황색 채소가 보호한다는 것이 밝혀진 후, 천연엽록소의 항 유전독성을 조사하는 것이 중요해졌습니다. 살모넬라균에 있어서, 클로렐라 불가리스로부터 조제한 엽록소표본이 3-hydroxyamino-1-methyl-5H-pyrido [4,3-b]indole의 돌연변이유발성을 억제한다고 이미 보고했으며, 초파리에 있어서 3-amino-1-methyl-5H -pyrido[4,3-b]indole (Trp-P-2)에 의한 날개반점 형성을 또한 엽록소가 억제했습니다. 현재 시금치 및 클로렐라로부터 엽록소표본을 몇 가지 조제했으며, 초파리에 있어서 4-nitroquinoline 1-oxide (4NQO)의 유전자독성에 끼치는 이들의 영향을 조사했습니다. 결과는 경구 투약한 4NQO의 유전자독성은 엽록소의 동시투여로 억제되었다는 것을 밝혔습니다. 이 억제메커니즘을 논했습니다.
+
+
+
+3-hydroxyamino-1-methyl-5H-pyrido[4,3-b]indole(Trp-P-2), 
+3-amino-1-methyl-5H -pyrido[4,3-b]indole (Trp-P-2),4-nitroquinoline 1-oxide (4NQO)
+발암물질
+
+
+
+
+
+
+
+
+[항암제 유전자독성, 항돌연변이]
+
+Mutat Res. 1998 Jun 18;402(1-2):289-98.
+
+Effect of selected antimutagens on the genotoxicity of antitumor agents.
+항암제의 유전자독성에 대하여 선택된 항돌연변이 물질의 효능.
+   
+Gentile JM, Rahimi S, Zwiesler J, Gentile GJ, Ferguson LR. 
+Biology Department, Hope College, Holland, MI 49423, USA.
+
+
+Cyclophosphamide (CP), bleomycin (BL), doxorubicin (DOX) and cisplatin (CISP) are potent antitumor drugs used worldwide against many forms of human cancer. As with most such agents, there can be physiological side-effects and the possible induction of mutations and other genotoxic effects in non-tumor cells. It is common for patients to ingest a host of food supplements to diminish the discomforting side-effects of therapy. Because these food supplements are often also rich in antimutagens that could also affect the biological efficacy of the antitumor drugs, we investigated if such antimutagenic agents were indeed antimutagenic to these antitumor drugs. Using the Salmonella/microsome bioassay, we tested CP, BL, DOX, and CP for mutagenicity in the presence and absence of the antimutagens ascorbic acid (AA), chlorophyllin (CHL) and (+)-catechin (CAT). AA was a very effective antimutagen against CISP and less effective against BL and DOX. It was not antimutagenic to CP. CHL was effective as an antimutagen against all four antitumor drugs, and CAT was a strong inhibitor of DOX mutagenicity, but had little effect on BL, CP and CISP. These data now provide a basis for future in vivo antitumor/antimutagen combination studies to determine if these antimutagens function in a manner to reduce genetic effects without having concomitant effects on intended antitumorogenicity of these therapeutic agents. Copyright 1998 Elsevier Science B.V. All rights reserved.
+
+PMID: 9675316 [PubMed - indexed for MEDLINE]
+
+
+Cyclophosphamide(CP), bleomycin(BL), doxorubicin(DOX) 및 cisplatin(CISP)은 많은 형태의 인간 암에 대항하여 널리 쓰이는 강력한 항 종양제입니다. 대부분의 이런 제제는 비 종양 세포에 있어서 생리적 부작용 과 돌연변이 및 다른 유전자독성 효과의 유도 가능성이 있을 수 있습니다. 환자들은 치료요법의 불쾌한 부작용을 줄이기 위해 식품보조제를 일반적으로 섭취합니다. 또한 흔히 이런 식품보조제는 항 돌연변이원(항암제의 생물학적 효능에 또한 영향을 끼칠 수 있는)이 풍부하기 때문에 이런 항 돌연변이제가 이 항암제에 있어서 진정한 항 돌연변이원인지를 조사했습니다. 살모넬라/미세소체 생물학적 분석을 사용하여, 항 돌연변이원(아스코르빈산(AA), 클로로필린(CHL) 및 (+)-카테킨(CAT))이 존재할 때 및 부재할 때의 CP, BL, DOX, 및 CP의 돌연변이 유발성을 실험했습니다. AA는 CISP에 대항하여 매우 효과적인 항 돌연변이원이며, BL 및 DOX에 대항해서는 덜 효과적이었습니다. CP에는 돌연변이 유발 억제를 보이지 않았습니다. CHL은 네 가지 항암제 모두에 대해서 항 돌연변이제로서 효과적이었으며, CAT은 DOX의 돌연변이 유발성의 강한 억제제였지만, BL, CP 및 CISP에는 거의 영향을 끼치지 않았습니다. 현재 이 자료는 미래의 생체 내 항종양/항 돌연변이원 조합연구를 위한 기초를 제공합니다.
+
+cyclophosphamide (시클로포스파미드)
+악성 림프종(腫)·백혈병 치료제.
+
+bleomycin (블레오마이신)
+피부암·설암·폐암 치료용의 항생제.
+
+doxorubicin (독소루비신, 상품명 아드리아신)
+항종양성 항생물질로 일반적으로 위암·폐암 등의 내장암에는 제암제(制癌劑)가 잘 듣지 않는데 독소루비신은 각종 내장암에 효과가 있다. 심장에 대한 독소루비신의 독성을 경감시킨 것이 아클라시노마이신 A이다.
+cisplatin (시스플라틴)
+현재 임상에서 사용되고 있는 30여종의 항암제 중 가장 유용한 약제의 하나로 고환암, 난소암, 폐암, 두경부암, 방광암, 위암, 자궁경부암 등의 많은 종류의 암에 매우 유효하다. 그러나 시스플라틴(cisplatin)의 문제점으로는 첫째, 부작용으로 매우 심한 오심과 구토, 신장독성 및 신경독성 등의 발생이 큰 문제가 되고 있으며 둘째, 암세포들의 내성 획득에 의한 항암 효과의 소실이다. 최근에는 시스플라틴(cisplatin)의 이러한 문제점을 해결하기 위하여 새로운 시스플라틴 (cisplatin) 유도체에 대한 연구가 활발히 진행되고 있는데 그 목표는 시스플라틴 (cisplatin) 내성을 극복할 수 있는 제제 및 시스플라틴(cisplatin) 보다 부작용이 완화된 항암제를 찾아내는 데 있다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [혈청 단백분해효소 억제제]
+
+Gastroenterol Jpn. 1980;15(1):41-8.
+
+The effects of intravenously administered chlorophyll-A on naturally 
+occurring serum protease inhibitors in rabbits.
+토끼에 있어서 혈청 단백질분해효소 억제제로 생각되는 예상대로  정맥주사로 투여한 클로로필a의 효능. 
+
+Yoshida A, Yokono O, Oda T. 
+
+
+Effects of intravenously administered protease inhibitors on naturally occurring serum inhibitors were investigated in rabbits. Water-dispersed chlorophyll-a, trasylol and leupeptin were tested as exogenous protease inhibitors in the experiments. From the results of experiments, it was concluded that: 1) Pretreatment with chlorophyll-a infusion into rabbits, most effectively prevented the rapid consumption of naturally occurring serum protease inhibitors after successive trypsin infusion, and the duration of its action was observed longest when compared with other exogenous inhibitors, such as trasylol or leupeptin. 2) Final therapeutic effects of these exogenous protease inhibitors seem to have depended upon the disappearing way of the administered inhibitors from the blood in certain period of time, as well as upon biochemical potency of their inhibiting activity.
+
+PMID: 7358259 [PubMed - indexed for MEDLINE]
+
+
+토끼에 있어서 자연적으로 발생하는 혈청억제제에 끼치는 단백분해효소 억제제(정맥주사로 투여)의 영향을 조사했습니다. 실험에서 외인 단백분해효소 억제제로서 물로 분산한 엽록소a, 트라시롤 및 레우펩틴을 실험했습니다. 이런 결론을 내렸습니다.: 1) 엽록소a를 토끼에게 주입한 전처리가 혈청 단백분해효소 억제제(반복적으로 트립신을 주입한 후에 자연적으로 발생)의 빠른 흡수를 가장 효과적으로 예방했으며, 다른 외인 억제제(트라시롤 및 레우펩틴)와 비교했을 때 작용지속시간이 가장 긴 것으로 관찰되었습니다. 2) 이 외인 단백분해효소 억제제의 최종적 치료효과는 억제작용의 생물학적 효능뿐만 아니라 일정시간 후에 투여된 억제제가 혈액으로부터 소멸되는 방식에 달려있는 것처럼 보입니다.
+
+
+Trasylol (트라시롤)
+트라시롤은 심장우회수술 동안 혈액손실을 방지하기 위해 주입되는 약물로서, 수술을 받은 환자에게 심부전, 뇌졸중, 신장문제 등의 위험을 높인다는 연구결과가 발표돼 안전성에 대한 의문이 제기되어 왔다. 심장수술 출혈방지제인 바이엘의 ‘트라시롤’(Trasylol)에 대한 알레르기 반응 및 사망 보고건수가 증가하고 있는 것으로 밝혀졌다.
+
+leupeptin (레우펩틴)
+세포 균체의 분화에 관련되는 인자. 스트렙토마이세스 종(種)인 펩타이드 (N-acetylleucylleucylarginyl)로 카텝신 B, 파파인, 트립신, 플라스민과 카텝신 D를 억제.
+
+
+
+
+
+
+
+
+
+
+
+
+[결장직장암, 대장암]
+Cancer Epidemiol Biomarkers Prev. 2006 Apr;15(4):717-25.
+
+Heme and chlorophyll intake and risk of colorectal cancer in the 
+Netherlands cohort study.
+네덜란드 코호트연구에 있어서 헴 및 엽록소 섭취와 직장결장암의 위험  
+
+Balder HF, Vogel J, Jansen MC, Weijenberg MP, van den Brandt PA, Westenbrink S, van der Meer R, Goldbohm RA. 
+Department Food and Chemical Risk Analysis, TNO Quality of Life, Zeist, the Netherlands. balder@voeding.tno.nl
+
+BACKGROUND: The evidence for red meat as a determinant of colorectal cancer remains equivocal, which might be explained by differences in heme content. Heme is the pro-oxidant, iron-containing porphyrin pigment of meat and its content depends on the type of meat. Chlorophyll from green vegetables might modify this association. METHODS: The Netherlands Cohort Study was initiated in 1986 when a self-administered questionnaire on risk factors for cancer was completed by 120,852 subjects ages 55 to 69 years. After 9.3 years of follow-up through the Cancer Registry, 1,535 incident colorectal cancer cases (869 men and 666 women) were available. Nineteen of the 150 items in the validated dietary questionnaire related to consumption of specific types of fresh and processed meat. Heme iron content was calculated as a type-specific percentage of the total iron content and chlorophyll content of vegetables was derived from the literature. RESULTS: Multivariate rate ratios for quintiles of heme iron intake and colon cancer were 1.00, 0.98, 1.04, 1.13, and 1.29 (P(trend) = 0.10) among men and 1.00, 1.31, 1.44, 1.18, and 1.20 (P(trend) = 0.56) among women, respectively. No consistent associations were observed for rectal cancer. Rate ratios for colon cancer increased across successive quintiles of the ratio of heme/chlorophyll among men only (1.00, 1.08, 1.01, 1.32, and 1.43; P(trend) = 0.01). No associations were observed between fresh meat and colorectal cancer. CONCLUSION: Our data suggest an elevated risk of colon cancer in men with increasing intake of heme iron and decreasing intake of chlorophyll. Further research is needed to confirm these results.
+
+PMID: 16614114 [PubMed - in process]
+
+배경 : 
+대장암 결정인자로서의 붉은 고기에 대한 증거는 모호하지만, 이것을 헴 함량의 차이로써 설명할 수 있을지도 모릅니다. 헴은 최산화제이고 고기 속의 철을 함유한 포르피린색소이며 고기의 종류에 따라 함량은 달라집니다. 녹색채소의 엽록소가 이 연관성을 변화시킬 수 있을지도 모릅니다. 
+
+방법 : 
+나이 55-69세까지의 120,852명을 대상으로 한 암 위험인자에 대한 자답식 설문이 완료된 시점에서, 1986년 네덜란드 코호트연구를 시작했습니다. 암 등록 사업부를 통해 추적을 한 9년 3개월 후에, 1,535건의 대장암 사례(남자 869명 및 여자 666명)를 입수했습니다. 증명된 식품설문지 내의 150항목 중 19개는 특정 타입의 신선하고 가공된 고기의 섭취와 관련된 것이었습니다. 총 철 함량의 형특이 백분율로 헴 철 함량을 계산했으며 채소의 엽록소함량은 문헌을 참고했습니다.
+
+결과 : 
+헴 철 섭취량과 결장암의 5분위수에 대한 다변량 비율비가 각각 남성은 1.00, 0.98, 1.04, 1.13, 및 1.29 (P(trend) = 0.10)였고, 여성은 1.00, 1.31, 1.44, 1.18, 및 1.20 (P(trend) = 0.56)이었습니다. 직장암에 대한 어떠한 일관되는 관련성은 관찰되지 않았습니다.  결장암의 비율비는 헴/엽록소 비의 반복적 5분위수를 교차하면서 오직 남성에 있어서만 증가(1.00, 1.08, 1.01, 1.32, 및 1.43; P(trend) = 0.01)했습니다. 신선한 고기와 대장암간의 어떠한 연관성도 관찰되지 않았습니다. 
+
+결론 : 
+이 실험 자료는 남성에게 있어서 헴 섭취량 증가 및 엽록소 섭취량 감소에 따라 결장암 위험이 증가한다고 시사합니다. 이 결과를 확인하기 위해서는 차후의 연구가 필요합니다. 
+[후두, 후두인두 종양, 목 림프절, 식도암종 수술시 안전한 착색제로서 엽록소]
+
+
+Lin Chuang Er Bi Yan Hou Ke Za Zhi. 2002 Feb;16(2):71-3.
+
+Application of chlorophyll in the cervical lymph nodes dissection of 
+laryngeal and hypopharyngeal carcinomas.
+후두 및 하인두 악성종양의 경구 림프 혹 절개에 있어서 엽록소의 효과.
+
+[Article in Chinese]
+Qiu Y, Liu Q, Zhang S, Han Z, Ding H, Guo A. 
+Department of Otorhinolaryngology, Weifang People's Hospital, Weifang 261041.
+
+OBJECTIVE: To investigate the patterns of cervical lymph node metastases from the carcinomas of larynx and hypopharynx. METHOD: Chlorophyll solution was injected submucosally into some portions of the larynx and hypopharynx preoperately as a stain of lymphatic system to help conduct modified neck dissections in 50 patiants with laryngeal or hypopharyngeal carcinomas. Searial sections were performed. RESULT: The cervical lymph nodes were stained into deep green with a color contrast to the ambient structures, which facilitated the operation of neck dissections and the distinction of lymph nodes. Pathologically positive lymph nodes found in 48% of all the cases. The metastases to level I and V were always associated with other levels. By statistical analysis, there was a higher metastaic rate in level II, III, and V (P < 0.01). Overal 1 occult metastases were recorded in 23.5% of No (clinically negative neck)cases. The involvement were located only at level II or III. CONCLUSION: For cN+ (clinically positive neck) patiants, upper and middle jugular vein nodes should be dissected necessarilly,and then appropriate selective neck dissections might be considerd according to the intraoperative findings. For the cN(o) cases with supraglottic or hypopharyngeal carcinomas, it is suggested ipsilateral or bilateral upper and middle jugular vein nodes be dissected according to the clinical status. Chlorophyll as a kind of safe and distinctive stain of lymphatic system can be injected preoperatively routinely.
+
+PMID: 15510633 [PubMed - indexed for MEDLINE]
+
+
+목표 : 
+후두 및 하인두 종양으로부터 목 림프절의 전이패턴을 조사
+
+방법 : 
+후두 및 식도암종을 가진 환자50명의 변형 목 절개시술에 도움을 주기위해 수술 전 후두 및 후두인두의 몇몇 부위에 림프시스템의 착색제로서 엽록소용액을 점막하로 주입하고 연속절편 했습니다. 
+
+결과 : 
+주위 구조와 대조하여 목 림프절은 짙은 녹색의 칼라로 염색되었으며, 이 착색은 목 절개수술 및 림프절의 구분을 용이하게 해주었습니다. 모든 사례의 48%에서 발견된 림프절은 병리학적으로 양성이었습니다. 레벨 I 및 V로의 전이는 항상 다른 레벨과 관련이 있었습니다. 통계학적 분석에 의하면 레벨 II, III, 및 V (P < 0.01)에서 더 높은 전이속도를 나타냈습니다. No(임상학적으로 음성인 목)사례의 23.5%에서는 전체적으로 1건의 잠재적 전이가 기록되었고. level II 혹은 III과만 관련이 있었습니다.
+
+결론 : 
+cN+(임상학적으로 양성인 목)환자들에 있어서 상부 및 중부 목 정맥결절은 필수적으로 절개해야만 하고 그 후 수술 중 소견에 따라 적절한 선택적 목 절개가 고려될 수 있을 것입니다. 성문 위 암종 혹은 식도 암종이 있는 cN(o) 환자들은 동측 혹은 양측 상부 및 중부 목 정맥결절의 임상상태에 따라 절개해야만 합니다. 안전하고 뚜렷한 림프시스템의 착색제로서 엽록소는 수술 전에 정기적으로 주입될 수 있을 것입니다. 
+
+lymph (림프)
+척추동물 혈액의 혈장이 모세혈관벽에서 조직속으로 스며들어가서 조직내의 모세림프관으로 들어간 것. 림프액이라고도 한다. 모세림프관이 모여서 림프관이 되며, 림프관은 파충류 이상에서는 가슴관이 되어 대정맥에서 합류한다. 림프는 혈액과 함께 조직세포를 둘러싸는 내부환경을 형성하여 조직환경의 항상성 유지에 중요하며 또한 세포성분으로서 림프구를 함유하고 있어 면역반응에도 관여한다. 림프의 성분은 혈장과 비슷하며 소량의 알부민·글로불린·당·무기염류 등을 함유하는 무색 또는 연한 노랑의 액체이다. 단지 소장에 분포하는 림프관속의 림프는 장에서 흡수된 지방이 리포단백질입자로 들어 있으므로 유백색을 띠며, 이를 특히 암죽이라고 한다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[인간 장 세포에 의한 엽록소유도체의 흡수, 식물내재영양소]
+
+J Agric Food Chem. 2001 Apr;49(4):2082-9.
+
+Assessment of degradation and intestinal cell uptake of carotenoids and chlorophyll derivatives from spinach puree using an in vitro digestion and 
+Caco-2 human cell model.
+시험관내 침지와 Caco-2 인간 세포 모델을 사용한 실험에서 시금치 퓌레에서 유도된 카로티노이드와 클로로필의 섭취에 따른 분해 및 장 세포의 평가.
+
+Ferruzzi MG, Failla ML, Schwartz SJ. 
+Department of Food Science and Technology, The Ohio State University, 140 Howlett Hall, 2001 Fyffe Court, Columbus, Ohio 43210, USA.
+
+Although numerous studies have demonstrated the health benefits of chlorophyll derivatives, information regarding the digestion, absorption, and metabolism of these phytochemicals is quite limited. To better understand the digestion of these pigments, green vegetables including fresh spinach puree (FSP), heat- and acid-treated spinach puree (HASP), and ZnCl(2)-treated spinach puree (ZnSP) were subjected to an in vitro digestion method which simulates both the gastric and small intestinal phases of the process. Native chlorophylls were converted to Mg-free pheophytin derivatives during digestion. Conversely, Zn-pheophytins were completely stable during the digestive process. Transfer of lipophilic chlorophyll derivatives, as well as the carotenoids lutein and beta-carotene, into the aqueous micellar fraction from the food matrix was quantified. Micellarization of total chlorophyll derivatives differed significantly (p < 0.05) for FSP (37.6%), HASP (17.2%), and ZnSP (8.7%). Micellarization of chlorophyll a derivatives was determined to be significantly more efficient than chlorophyll b derivatives in FSP and HASP (p < 0.01), but not in ZnSP (p > 0.05). Intestinal cell uptake of micellarized pigments was investigated using HTB-37 (parent) and clonal TC7 lines of human Caco-2 cells. Medium containing the pigment-enriched fraction generated during digestion was added to the apical surface of fully differentiated monolayers for 4 h. Pigments were then extracted from cells and analyzed by C18 HPLC with photodiode array detection. Both Caco-2 HTB-37 and TC7 clone cells accumulated 20-40% and 5-10% of micellarized carotenoid and chlorophyll derivatives, respectively. These results are the first to demonstrate uptake of chlorophyll derivatives by human intestinal cells and to support the potential importance of chlorophylls as health-promoting phytochemicals.
+
+PMID: 11308371 [PubMed - indexed for MEDLINE]
+
+엽록소 유도체가 건강에 이롭다고 증명하는 연구가 수없이 진행되었을지라도 이 식물내재영양소의 소화, 흡수 및 신진대사에 관한 정보는 아주 제한적입니다. 이 색소의 소화를 더 잘 이해하기 위한 시험관 내 소화법(과정 중 위 및 소장단계 모두를 자극하는)실험에서, 신선한 시금치 퓌레(FSP), 열 및 산성 처리한 시금치 퓌레(HASP) 및 ZnCl(2)처리한 시금치 퓌레(ZnSP)등을 포함하는 녹색채소가 대상이 되었습니다. 천연엽록소는 소화과정동안 Mg가 없는 피오파이틴 유도체로 전환되었습니다. 반대로  Zn-피오파이틴은 소화과정동안 완전히 안정합니다. 카로티노이드루테인 및 베타카로틴뿐만 아니라, 음식기질로부터 수용성 교질입자부분으로의 친지질성 엽록소유도체 전이를 정량했습니다. FSP (37.6%), HASP (17.2%), 및 ZnSP (8.7%)에 대한 총 엽록소 유도체의 교질입자화는 상당히(p < 0.05) 달랐습니다. FSP 및 HASP(p < 0.01)내에서 엽록소의 교질입자화는 엽록소 b유도체보다 상당히 더 효율적인 것으로 확인되었지만 ZnSP(p > 0.05)에서는 그렇지 않았습니다. Caco-2 인간세포의 HTB-37(모) 및 TC7 클론 열을 이용하여 교질입자화된 색소의 장 세포흡수를 조사했습니다. 소화과정동안 생성된 색소가 풍부한 부분을 담고있는 배지는 4시간 동안 완전히 분화된 단층의 꼭대기쪽 면에 첨가되었습니다. 그런 후 세포에서 색소를 분리해 C18 고성능 액체/이온 크로마토그래프와 광선변환장치의 광선감지로 분석했습니다. Caco-2 HTB-37 및 TC7 복제세포 모두는 교질입자화된 카로티노이드 및 엽록소유도체를 각각 20-40% 및 5-10% 축적시켰습니다. 이 결과는 인간 장 세포에 의한 엽록소유도체의 흡수를 처음 확인한 것이며, 건강을 증진시키는 식물내재영양소로서의 엽록소의 잠재적 중요성을 지지합니다.
+
+carotenoid (카로티노이드)
+식물에 의해 합성된 노랑, 주황 그리고 붉은 색소들이다. 카로티노이드는 알파-카로틴, 베타-카로틴, 베타-크립토크산틴, 루테인, 제아크산틴 그리고 라이코펜이다. 알파-카로틴, 베타-카로틴 그리고 베타-크립토크산틴은 체내에서 레티놀(비타민A)로 변형될 수 있다는 것을 의미하며 프로비타민A 카로티노이드라고도 한다. 루테인, 제아크산틴, 그리고 라이코펜은 비타민A 활동이 없다. 비타민 A는 정상적인 성장과 발달, 면역 체계의 기능과 시력에 매우 중요한 요소이다. 현재까지 알려진 카로티노이드의 필수적 기능은 인간에게 비타민 A를 제공하는 역할을 하고 있다는 것이다
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[발암억제, 결장암]
+
+Mutat Res. 2003 Feb-Mar;523-524:217-23.
+Promotion versus suppression of rat colon carcinogenesis by chlorophyllin and chlorophyll: modulation of apoptosis, cell
+proliferation, and beta-catenin/Tcf signaling.
+클로로필린 및 클로로필에 의한 쥐 결장 발암현상의 촉진 억제 :세포사멸의 조절, 세포증식, 그리고 베타-카테닌/Tcf 신호
+Blum CA, Xu M, Orner GA, Dario Diaz G, Li Q, Dashwood WM, Bailey GS, Dashwood RH.
+Department of Environmental and Molecular Toxicology, Linus Pauling Institute, Oregon State University, 571 Weniger Hall, Corvallis, OR 97331-6512, USA.
+The carcinogens 2-amino-3-methylimidazo[4,5-f]quinoline (IQ) and 1,2-dimethylhydrazine (DMH) induce colon tumors in the rat that contain mutations in beta-catenin, but the mutation pattern can be influenced by exposure to dietary phytochemicals, such as the water-soluble derivative of chlorophyll called chlorophyllin. Whereas chlorophyllin is an effective blocking agent during the initiation phase, post-initiation responses depend upon the exposure protocol, and can be influenced by the initiating agent and the concentration of chlorophyllin. Post-initiation treatment with 0.001% chlorophyllin (w/v) in the drinking water promoted colon carcinogenesis in the rat, but much higher concentrations (1.0% chlorophyllin) led to suppression. Bromodeoxyuridine and terminal deoxynucleotidyl transferase-mediated nick end labeling (TUNEL) indices revealed that the promotional concentration of 0.001% chlorophyllin increased the ratio of cell proliferation to apoptosis in the colonic crypts, whereas concentrations in the range 0.0l-1.0% chlorophyllin modestly reduced this ratio. Molecular studies showed that the spectrum of beta-catenin mutations was markedly different in chlorophyllin-promoted colon tumors--many of the mutations led to direct substitutions of critical Ser/Thr residues within the glycogen synthase kinase-3beta (GSK-3beta) region, whereas in all other groups, including DMH and IQ controls, the mutations typically affected amino acids adjacent to Ser(33). Substitution of critical Ser/Thr residues caused beta-catenin and c-Jun proteins to be markedly over-expressed compared with tumors in which the mutations substituted amino acid residues flanking these critical Ser/Thr sites. In a separate study, rats were exposed to IQ or azoxymethane (AOM), a metabolite of DMH, and they were treated post-initiation with chlorophyllin, chlorophyll, copper, or phytol in the diet. Natural chlorophyll (0.08%) suppressed AOM- and IQ-induced aberrant crypt foci (ACF), whereas chlorophyllin had no effect and copper promoted the number of small ACF induced by IQ. The results suggest that further investigation of the dose-response for suppression versus promotion by chlorophyll and chlorophyllin is warranted, including studies of the beta-catenin/Tcf signaling pathway and its influence on cell proliferation and apoptosis in the colonic crypt. Copyright 2003 Elsevier Science B.V.
+PMID: 12628520 [PubMed - indexed for MEDLINE]
+발암원인 2-amino-3-methylimidazo[4,5-f]quinoline(IQ)과 1,2-dimethylhydrazine(DMH)은 베타 카테닌 돌연변이체가 있는 쥐에서 결장암을 유발시킵니다.  하지만 클로로필린(수용성 엽록소유도체) 등의 식이 식물내재영양소에의 노출에 의해서 돌연변이 패턴은 영향을 받을 수 있습니다.  클로로필린은 개시단계에서는 효과적인 억제제인 반면, 개시 후 치료반응은 노출 연구계획에 좌우되며, 개시제와 클로로필린 농도에 영향을 받을 수 있습니다.  식수를 통해 클로로필린 0.001%를 투여한 개시 후 치료과정은 쥐의 결장 발암현상을 촉진시켰으나 훨씬 높은 농도(클로로필린 1.0%)에서는 발암현상을 억제하였습니다.  
+브로모디옥시유리딘 및 말단 뉴클레오티드 전이효소에 의한 nick end labeling(TUNEL) 인덱스는 촉진적 농도인 0.001%의 chlorophyllin은 결장소낭선 내에서 세포자멸사로의 세포증식비율을 증가시킨 반면, 0.01-1.0% 클로로필린의 농도범위에서는 이 비율을 약간 감소시켰음을 밝혔습니다. 
+분자 연구에서는 클로로필린에 의해 촉진된 결장 종양에서의 베타 카테닌 변이의 범위가 현저히 다름이 밝혀졌습니다. - 다수의 돌연변이체는 glycogen synthase kinase-3beta(GSK-3beta)부위 내에서 임계 Ser/Thr 잔여물의 직접적인 대체를  야기 시켰습니다.  반면에 DMH 및 IQ를 포함하는 다른 모든 대조군에서는 돌연변이체가 전형적으로 Ser(33)에 인접한 아미노산에 영향을 주었습니다. 돌연변이체가  이 임계 Ser/Thr 측면부위에 위치한 아미노산 잔여물을 대체한 종양의 경우와 비교하여, 임계 Ser/Thr 잔여물의 대체는 베타 카테닌과 c-Jun 단백질이 뚜렷하게 과도 발현하도록 만들었습니다. 개별 연구에서 IQ 혹은 DMH의 대사산물인 azoxymethane(AOM)을 쥐에게 노출시킨 후 음식을 통해 클로로필린, 엽록소, 구리 혹은 피톨을 개시 후 치료 처방했습니다. 천연엽록소(0.08%)는 AQM 및 IQ에 의한 aberrant crypt foci(ACF)를 억제한 반면, 클로로필린은 아무런 효과도 없었고, 구리는  IQ에 의해 유발된 소형 ACF의 수를 늘렸습니다. 클로로필 및 클로로필린에 의한 억제 대 촉진에 대한 차후의 투여랑 반응연구(결장 소낭선에서의 베타 카테닌/Tcf 신호경로 및 세포증식과 세포자멸사에 끼치는 이 경로의 영향을 포함하여)가 보장되었음을 이 결과가 나타냅니다. 
+
+
+2-Amino-3 methylimidazo[4,5-f]quinoline
+Heterocyclic amines (헤테로사이클릭아민)의 한 종으로 돌연변이원성 물질, 소고기, 돼지고기, 닭고기, 생선, 특히 근육부위를 고온에서 조리(특히 굽거나 튀김)할 때 생성되는 암을 유발시킬 수 있는 화학물질, 아미노산과 크레아틴이 고온에서 반응하여 생성되며 현재 PhIP, IQ 등 17종이 확인, 국제암연구소(International Agency for Research on Cancer, IARC)의 독성분류에 따르면 IQ는 2A그룹에 속하며 PhIP 등 7종이 2B그룹에 속함 
+
+1,2-dimethylhydrazine(DMH)
+가연성(可燃性)이며 무색의 맹독성 액체, 발암물질
+
+apoptosis (세포자멸사, 아포프토시스)
+합목적적으로 발현되는 프로그램된 세포사를 말한다. 종래에는 세포사란 괴사 즉 화상 등으로 인하여 한무리의 세포가 죽는 것이라 이해되었으나 1972년 Kerr, Wylliie, Currie의 세 병리학자가 형태적으로 명백하게 다른 또 하나의 세포사를 발견하고 이를 아포푸토시스라고 정의했다. 그 뒤의 연구를 통해 발생단계에서 어느 특정세포가 일정시기, 장소, 순서에 의해죽어감으로써 정상적인 발생이 완료하는 것으로 알려졌으며 특별히 프로그램 세포라 부르는 때도 있다. 또한 가슴샘을 중심으로 하는 면역계의 발달과정에서도 이 세포사는 매우 중요한 역할을 한다는 점, 여러 가지 병과의 관련에 있어서 유전자 수준의 해석을 통한 암관련 유전자, 증식유전자 등과의 복잡한 관련도 알려져 있다. 형태적으로 괴사는 세포전체나 사립체가 서서히 팽창되고 세포질의 변화가 선행되며 최종적으로 세포막의 파괴가 일어나는데 비해, 세포자멸사에서는 DNA의 단편화가 선행되고 그 결과 염색질이 핵막주변에 응집하여 핵농축, 핵용해가 일어나며 거의 동시에 세포의 축소라든가 융모 등의 소실되고 결국 세포 전체가 막에 쌓인 크고 작은 세포자멸사 소체로 단편화되고 최종적으로 비염증적으로 큰포식세포에 탐식된다. 세포자멸사는 괴사와 대립적으로 이해되어 왔지만 최근 들어 이들 두가지 세포죽음의 형태의 공통점도 많이 부각되고 있다.
+
+beta-catenin/Tcf (베타 카테닌)배(胚)의 발달 및 몇 가지 종류의 암과 관련이 있는 신호전달 단백질.Beta-catenin은 부착된 접합점에 없어서는 안 될 구성요소이고, 그리고 거기서 cadherin의 세포질 영역과 alpha-catenin에 결합시키며, 다음에는 섬유상 actin을 결합시킨다. Beta-catenin과 그것의 초파리 상동 armadillo는 또한 wnt/wingless 신호를 보내는 경로(governs cell 운명은 초기 배형성과정 중에 선택됨)의 구성요소 ; 여기에서 beta-catenin의 역할은 APC를 생산하는 암억제유전자와 LEF-1/TCF family의 전사인자와 서로작용한다.c-Jun신체의 병든 조직에서 다른 유전자들을 통제하는 대부 유전자.이 단백질은 다양한 암세포 뿐만 아니라 손상된 신경세포에서도 다량 존재한다는 사실이 확인된 바 있다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[항돌연변이작용, 디벤조피렌,]
+
+Carcinogenesis, Vol 19, 1323-1326, Copyright © 1998 by Oxford University Press
+
+
+Chemoprotection by natural chlorophylls in vivo : 
+inhibition of dibenzo[a,l]pyrene-DNA adducts in rainbow trout liver.
+천연 엽록소에 의한 생체 예방화학요법: 무지개 송어 간 내 다이벤조피렌-DNA 물질의 억제작용
+
+U Harttig and GS Bailey 
+Department of Environmental and Molecular Toxicology, and Marine/Freshwater Biomedical Sciences Center, Oregon State University, Corvallis 97331, USA. harttigu@bcc.orst.edu
+
+Naturally occurring chlorophylls (Chl) have shown anti-mutagenic activity but little is known about their chemoprotective properties in vivo. This study examined the effect of Chl on formation in vivo of DNA adducts by the potent environmental carcinogen dibenzo[a,l]pyrene (DBP), using rainbow trout as the animal model. 
+Fingerling trout were fed diets containing 200 p.p.m. DBP alone or with one of the following preparations incorporated at 3000 p.p.m. total chlorins: purified pheophytin a (Phe a) (94%); semi-purified Chl a (77%, 23% Phe a), commercial Chl a (88%, 12% other Chl a-related compounds); crude spinach extract (53% Chl a, 19% Chl b, 14% Phe a, 9% carotenoids); commercial Cu-chlorophyllin (55% chlorins, 45% neutral salts), as a known inhibitory control.
+After 2 weeks dietary treatment, the animals were killed and organs were collected. Total DBP-DNA adducts in the DBP-only group were 2.46 +/- 0.32 adducts/10(6) nucleotides.
+All chlorophyll treatment groups showed significantly lower adduct levels (P < 0.001, Tukey's HSD test), as follows: crude spinach extract, 0.64 +/- 0.14; semi-pure Chl a, 0.5 +/- 0.11; commercial Chl a, 1.26 +/- 0.17; Phe a, 0.95 +/- 0.01; chlorophyllin, 0.78 +/- 0.09. 
+The various treatments suppressed DBP-DNA adducts essentially uniformly across the HPLC profile, which is consistent with complex formation and reduced carcinogen uptake as the predominant protective mechanism. The chlorophyll-mediated reduction in DBP-DNA adducts in vivo is the first demonstration of anti-genotoxic activity of these common dietary phytochemicals in any vertebrate animal model. 
+
+참고 (PDF) : 1323.pdf
+천연 엽록소(Chl)의 항 돌연변이작용은 밝혀졌지만, Chl의 생체 내 보호특성에 관해서는 그다지 알려지지 않았습니다. 이번 연구에서는 무지개송어를 모델로 하여, 강력한 환경발암원인 dibenzo[a,l]pyrene (DBP)에 의한 생체 내 DNA부가물 형성에 끼치는 엽록소의 영향을 조사했습니다.  
+새끼 송어들에게 200ppm의 DBP만 혹은 총 클로린 3000 p.p.m에서 혼합된, 다음의 제제 중 한 가지를 함께 먹였습니다. ; 정제 피오화이틴 a (Phe a, 94%) ; 알려진 억제조절제인 반 정제엽록소 a (77%, Phe a 23%) 공업용엽록소 a (88%, 엽록소 a와 관련된 다른 화합물 12%) ; 천연 시금치추출물 (엽록소 a 53%, 엽록소 b 19%, Phe a 14%, 카로티노이드 9%) ; 공업용 동-클로로필린 (클로린 55%, 중성 염 45%) 
+2주간의 식이투여 후 송어를 죽여 기관을 채집했습니다. DBP만 복용한 그룹의 총 DBP-DNA부가물은 2.46 +/- 0.32 부가물/10(6) 뉴클레오티드였습니다. 
+모든 엽록소 치료그룹은 다음과 같은 상당히 낮은 부가물 농도(P < 0.001, Tukey's HSD test)를 보였습니다.; 천연 시금치추출물, 0.64 +/- 0.14; 반 정제엽록소 a, 0.5 +/- 0.11; 공업용엽록소 a, 1.26 +/- 0.17; 피오화이틴 a, 0.95 +/- 0.01; 클로로필린, 0.78 +/- 0.09
+이 다양한 치료는 액체 크로마토그래피측면도를 가로지르는 DBP-DNA부가물을 균일하게 억제하였습니다. 이 측면도는 우세한 보호 메커니즘으로서 복합체 형성 및 감소된 발암원 흡수와 일치합니다. 생체 내에서 엽록소에 의한 DBP-DNA부가물 감소는 모든 척추동물에 있어서 이 보통의 식이 식물내재영양소의 항 유전독성 작용에 대한 최초의 증거입니다. 
+
+dibenz(a,l)pyrene
+다핵방향족탄화수소의 유해성은 통상 발암성과 관련하여 얘기한다. 작업장이나 일반 환경 중 다핵방향족 탄화수소에 노출될 때는 흡입이나 접촉시 피부를 통해 몸으로 흡수되며, 지방조식에 유입되어 신장, 간 등에 축적되지만, 대부분은 분비물을 통해 체외로 빠져나가게 된다. IARC(International Agency for Research on Cancer)는 다음물질은 실험동물에게서 발암성이 있다고 보고하였다.(위 기본물질위에 다른 종류도 많음) 
+: benzo(a)anthracene, benzo(b)fluoranthene, benzo(j)anthracene, benzo(k)anthracene, benzo(a)pyrene,     dibenz(a,h)acridine, dibenz(a,j)acridine dibenz(a,h)anthracene, 7H-dibenz(c,g)carbazole, dibenz(a,e)pyrene,  dibenz(a,h)pyrene, dibenz(a,i)pyrene, dibenz(a,l)pyrene, indeno(1,2,3-cd)pyrene, 5-methylchrysene 
+다핵방향족탄화수소가 함유된 물질인 콜타르, 콜타르 핏치, 코크스오븐배출물질, 검댕(soot), 광물유(untreated or milded treated mineral oil), 담배 등은 인체에서 암을 일으키는 증거가 충분한 발암성물질로 설정하고 있다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[독성 헴 형성 억제, 유해물질, 독성물질, 결장 상피이상증식 억제, 결장암]
+
+Carcinogenesis 2005 26(2):387-393; doi:10.1093/carcin/bgh331 
+Green vegetables, red meat and colon cancer : 
+chlorophyll prevents the cytotoxic and hyperproliferative effects of
+haem in rat colon 
+푸른 채소, 붉은 육류 그리고 결장암 :
+쥐 결장 내 헴에 발생하는 독성물질과 이상증식을 엽록소로 예방할 수 있다
+
+Johan de Vogel(1,–3), Denise S.M.L. Jonker-Termont(1,2), Esther M.M. van Lieshout(1,2), Martijn B. Katan(1,3) and Roelof van der Meer(1,2,*)
+ 
+(1) Nutrition and Health Programme, Wageningen Centre for Food Sciences (WCFS) and 
+(2) NIZO Food Research, PO Box 20, 6710 BA Ede, The Netherlands and 
+(3) Wageningen University, Bomenweg 2, 6703 HD Wageningen, The Netherlands 
+(*) To whom correspondence should be addressed at: WCFS/NIZO Food Research, Kernhemseweg 2,     PO Box 20, 6710 BA Ede, The Netherlands. Tel: +31 318 659559; Fax: +31 318 650400;     Email: roelof.van.der.meer@nizo.nl
+
+  Diets high in red meat and low in green vegetables are associated with increased colon cancer risk. This association might be partly due to the haem content of red meat. In rats, dietary haem is metabolized in the gut to a cytotoxic factor that increases colonic cytotoxicity and epithelial proliferation. 
+  Green vegetables contain chlorophyll, a magnesium porphyrin structurally analogous to haem. We studied whether green vegetables inhibit the unfavourable colonic effects of haem. First, rats were fed a purified control diet or purified diets supplemented with 0.5 haem mmol/kg, spinach (chlorophyll concentration 1.2 mmol/kg) or haem plus spinach (n = 8/group) for 14 days.
+ In a second experiment we also studied a group that received haem plus purified chlorophyll (1.2 mmol/kg). Cytotoxicity of faecal water was determined with a bioassay and colonic epithelial cell proliferation was quantified in vivo by [methyl-3H]thymidine incorporation into newly synthesized DNA. Exfoliation of colonocytes was measured as the amount of rat DNA in faeces. 
+  In both studies haem increased cytotoxicity of the colonic contents 8-fold and proliferation of the colonocytes almost 2-fold. Spinach or an equimolar amount of chlorophyll supplement in the haem diet inhibited these haem effects completely. Haem clearly inhibited exfoliation of colonocytes, an effect counteracted by spinach and chlorophyll. 
+  Finally, size exclusion chromatography showed that chlorophyll prevented formation of the cytotoxic haem metabolite. We conclude that green vegetables may decrease colon cancer risk because chlorophyll prevents the detrimental, cytotoxic and hyperproliferative colonic effects of dietary haem. 
+
+참고 (PDF) : 387.pdf
+붉은 육류는 많고 녹색 채소가 적은 식사는 결장암 위험증가와 관련이 있습니다. 이 관련성은 부분적으로 붉은 고기의 헴 함유량과 관련될 지도 모릅니다. 쥐에 있어서 장 내의 식이성 헴은 결장의 세포독성 및 상피세포이상증식을 증가시키는 세포독성인자로 신진대사 됩니다.
+녹색 채소에는 엽록소(헴과 구조적으로 유사한 마그네슘 포르피린)가 들어있습니다. 헴이 결장에 끼치는 해로운 작용을 녹색채소가 막을 수 있는지를 연구했습니다. 우선, 정제된 조절식 혹은 0.5mmol/kg의 헴으로 보충한 정제식, 시금치(엽록소 농도 1.2 mmol/kg)혹은 헴과 시금치(n = 8/group)를 쥐에게 14일 동안 먹였습니다.
+두 번째 실험에서, 헴과 정제엽록소(1.2 mmol/kg)를 먹인 한 그룹을 또한 연구했습니다. 배설물의 세포독성을 생물학적 분석으로 확인했으며, 생체 내에서 [methyl-3H]thymidine이 새로 합성된 DNA에 결합하는 것으로, 결장상피세포증식을 정량했습니다. 대변 내의 쥐 DNA 양을 알기위해, 결장상피세포의 박락물을 측정했습니다. 
+두 연구에서 헴은 결장의 세포독성 함량을 8배 그리고 결장상피세포의 이상증식을 거의 2배가량 증가시켰습니다.  헴 식단에서 시금치 혹은 같은몰 양의 엽록소보충제는 이 헴 영향을 완전히 억제했습니다. 시금치와 엽록소에 의한 반대효과인 결장상피세포의 박락을 헴이 명확히 억제했습니다. 
+최종적으로, 크기 배제 크로마토그래피에서는 엽록소가 세포독성 헴 대사산물의 형성을 방지한다는 것이 밝혀졌습니다. 식이성 헴이 결장에 끼치는 유해한, 세포독성적 및 과증식적 영향을 엽록소가 막기 때문에, 녹색채소가 결장암위험을 감소시킬 수도 있다고 결론내립니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[관강내 독성 억제작용, 결장 이식증식억제작용]
+(엽록소(클로로필)의 효과 클로로필린은 효과 없음)
+
+The American Society for Nutritional Sciences J. Nutr. 135:1995-2000, August 2005 
+Natural Chlorophyll but Not Chlorophyllin Prevents Heme-Induced Cytotoxic and Hyperproliferative Effects 
+in Rat Colon1,2
+쥐 결장에서 헴으로 인한 세포화학적독소 및 이상증식작용을 클로로필린이 아닌 천연엽록소가 예방
+
+Johan de Vogel(*,+,**), Denise S. M. L. Jonker-Termont(*,+), Martijn B. Katan(*,**) and Roelof van der Meer(*,+,3) 
+
+(*) Wageningen Centre for Food Sciences (WCFS), Nutrition and Health Programme, 6700 AN,     Wageningen, The Netherlands;  
+(+) NIZO food research, 6710 BA, Ede, The Netherlands; and 
+(**) Wageningen University, 6703 HD, Wageningen, The Netherlands 
+(3) To whom correspondence should be addressed. E-mail: Roelof.van.der.meer@nizo.nl
+
+Diets high in red meat and low in green vegetables are associated with an increased risk of colon cancer. In rats, dietary heme, mimicking red meat, increases colonic cytotoxicity and proliferation of the colonocytes, whereas addition of chlorophyll from green vegetables inhibits these heme-induced effects. 
+
+Chlorophyllin is a water-soluble hydrolysis product of chlorophyll that inhibits the toxicity of many planar aromatic compounds. The present study investigated whether chlorophyllins could inhibit the heme-induced luminal cytotoxicity and colonic hyperproliferation as natural chlorophyll does.
+
+Rats were fed a purified control diet, the control diet supplemented with heme, or a heme diet with 1.2 mmol/kg diet of chlorophyllin, copper chlorophyllin, or natural chlorophyll for 14 day (n = 8/group). The cytotoxicity of fecal water was determined with an erythrocyte bioassay and colonic epithelial cell proliferation was quantified in vivo by [methyl-3H]thymidine incorporation into newly synthesized DNA.
+
+Exfoliation of colonocytes was measured as the amount of rat DNA in feces using quantitative PCR analysis. Heme caused a >50-fold increase in the cytotoxicity of the fecal water, a nearly 100% increase in proliferation, and almost total inhibition of exfoliation of the colonocytes. Furthermore, the addition of heme increased TBARS in fecal water. 
+
+Chlorophyll, but not the chlorophyllins, completely prevented these heme-induced effects. In conclusion, inhibition of the heme-induced colonic cytotoxicity and epithelial cell turnover is specific for natural chlorophyll and cannot be mimicked by water-soluble chlorophyllins. 
+
+붉은 육류는 많고 녹색 채소가 적은 식사는 결장암 위험증가와 관련이 있습니다. 쥐에 있어서 붉은 고기의 모방인 식이성 헴은 결장의 세포독성 및 결장상피세포이상증식을 증가시키는 반면 푸른 채소의 엽록소첨가는 이 헴에 의한 영향을 억제했습니다.
+클로로필린은, 많은 평면 방향족화합물의 독성을 억제하는, 엽록소의 수용성 가수분해 산물입니다. 현 연구에서는 천연 엽록소처럼, 헴에 의한 빛세포독성 및 결장과증식을 클로로필린이 억제 할 수 있는가를 조사했습니다.
+14일 동안 정제된 조절식, 헴으로 보충한 조절식 혹은 헴과 1.2mmol/kg의 클로로필린, 구리 클로로필린, 천연 엽록소를 섞은 사료를 쥐(그룹 당 8마리)에게 먹였습니다. 배설물의 세포독성을 적혈구 생물검정으로 측정했으며 결장 상피세포 이상증식은 체내에서 새로 합성된 DNA에 [methyl-3H]thymidine이 결합한 것으로 정량했습니다.
+정량 PCR분석을 이용하여 쥐 DNA 양으로서, 결장상피세포의 박락물을 측정했습니다. 헴은 분비물의 세포독성을 50배 이상 증가시켰고, 이상증식을 거의 100%증가시켰으며, 결장상피세포의 박락물을 거의 전부 억제하였습니다. 더욱이 헴의 첨가는 배설물의 TBARS를 증가시켰습니다.
+
+클로로필린이 아닌 엽록소가 이런 헴에 의한 영향을 완전하게 예방할 수 있습니다. 즉, 헴에 의한 결장의 세포독성 및 상피세포전환은 천연엽록소에 특정하며 수용성 클로로필린으로 모방될 수 없습니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[결장암]
+
+Wageningen University  dissertation no.3907
+Green vegetables and colon cancer: the mechanism 
+of a protective effect by chlorophyll
+녹색 채소와 결장암: 엽록소에 의한 보호 효과 메커니즘
+J. de Vogel
+15 February, 2006
+
+consumption of green leafy vegetables is probably associated with a decreased risk of colon cancer. The objective of this thesis was to find what molecular mechanism explains the modulating effect of green vegetables on the risk of colon cancer.
+Red meat consumption is associated with an increased risk of colon cancer. Feeding rats heme, which is the iron porphyrin pigment of red meat, increased cytotoxicity of the gut contents, injured colonocytes, increased colon epithelial cell death, and impaired normal physiological function of the colon. Furthermore, heme in the diet resulted in epithelial hyperproliferation and inhibited apoptosis to compensate for increased colonic cell loss. The ubiquitous pigment in green leafy vegetables is chlorophyll. Chlorophyll is a phytol-esterified magnesium porphyrin and thus structurally analogous to heme. Mixing spinach or equimolar amounts of chlorophyll through the heme diet prevented all heme-induced effects. In contrast, addition of chlorophyllin, the hydrophilic analogue of chlorophyll, to the heme diet did not prevent the heme-induced detrimental effects on the colon mucosa, indicating that intact chlorophyll is required. Studies in vitro showed that heme and chlorophyll preferentially accumulate in the lipid phases and that heme and chlorophyll have a high affinity for each other. This high affinity was confirmed in a chlorophyll dose-response study, which showed that even low amounts of dietary chlorophyll(equimolar to heme) prevented all heme-induced detrimental effects in the rat colon. Finally, we studied the relevance of our in vitro and animal experimental studies in the Netherlands Cohort Study on diet and cancer. A weak trend was observed for an association between the increased intake of heme and the risk of colon cancer in men but this trend became more significant when chlorophyll intake was considered. Furthermore, we demonstrated that increasing the molar ratio of heme over chlorophyll is associated with an increased risk of colon cancer in men. No consistent associations were observed for women.
+In conclusion, hydrophobic binding of chlorophyll to heme in the gut lumen of the rat prevents the heme-induced disrupted balance in colon epithelial cell turnover. This offers a molecular explanation for the preventive effect of green leafy vegetables on colon carcinogenesis.
+
+
+붉은 고기의 섭취는 결장암의 위험 증가와 연관되어 있습니다. 헴(heme, 붉은 고기의 철 포르피린 색소)을 먹은 쥐는 장의 세포독성이 증가했고, 결장상피세포가 손상되었으며, 결장 상피세포사가 증가했으며 결장의 정상 생리기능이 손상되었습니다. 더구나, 음식물 속의 헴이 상피 과증식을 가져왔고 증가된 결장세포손실을 보충하기 위해 세포자멸사(너무 많은 또는 적은 세포가 죽게 되면 여러 가지 질병이 생길 수 있는데 이러한 세포의 죽음을 조절하는 체계)를 억제했습니다. 
+녹색채소에 풍부한 이 색소가  엽록소입니다. 엽록소는 피톨이 에스테르화 한 마그네슘 포르피린이며 따라서 구조적으로 헴과 유사합니다. 헴을 함유한 음식물에 시금치나 같은 몰(mole:분자 그램)의 엽록소를 섞은 혼합물은 헴에 의한 모든 영향을 예방했습니다. 대조적으로, 헴을 함유한 음식물에 클로로필린(친수성 엽록소 유사체)을 첨가하는 것은 결장 점막에 끼치는 헴의 악영향을 없애주지 못했으며, 순수한 엽록소가 필요하다는 것을 의미합니다. 헴과 엽록소는 우선적으로 지질(예: 지방과 밀랍)측면에 축적되며 이들이 서로 간에 높은 친화력을 가진다는 것이 시험관 연구에서 밝혀졌습니다. 이 높은 친화력은 엽록소 투여량 반응연구에서 확인되었으며 이것은 쥐 결장에서 심지어 적은 양의 식이 엽록소(헴과 같은 몰량)까지도 헴에 의한 모든 악 영향을 방지했음을 밝혀줍니다. 마지막으로 음식과 암에 관한 네덜란드 코호트연구와 우리의 시험관 및 동물실험연구의 관련성을 연구했습니다. 남성의 경우 헴 섭취 증가와 결장암 위험 사이의 관련성은 약한 경향을 보였으나, 엽록소 섭취가 고려된다면 이 경향이 더 중요해집니다. 
+게다가, 남성의 경우 엽록소에 비해 헴 몰 비율이 증가하는 것은 결장암의 위험증가와 관련이 있음을 증명했습니다. 여성의 경우 일관된 관련성은 없었습니다.
+결론적으로, 쥐 관내강에서 헴과 엽록소의 소수성 결합은 헴에 의한 결장상피세포변환에 있어서 균형이 깨지는 것을 방지합니다. 따라서 결장암 발암에 끼치는 녹색 채소의 예방 효과에 대한 분자적 해명을 이것이 제공합니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[항돌연변이]
+
+Mutation Research/Genetic Toxicology 
+Volume 77, Issue 3 , March 1980, Pages 245-250 
+
+Antimutagenic activities of common vegetables and their chlorophyll 
+content. 
+일반적인 채소 및 그것들의 엽록소 내용물의 항 돌연변이성 활동.
+
+Chiu-Nan Lai1, Mary Ann Butler2 and Thomas S. Matney2 
+
+1. Department of Biology, The University of Texas System Cancer Center, M.D. Anderson Hospital and 
+   Tumor Institute, Houston, TX 77030, U.S.A.
+2. The University of Texas Health Science Center at Houston, Graduate School of Biomedical 
+   Sciences, Houston, TX 77030, U.S.A. 
+
+
+Abstract
+Aqueous and acetone extractions of some common vegetables inhibited the activation of 3-methylcholanthrene and benzo[a]pyrene in the Ames Salmonella gene reversion mutagenesis/mammalian microsomal activation assay. The potency of the inhibitory activity was correlated with the chlorophyll content of the acetone extracts. The aqueous fractions contained sufficient histidine to interfere with the interpretation of the result. However, grouping the aqueous extracts from vegetables yielding low, medium, and high levels of histidine allowed comparison between antimutagenic activity and chlorophyll content. Increasing chlorophyll contents corresponded to increasing antimutagenic activities in all 3 groups. Sodium copper chlorophyllin demonstrated comparable inhibitory activity when compared at the same chlorophyll level.
+
+
+에임즈 셀모넬라 유전자복귀 돌연변이 유발/포유류 미세소체 활동분석으로 몇 가지 일반적 채소의 수성 및 아세톤 추출이 3-methylcholanthrene 및 benzo[a]pyrene의 작용을 억제했습니다. 억제작용의 효능은 아세톤 추출물의 엽록소 성분과 관련됩니다. 수성 부분은 결과의 해석을 방해하는 충분한 히스티딘을 지닙니다. 그러나 식물 열매로부터의 수성 추출물을 히스티딘 저, 중 및 고 농도로 그룹화 하는 것은 항 돌연변이 작용 과 엽록소 성분 사이의 비교가 가능하게 합니다. 모든 세 그룹에서 엽록소 성분이 증가함에 따라 항 돌연변이 작용도 증가했습니다. 같은 엽록소 농도에서 비교했을 때, 나트륨 구리 클로로필린은 그에 상당하는 억제작용을 보였습니다. 
+
+
+
+3-methylcholanthrene, benzo(a)pyrene
+전구 발암물(procarcinogen)로 전구발암물은 최종 발암물(ultimate carcinogen)이 되어야 암을 일으킬 수 있는 물질로 polycyclic aromatic hydrocarbon, aromatic amine과 amide, nitrosamine 등이 여기에 해당한다. 전구발암물은 cytochrome p-450 dependent mono-oxygenase와 같은 산화 및 과산화 효소에 의해 대사되어 중간산물(proximate carcinogen)을 거쳐 최종 발암물이 되어야 발암성을 획득한다.
+
+Histidine (히스티딘)
+아미노산 중의 하나로 은 발육하는 어린이와 회복기의 환자에게 필수 아미노산이다.
+
+
+
+
+
+
+[aflatoxin B1, fumonisin B1, 수퍼옥사이드, mycotoxin]
+
+J Food Prot. 2001 Jan;64(1):120-31.
+
+Dietary strategies to counteract the effects of mycotoxins: a review.
+진균 독성의 영향을 상쇄시키는 식이 전략. 
+
+Galvano F, Piva A, Ritieni A, Galvano G. 
+Dipartimento di Scienze e Tecnologie Agroforestali ed Ambientali, Universita di Reggio, Gallina di Reggio Calabria, Italy. fgalvano@mbox.fagr.unict.it
+
+
+We reviewed various dietary strategies to contain the toxic effects of mycotoxins using antioxidant compounds (selenium, vitamins, provitamins), food components (phenolic compounds, coumarin, chlorophyll and its derivatives, fructose, aspartame), medicinal herbs and plant extracts, and mineral and biological binding agents (hydrated sodium calcium aluminosilicate, bentonites, zeolites, activated carbons, bacteria, and yeast). Available data are primarily from in vitro studies and mainly focus on aflatoxin B1, whereas much less information is available about other mycotoxins. Compounds with antioxidant properties are potentially very efficacious because of their ability to act as superoxide anion scavengers. Interesting results have been obtained by food components contained in coffee, strawberries, tea, pepper, grapes, turmeric, Fava tonka, garlic, cabbage, and onions. Additionally, some medicinal herbs and plant extracts could potentially provide protection against aflatoxin B1 and fumonisin B1. Activated carbons, hydrated sodium calcium aluminosilicate, and bacteria seem to effectively act as binders. We conclude that dietary strategies are the most promising approach to the problem, considering their limited or nil interference in the food production process. Nevertheless, a great research effort is necessary to verify the in vivo detoxification ability of the purposed agents, their mode of action, possible long-term drawbacks of these detoxification-decontamination procedures, and their economical and technical feasibility.
+
+PMID: 11198434 [PubMed - indexed for MEDLINE]
+
+
+항산화제 화합물(셀렌, 비타민, 프로비타민), 식품성분(페놀화합물, 쿠마린, 엽록소 및 그 유도체, 과당, 아스파르탐), 약초 및 식물 추출물 그리고 미네랄 및 생물학적 결합제(수화나트륨 칼슘 알루미노 규산염, 벤토나이트, 제올라이트, 활성탄, 세균 및 효모)를 사용해 진균독소의 독성효과를 억제하는 다양한 식이전략을 고찰했습니다. 처음 자료가 입수가능한 자료는 처음에는 시험관 연구에서였으며 주로 아플라톡신 B1에 초점을 둔 반면, 다른 진균독소에 관한 정보는 거의 없었습니다. 과산화이온 제거제로 작용하는 능력 때문에 항산화제 특성을 지닌 화합물은 잠재적으로 매우 효능이 있습니다. 커피, 딸기, 차 후추, 포도, 심황, Fava tonka, 마늘, 양배추 및 양파에 함유된 식품성분으로 얻은 결과는 흥미롭습니다. 게다가 아플라톡신 B1 및 푸모니신 B1에 대항하여 몇 가지 약초 및 식물 추출물이 잠재적으로 보호를 제공할 수도 있습니다. 활성탄, 수화나트륨 칼슘 알루미노 규산염 및 세균은 결합체로서 효과적으로 작용하는 것 같습니다. 
+식품생산과정에 있어서 간섭이 제한적이거나 없음을 고려하면, 이 문제에 대해 가장 유망한 접근법은 식이전략이라고 결론 내렸습니다. 그럼에도 불구하고,이 목적제재의 생체 내 해독능력, 활동방식, 이 해독-오염제거진행에의 장기적 결함가능성 그리고, 경제적이고 기술적인 가능성을 확인하기 위해 대단한 연구노력이 필요합니다. 
+
+
+Fumonisin (푸모니신)
+푸모니신은 주로 Fusarium moniliforme 종이 오염된 옥수수, 밀과 쌀 등에서 생성되며, 사람에서 식도암과 같은 일부 질병과 밀접한 관련이 있는 것으로 알려져 있다. 독소의 종류는 6개(A1, A2, B1, B2, B3와 B4)가 있으며, 그 중 주요 대사산물인 B1과 B2가 독성학적으로 중요하다. 역학적으로 인체에서 설사, 복통을 보이는 급성중독 예가 인도에서 보고되었다. Fusarium moniliforme으로 오염된 곡물섭취를 통하여 푸모니신에 장기간 노출되면, 식도암의 발생률이 매우 높은 것으로 알려져 있으며, IARC는 사람에서 발암가능물질(Group 2B)로 분류하였다.
+[암예방, 암치료, 발암억제]
+
+Int J Mol Med. 1998 Apr;1(4):747-53. 
+
+Effect of dietary phytochemicals on cancer development (review)
+암 성장에 있어 식이성 피토케미칼의 영향.
+
+Waladkhani AR, Clemens MR. 
+Medizinische Abteilung I, Krankenanstalt Mutterhaus der Borromaerinnen, 54219 Trier, Germany.
+
+
+Vegetables, fruits, and whole grains contain a wide variety of phytochemicals that have the potential to modulate cancer development. There are many biologically plausible reasons why consumption of plant foods might slow or prevent the appearance of cancer. These include the presence in plant foods of such potentially anticarcinogenic substances as carotenoids, chlorophyll, flavonoids, indole, isothiocyanate, polyphenolic compounds, protease inhibitors, sulfides, and terpens. The specific mechanisms of action of most phytochemicals in cancer prevention are not yet clear but appear to be varied. Considering the large number and variety of dietary phytochemicals, their interactive effects on cancer risk may be extremely difficult to assess. Phytochemicals can inhibit carcinogenesis by inhibiting phase I enzymes, and induction of phase II enzymes, scavenge DNA reactive agents, suppress the abnormal proliferation of early, preneoplastic lesions, and inhibit certain properties of the cancer cell.
+
+PMID: 9852292 [PubMed - indexed for MEDLINE]
+
+
+채소, 과일 및 모든 곡식은 아주 다양한 식물내재영양소(암 발생을 완화시키는 잠재성을 지님)를 함유합니다. 식물식품의 섭취가 암의 발생을 늦추거나 예방할 수도 있다는 데에는 생물학적으로 그럴듯한 이유가 많이 있습니다. 이 식물식품에는 잠재적인 항 발암물질(카로티노이드, 엽록소, 플라보노이드, 인돌, 이소티오시안산염, 폴리페놀 화합물, 단백분해효소억제제, 황화, 및 테르펜)이 존재합니다. 암 예방에 있어서 대부분의 식물내재영양소의 특정한 작용메커니즘은 아직 분명하지 않으나 다양한 것으로 보입니다. 식이 식물내재영양소의 많은 수효와 다양성을 고려하면, 암 위험에 끼치는 이들의 상호작용적 효과의 평가는 매우 어려울 수도 있습니다. 억제 I단계 효소 및 II단계 효소(DNA 반응제 제거)의 유도에 의해 식물내재영양소가 발암을 억제할 수도 있으며, 초기 전암성 병터의 이상증식을 억제하고 암세포의 특정성질을 억제합니다.
+
+
+phytochemical 식물 속에 함유된 화학 물질.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[항 돌연변이작용, 항암작용, 피부암 억제]
+
+Journal of UOEH. 1998 Sep 1;20(3):181-8.
+Potent suppressive activity of chlorophyll a and b from green tea (Camellia sinensis) against tumor promotion in 
+mouse skin.
+쥐 피부에 있어 암 증식을 막는 녹차(Camellia sinensis)에서 추출한 엽록소 a, b의 강력한 억제 작용
+Higashi-Okai K, Okai Y.
+Department of Human Life Science, Osaka Kun-Ei Women's College, Japan.
+
+Potent antigenotoxic and anti-tumor promoting activities of chlorophyll a from green tea (camellia sinensis) have been shown using in vitro cell culture experiments (Okai Y. et al. (1996) Mutation Res., 370, 11-17). 
+
+In the present study, the authors analyzed in vivo effects of chlorophyll a and b from green tea on tumor promotion in mouse skin in the following ways. 
+
+1. When chlorophyll a and b from green tea were applied before each treatment by a tumor promoter, 12-O-tetradecanoyl-phorbol-13-acetate (TPA) on BALB/c mouse skin initiated by 7, 12-dimethylbenz [a] an-thracene (DMBA), they caused significant suppression in a dose-dependent manner against BALB/c mouse skin tumorigenesis. 
+
+2. Chlorophyll a and b showed significant suppressive effects against TPA-induced inflammatory reaction such as edema formation in BALB/c mouse ear skin in a dose-dependent fashion. 
+
+These results suggest that chlorophyll a and b possess potent suppressive activities against tumor promotion in mouse skin.
+
+녹차(camellia sinensis)에서 추출한 엽록소 a의 강력한 항 유전자독성 및 항종양 촉진작용을 시험관 내 배양세포 실험을 이용하여 밝혔습니다. (Okai Y. et al. (1996) Mutation Res., 370, 11-17)
+
+현 연구에서는 다음과 같은 방식으로 시험관 조건에서 생쥐 피부의 종양촉진에 끼치는 엽록소 a 및 b(녹차에서 추출)의 영향을 분석했습니다. 
+
+1. 종양 촉진제 12-O-tetradecanoyl-phorbol-13-acetate(TPA)에 의한 각각의 처리 전에 7, 12-dimethylbenz [a] an-thracene(DMBA)에 의해 유발된 BALB/c 생쥐 피부에 엽록소 a 및 b(녹차에서 추출)를 도포했을 때, 엽록소는 BALB/c 생쥐 피부 종양발생에 대항하여 투여량에 따라 현저한 억제를 일으켰습니다.
+
+2. TPA에 의한 염증성반응(BALB/c 생쥐 귀 피부부종 형성과 같은)에 대항하여 엽록소 a 및 b가 투여량에 따라 현저한 억제효과를 보였습니다.
+
+이 결과는 엽록소 a 및 b가 생쥐피부의 종양촉진에 대항하여 강력한 억제작용을 가진다는 것을 나타냅니다. 
+
+
+DMBA (7,12-dimethylbenz(a)anthracene)
+전구 발암물(procarcinogen)로 전구발암물은 최종 발암물(ultimate carcinogen)이 되어야 암을 일으킬 수 있는 물질로 polycyclic aromatic hydrocarbon, aromatic amine과 amide, nitrosamine 등이 여기에 해당한다. 전구발암물은 cytochrome p-450 dependent mono-oxygenase와 같은 산화 및 과산화 효소에 의해 대사되어 중간산물(proximate carcinogen)을 거쳐 최종 발암물이 되어야 발암성을 획득한다.
+
+TPA (12-O-tetradecanoylphorbol-13-acetate)
+키나아제(인산화(燐酸化) 반응의 촉매가 되는 효소) 활성제, 종양촉진제
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[만성 췌장염]
+
+Gastroenterol Jpn. 1980;15(1):49-61.
+
+Therapeutic effect of chlorophyll-a in the treatment of patients with 
+chronic pancreatitis.
+만성적인 췌장염 같은 환자의 치료에 있어서 클로로필a의 치료상의 효과.
+
+Yoshida A, Yokono O, Oda T. 
+
+
+The favorable clinical effects of water-soluble form of chlorophyll-a in the treatment of patients with chronic relapsing pancreatitis are described. 1) 34 cases were treated with chlorophyll-a infusion and fairly favorable effect was obtained in 23 cases and some favorable effect, in 9 cases. 2) The most disgusting symptom of pancreatitis, the abdominal pain disappeared in a week or so with infusion of 5--20 mg of chlorophyll-a per day for 1--2 weeks, in all the effective cases. 3) Patients have become well controlled by intermittent administration of chlorophyll-a, even when they had recurrences. 4) 5 cases which had difficulty in the treatment by trasylol, were also successfully treated with chlorophyll-a. 5) In all the cases treated with chlorophyll-a, no unfavorable side-effect, such as of allergic, or photosensitive, or hepatotoxic nature, was hitherto observed.
+
+PMID: 6153629 [PubMed - indexed for MEDLINE]
+
+
+만성 재발 췌장염이 있는 환자의 치료에 있어서 엽록소 a의 수용성 형태의 순조로운 임상결과를 기술했습니다. 1) 엽록소 a 주입으로 34건을 치유했으며, 23건에서 매우 좋은 결과를 얻었고 조금 좋은 결과는 9건에서 나왔습니다. 2) 모든 유효사례에서 일 이주동안 하루에 엽록소 a를 5-20 mg주입하자 췌장염의 가장 불쾌한 증상인 복부 고통이 약 일 주후 사라졌습니다. 3) 재발했을 때조차도 환자들은 엽록소 a의 간헐적 투여로 잘 제어되었습니다. 4) 트라시롤에 의해 치료에 어려움을 겪었던 다섯 사례 또한 엽록소 a로 성공적으로 치유되었습니다. 5) 엽록소 a로 치유한 모든 사례에 있어서 아직까지는 어떠한 부작용(알러지, 광과민성 혹은 간독성 등)도 관찰되지 않았습니다.
+
+Trasylol (트라시롤)
+바이엘사의 심장수술 동안 출혈을 예방하는 약물. 최근 바이엘은 '트라시롤'이 신장질환, 충혈성 심질환, 뇌졸중, 사망 위험을 높일 수 있다는 새로운 연구결과를 미국 FDA에 보고했다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[상처치료]
+
+The American Journal of Surgery Volume 80, Issue 2 , August 1950, Pages 204-210 
+Chlorophyll and wound healing*1 :
+Experimental and clinical study 
+엽록소와 상처 치료 :실험에 입각한 임상 연구
+
+Conrad R. Lam M.D.1 and Brock E. Brush M.D.1 
+Detroit, Michigan, USA. Available online 12 March 2004. 
+
+*1 This work was done under a contract recommended by the Committee on Medical Research     between the Office of Scientific Research and Development and the Henry Ford Hospital.
+
+ 1 From the Division of General Surgery of the Henry Ford Hospital, Detroit, Mich.
+
+
+이것은 헨리포드병원 자연과학 R&D 연구소와 의학연구위원회 간에 의해 추천된 계약 아래 이루어진 엽록소의 상처치료 효능에 관한 연구 자료를 근간으로 미국 미시간주 디트로이트 소재 헨리 포드 병원 일반외과 소속의 램, 브러쉬 등 2명의 의학박사에 의해 실험에 입각한 임상연구 논문이다. 
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[상처치료]
+
+The American Journal of Surgery Volume 62, Issue 3 , December 1943, Pages 358-369
+Chlorophyll*1 :An experimental study of its water soluble derivatives
+in wound healing 
+엽록소 :수용성 유도체의 상처 치료 실험 연구
+
+Lawrence W. Smith M.D.1 and Alfred E. Livingston Ph.D.1
+Philadelphia, Pennsylvania, USA. Available online 21 March 2004. *1 Aided by a grant from the Committee on Therapeutic Research of the Council on Pharmacy and     Chemistry of the American Medical Association.
+
+ 1 From the Departments of Pathology and Pharmacology, Temple University School of Medicine,    Philadelphia.
+
+
+미국의학협회 화학 및 치료 연구소 위원회의 약학 심의위원회로부터의 허가와 도움으로 펜실베니아주 필라델피아 소재 템플 의과대학, 병리 약학부 스미스 의학박사, 리빙스턴 박사 등 2명에 의해 실험에 입각한 연구 논문이다. 
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+[화농성 질환, 상처치료]
+
+The American Journal of Surgery Volume 73, Issue 1 , January 1947, Pages 37-50
+Chlorophyll in wound healing and suppurative disease
+화농성의 질환과 상처 치료에 있어서의 엽록소 
+Warner F. Bowers, Lieut. Col. 
+Medical Corps, Army of The United States, USA. Available online 18 March 2004. 
+
+
+
+
+
+미군 의무단 보워즈, 콜에 의해 기고된 화농성의 질환과 상처 치료에 있어서의 엽록소 효능 자료
+
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+suppurative disease (화농성질환)
+화농은 외상을 입은 피부나 각종 장기 등에 농(고름)이 생기는 것이다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[급성 또는 만성 화농성 질환]
+
+The American Journal of Surgery Volume 49, Issue 1 , Pages 49-55
+Chlorophyll - Its therapeutic place in acute and suppurative disease*1 :
+Preliminary report of clinical use and rationale
+엽록소 - 급성 화농성 질환에 있어서의 치료적인 의미 : 
+임상적 사용과 이론적 근거의 예비적인 보고
+
+Benjamin Gruskin M.D., Director of Experimental Pathology and Oncology 
+Temple University, Philadelphia, Pennsylvania, USA Available online 8 April 2004. *1 Detailed case reports will be included in the author's reprint.
+
+The use of chlorophyll in the treatment of acute and chronic suppurative conditions is suggested. A theoretical consideration of its mechanism is presented. Its chemistry is reviewed briefly. Its use in surgical conditions, in otorhinolaryngology, in dermatology, and in a variety of other fields is reviewed, with a summary of the results obtained in some 1200 cases. 
+급성 및 만성 화농성 증상의 치료에 있어서 엽록소의 사용이 제시 되었습니다. 그 메커니즘의 이론적 고려사항을 제시했습니다. 엽록소의 화학을 간략하게 검토했으며, 약 1200 용례에서 획득된 결과의 요약과 함께, 외과적 증상, 이비인후과, 피부과 및 다른 다양한 분야에 있어서의 엽록소의 사용도 검토했습니다. 
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+suppurative disease (화농성질환)
+화농은 외상을 입은 피부나 각종 장기 등에 농(고름)이 생기는 것이다.
+
+
+
+
+
+
+
+
+
+
+[화상 치료]
+
+The American Journal of Surgery Volume 70, Issue 1 , October 1945, Pages 58-63
+Chlorophyll and adrenal cortical extract in the local 
+treatment of burns 
+화상의 국소적인 치료에 있어서의 엽록소와 부신 피질 추출물
+
+G. H. Collings, Jr. M.D.1
+Sparrows Point, Maryland, USA. Available online 20 March 2004. 1 From the Bethlehem Steel Company, Sparrows Point Hospital, Sparrows Point, Md.
+
+매릴랜드 스패로 기지의 스패로포인트 병원, 베들레헴 스틸 회사의 콜링 주니어 의학박사에 발표된 화상 치료에 관련된 엽록소 자료
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [상처치료 촉진, 소양증, 통증 제거, 직장(항문)의 상태에 따라 수술 전,후 치료]
+
+The American Journal of Surgery Volume 81, Issue 1 , Pages 81-84.
+Role of chlorophyll in proctology
+직장(항문)병학에 있어서 엽록소의 역할
+Bernard Horwitz M.D.
+Chicago, Illinois, USAAvailable online 11 March 2004. 
+
+Chlorophyll is a non-toxic, bland substance which should occupy a prominent place in the treatment of acute and chronic rectal infections and wound repair in general. The similarity of chlorophyll to hemoglobin suggests the reason for the effectiveness of the former as an aid to tissue healing. Chlorophyll does not possess the antibacterial potency of specific chemotherapeutic agents, but its value in healing cannot be overlooked. Finally, 20 per cent dissolved benzocaine in a bland water-soluble base provides a potent, safe, topical anesthetic. Combined with diffusible chlorophyll it becomes very valuable when the regeneration of tissue is indicated. Such a preparation has a definite place in the preoperative and postoperative treatment of rectal conditions when relief of pain and pruritus and acceleration of healing are needed. 
+
+
+엽록소는 대체적으로 급성 및 만성 직장감염 및 상처회복 치료분야에서 우세한 위치를 점거한 무독성의 순한 물질입니다. 엽록소의 헤모글로빈과의 유사성은 조직치유 보조물로서의 엽록소의 효과에 대한 근거를 제시합니다. 엽록소가 특정한 화학요법제의 항균 능력을 가지고 있지 않지만 치료에 있어서의 그 가치는 무시될 수 없습니다. 마지막으로 순한 수용성염에 20%로 용해시킨 벤조카인은 강력하고, 안전한 국소마취제입니다. 조직재생을 뜻할 때 확산성 엽록소와 조합하면 벤조카인은 매우 유익한 가치를 지니게 됩니다. 
+통증 및 가려움증 완화와 치료촉진이 필요할 때, 이런 제제는 직장질환의 수술 전, 후 치료에 있어서 명백한 위치를 가집니다.
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+
+
+
+
+
+
+[만성궤양]
+
+The American Journal of SurgeryVolume 75, Issue 4 , Pages 562-569. 
+Treatment of chronic ulcers with chlorophyll :
+Review of a series of fifty cases 
+엽록소로 만성 궤양의 치료 ;일련의 50 사례의 리뷰
+Joseph B. Cady M.D.1 and Winfield S. Morgan M.D.1Sayre, Pennsylvania, USA. 
+Available online 8 April 2004
+1 From the Department of Medicine, Guthrie Clinic and Robert Packer Hospital, Sayre, Pa. 
+
+Gratifying results have followed the application of an ointment containing the water-soluble derivatives of chlorophyll (Chloresium) in a hydrophilic base in fifty indolent ulcers. Subjective relief of symptoms was expressed by every patient during the course of treatment.Objective evidence of healing was noted to an appreciable degree in all except three patients. We believe that chlorophyll therapy should have a place in the management of chronic ulcers although it cannot be used to the exclusion of other recognized methods of medical and surgical management. 
+
+친수성에 기초한 엽록소의 수용성 유래물을 포함하는 연고를 50가지의 만성궤양에 지원한 결과 만족스런 결과를 얻었다. 개인적인 증후의 경감은 매일 환자의 치료과정에서 나타내었다. 실증적인 증거는 3명의 환자를 제외하고 모든 환자는 평가할 수 있는 등급을 가질 정도의 치료의 효과를 나타내었다. 만성궤양 관리의 엽록소 치료가 외과치료 그리고 의학적인 다른 치료방법을 알아보는 과정에서 제외될 수 없는 한 부분임을 우리는 믿는다.
+
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+chronic ulcers (만성궤양)
+만성궤양이란 만성적으로 구강 ·식도 ·위 ·장 ·방광 ·담낭 등의 벽 내층을 이루는 점막 층의 괴사로 점막의 하층에서 벽의 외층인 근층(筋層)에까지 결손이 미친 상태를 말한다. 괴사의 원인으로는 염증 ·순환장애 ·한랭 ·열 ·방사선 ·화학물질 ·신경성 인자 등을 들 수 있다.
+
+
+
+
+
+
+
+[만성 골수염, 만성 궤양]
+
+The American Journal of Surgery Volume 77, Issue 2 , February 1949, Pages 167-168
+
+Clinical experiences with chlorophyll preparations :With particular reference to chronic osteomyelitis
+and chronic ulcers 
+조제 엽록소 사용한 임상 경험 ;
+만성 골수염 및 만성 궤양에 대한 특별한 관계에 관하여
+
+Earnest B. Carpenter M.D.1
+Richmond, Virginia, USA. Available online 9 April 2004. 1 From the Department of Orthopedic Surgery, Medical College of Virginia Hospital, Richmond, Va.
+
+
+
+미국의 버지니아 리치몬드 소재 버지니아 대학병원의 정형외과 카펜터 의학박사가 발표한 만성 골수염 및 만성 궤양에 대한 엽록소를 사용한 임상 경험
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+osteomyelitis (골수염)
+골수 속에 세균이나 그 밖의 병원체가 침입해 화농성염증(化膿性炎症)을 일으키는 상태. 골질(骨質), 골막, 주변의 피부에도 염증이 파급하여 발적(發赤)·종창(腫脹)·동통(疼痛)·발열을 유발한다. 원인은 포도상구균·연쇄구균·폐렴균·인플루엔자균 등으로, 폐렴·장티푸스·화농성궤양·편도선염에 이어서 발병하기 쉽다. 많이 발병하는 부위는 대퇴골·목뼈·상완골(上腕骨)·요골(橈骨)의 중간부이고, 편평골에는 드물다. 처음에는 골수봉소직염(骨髓蜂巢織炎)의 형태로 염증이 시작되나, 이윽고 고름이 고이기 시작하면 골질을 관통하고 있는 하버스관을 통하여 화농이 뼈 밖으로 퍼져 골막 밑에 고름이 고인다. 또한 골질도 침해되어 괴사를 일으키고 부골(腐骨)이 되면 그것을 에워싸듯이 하여 신생골(新生骨)이 생겨 골구(骨柩)가 되어 만성화, 난치성이 된다. 결핵균에 의해 골수염, 골의 파괴는 카리에스(뼈의 만성염증)라고 부른다. 초기에 항생물질을 다량으로 사용하여 세균을 사멸시키는데, 절개 배농, 부골 적출, 뼈의 결손의 조치 등 치료에는 시간이 걸린다.
+
+
+chronic ulcers (만성궤양)
+만성궤양이란 만성적으로 구강 ·식도 ·위 ·장 ·방광 ·담낭 등의 벽 내층을 이루는 점막 층의 괴사로 점막의 하층에서 벽의 외층인 근층(筋層)에까지 결손이 미친 상태를 말한다. 괴사의 원인으로는 염증 ·순환장애 ·한랭 ·열 ·방사선 ·화학물질 ·신경성 인자 등을 들 수 있다.
+
+
+
+
+
+
+[각종 궤양. 괴저 상처 치료]
+
+The American Journal of Surgery Volume 95, Issue 1 , Pages 102-105 
+Papain-chlorophyll-urea ointment in surgery 외과에 있어 파파인-엽록소-요소 연고
+
+Robert I. Katz M.D.a, Jack W. Reese M.D.b,1 and John J. Byrne M.D.c,1 a, Houston, Texas, USA
+b, Boston, Massachusetts, USA
+c, Boston, Massachusetts, USA
+Available online 23 March 2004.
+
+1. From the Third Surgical Service, Boston University School of Medicine, Boston City Hospital, 
+   Boston Massachusetts.  
+
+Fifty patients with various ulcers and necrotic wounds were treated with a mixture of papain, 
+chlorophyll and urea. This proved to be a valuable chemical débriding agent with few complications of a minor nature. 
+
+
+
+각종 궤양 및 괴사 상처를 가진 50명의 환자를 파파인, 엽록소 및 요소의 혼합물로 치료했습니다.
+이것은 경미한 합병증도 거의 없는 중요한 화학적 괴사조직제거제인 것으로 증명되었습니다. 
+
+* 괴저는 조직괴사의 결과 환부가 탈락 또는 괴사소(壞死巢)가 부패하는 것이다.
+
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[구강 패혈증]
+
+The American Journal of Surgery Volume 62, Issue 1 , October 1943, Pages 117-123 
+The use of water soluble chlorophyll in oral sepsis :
+An experimental study of 300 cases
+구강 패혈증에 있어서의 수용성 엽록소의 사용 :
+300 사례의 실험에 의거한 연구
+
+S. L. Goldberg D.D.S.1
+Chicago, Illinois, USA. Available online 21 March 2004. 1 From the Marcy Center Dental Clinic, Chicago, Illinois.
+
+
+미국의 일리노이 시카코 소재 마시 센터 치과 클리닉의 골드버그 치의학박사가 발표한 구강 패혈증에 있어서의 수용성 엽록소를 사용한 300 사례의 실험에 의거한 연구 내용.
+
+미국 외과학 분야에 권위 있는 외과저널(The American Journal of Surgery)에 1940~50년대 발표된 엽록소 관련 논문으로 자칫 아주 오래된 것으로 치부하기 쉬우나 이 후 다만, 항생제 및 화학요법 등의 출현으로 빛을 발하지 못하였으나, 항생제 및 화학요법의 부작용 및 내성의 증대로 요즈음 다시 천연의 치료요법으로 재  조명되고 있다. 
+
+
+sepsis (패혈증)
+세균 등이 혈액 속으로 유출되어 일어나는 전신의 감염증. 화상이나 외상 등에 의한 1차 감염도 있으나 대부분은 이미 체내에 있는 감염소로부터 병원미생물이 혈액 속으로 유출됨으로써 일어난다. 원인이 되는 질환으로서는 절양(癤瘍) 등의 피부질환, 편도선염, 중이염, 폐렴, 충수염, 신우신염(腎盂腎炎) 등 많은 감염성 증상이 있다. 병원미생물로는 포도상구균·연쇄상구균·폐렴쌍구균·대장균 등의 그람양성균이 많으나 최근에는 프로테우스균, 대장균 등의 그람음성균 또는 진균에 의한 것 등도 증가하고 있다. 임상증상으로는 오한전율(惡寒戰慄)·발한·발열·피로감이 있고, 중증일 때는 혈압강하·핍뇨(乏尿)·무뇨(無尿) 및 패혈증성 쇼크에 빠진다. 기초질환 치료에 스테로이드제, 살리실산, 비(非)스테로이드계 항염증제를 사용하는 경우에는 발열하지 않는 경우가 있다. 때로는 피진이 생기는 경우도 있다. 출혈반(出血斑)이 나타났을 때는 파종성 혈관내 응고증후군의 합병을 생각할 수 있다. 치료는 항생물질에 의한 화학요법으로 하며 증상에 따라 대증요법을 실시한다. 패혈증은 항생물질의 출현으로 예후가 두드러지게 개선되었으나 난치성 감염증인 경우는 좋지 않은 경우도 있다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+[여드름치료]
+
+Hautarzt. 
+1955 Jul;6(7):320-4.
+
+Chlorophyll in the treatment of acne vulgaris.
+여드름을 치료하는 엽록소
+
+
+[Article in German]
+BORELLI S.
+
+PMID: 13277910 [PubMed - indexed for MEDLINE]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[인간의 2형 당뇨병, 비만치료]
+
+Int J Obes Relat Metab Disord. 
+2002 Sep;26(9):1277-80. 
+
+The chlorophyll-derived metabolite phytanic acid induces white adipocyte differentiation.
+엽록소유도체인 피탄산이 백색지방 분화를 유도한다.
+
+Schluter A, Yubero P, Iglesias R, Giralt M, Villarroya F.
+Department de Bioquimica i Biologia Molecular, Universitat de Barcelona, Spain.
+
+Phytanic acid is a derivative of the phytol side-chain of chlorophyll. It appears in humans following the ingestion of fat-containing foods and is present in human blood at a low micromolar concentration. It may activate retinoid X receptors (RXR) or peroxisome proliferator-activated receptor (PPAR) alpha in vitro. Phytanic acid induced the adipocyte differentiation of 3T3-L1 cells in culture as assessed by accumulation of lipid droplets and induction of the aP2 mRNA marker. This effect was mimicked by a synthetic activator of RXR but not by a PPARalpha agonist or by palmitic acid. In human pre-adipocytes in primary culture, phytanic acid also induced adipocyte differentiation. These findings indicate that phytanic acid may act as a natural rexinoid in adipose cells and suggest a potential use in the treatment of human type 2 diabetes and obesity.
+
+
+PMID: 12187408 [PubMed - indexed for MEDLINE] 
+
+피탄산은 피톨곁사슬 엽록소유도체입니다. 지방을 함유한 식품을 섭취하면 인체에서 피탄산이 생성되며, 인간혈액 속에 낮은 마이크로몰 농도로 존재합니다. 시험관 조건에서 피탄산이 레티노인산 수용체(RXR) 혹은 퍼옥시좀증식체 활성화 수용체(PPAR) 알파를 활성화시킬 수도 있습니다. 지방방울의 축적 및 aP2 mRNA 지표의 유도로서 평가되었던 대로, 피탄산이 3T3-L1 배양세포의 지방분화를 유도합니다. RXR의 합성활성제(PPAR알파 작용제 혹은 팔미트산이 아닌)가 이 효과를 모방할 수 있습니다. 또한 일차 배양한 인간의 전 지방세포에서 피탄산이 지방분화를 유도합니다. 지방세포 내에서 피탄산이 천연 rexinoid로서 작용할 수도 있으며, 인간의 2형 당뇨병 및 비만치료에 사용될 가능성이 있다는 것을 이 결과가 암시합니다. 
+
+Phytanic acid(PhA, 피탄산)
+엽록소의 분해과정에서 발생되는 분지지방산(branced-chain fatty acid)이다. PhA는 주로 초식동물인 반추동물유래의 사료원료에 함유되어 있으나, 아직 많은 영양학자들이 관심을 두고 있는 상태는 아니다. PhA는 PPAR-gamma의 자극과정을 통해 지질대사, 인슐린 감수성, 염증을 유발하는 cytokine의 생산 그리고 세포성숙등의 과정에 관여하는 것으로 알려져 있어 비만 및 관련질병의 예방을 위한 사용이 검토되고 있다. 현재 PhA의 전구물질인 phytol을 여러 수준으로 이용가능여부를 검토하기 위한 실험들이 수행되고 있다.
+
+retinoid (레티노이드)
+Retinoid는 화학적으로 retinol(또는 ROH)에 해당되는 vitamin A의 지용성 유도체를 총칭하여 말한다. Retinoid는 크게 자연적 형태와 인위적 형태로 구분된다. 자연적 형태로는 식물에서 비타민 A의 전구체인 베타카로틴, 동물생체 내에 존재하는 retinol, retinoic acid(all-trans와 9-cis형태)와 이들의 대사산물이 알려져 있다. 여드름 치료 등에도 이용되고 있으며 각질형성세포의 활동을 변화시켜서 필링효과가 있기 때문에 다른 탈색제의 효과를 배가시킨다.
+
+
+
+
+
+
+[2형 당뇨병]
+
+Med Hypotheses. 2001 Feb;56(2):217-9.
+
+ 
+The chlorophyll metabolite phytanic acid is a natural rexinoid--potential
+for treatment and prevention of diabetes.
+엽록소 대사산물인 피탄산은 천연의 rexinoid--당뇨병 치료와 예방에의 가능성
+
+McCarty MF.
+
+Pantox Laboratories, 4622 Santa Fe Street, San Diego, CA 92109, USA.
+
+Synthetic ligands of the retinoid X receptor (RXR) have shown antidiabetic activity in mice, apparently owing to the fact that they stimulate the transcriptional activity of PPAR-gamma/RXR heterodimers, much like thiazolidinedione drugs. The chlorophyll metabolite phytanic acid has been shown to be a natural ligand for RXR, active in concentrations near its physiological levels. 
+
+It is thus reasonable to suspect that phytanic acid may have utility for treatment and prevention of human type 2 diabetes. Phytanic acid may mimic or complement various effects of conjugated linoleic acids, which have been shown to activate PPAR-gamma/RXR and prevent rodent diabetes. Administration of hydrolyzed chlorophyll may represent the most cost-effective strategy for raising human tissue levels of phytanic acid.
+
+PMID: 11425290 [PubMed - indexed for MEDLINE] 
+
+
+쥐에 있어서 retinoid X receptor (RXR)의 합성 리간드가 항 당뇨 작용을 보였으며, 대체로 치아졸리딘다이온제(항 당뇨병제)처럼, 이것이 PPAR-gamma/RXR heterodimers의 병인 작용을 촉진하기 때문입니다. 엽록소 대사산물인 피탄산은 RXR의 천연적 리간드가 된다는 것이 밝혀졌고, 생리적 수준과 비슷한 농도에서 활성을 보입니다. 
+
+이처럼 피탄산이 인간 2형 당뇨병의 치료와 예방에 유용할 수도 있다고 짐작하는 데에는 정당한 이유가 있습니다. PPAR-gamma/RXR을 활성화시키고 설치류의 당뇨병을 예방하는, 공액리놀레산의 여러 가지 효과를 피탄산이 모방하거나 보충할 수도 있을 것입니다. 가수분해한 엽록소의 투여가 인간조직의 피탄산 농도를 올리기 위한 가장 비용효과적인 방법을 대표할 수도 있을 것입니다. 
+
+
+
+Phytanic acid(PhA, 피탄산)
+엽록소의 분해과정에서 발생되는 분지지방산(branced-chain fatty acid)이다. PhA는 주로 초식동물인 반추동물유래의 사료원료에 함유되어 있으나, 아직 많은 영양학자들이 관심을 두고 있는 상태는 아니다. PhA는 PPAR-gamma의 자극과정을 통해 지질대사, 인슐린 감수성, 염증을 유발하는 cytokine의 생산 그리고 세포성숙등의 과정에 관여하는 것으로 알려져 있어 비만 및 관련질병의 예방을 위한 사용이 검토되고 있다. 현재 PhA의 전구물질인 phytol을 여러 수준으로 이용가능여부를 검토하기 위한 실험들이 수행되고 있다.
+
+retinoid (레티노이드)
+Retinoid는 화학적으로 retinol(또는 ROH)에 해당되는 vitamin A의 지용성 유도체를 총칭하여 말한다. Retinoid는 크게 자연적 형태와 인위적 형태로 구분된다. 자연적 형태로는 식물에서 비타민 A의 전구체인 베타카로틴, 동물생체 내에 존재하는 retinol, retinoic acid(all-trans와 9-cis형태)와 이들의 대사산물이 알려져 있다. 여드름 치료 등에도 이용되고 있으며 각질형성세포의 활동을 변화시켜서 필링효과가 있기 때문에 다른 탈색제의 효과를 배가시킨다.
+
+
+[고아밀라아제혈증, 급성 췌장염]
+
+Arch Pathol Lab Med. 1979 Feb;103(2):79-81.
+
+Effect of chlorophyll-a, fluorouracil, and pituitrin on experimental acute pancreatitis.
+실험적 급성 췌장염에 끼치는 chlorophyll-a, fluorouracil, 및 pituitrin의 효과
+
+Mann SK, Mann NS. 
+
+Intraductal administration of enterokinase in rats produced hyperamylasemia and acute hemorrhagic pancreatitis. The experimental pancreatitis and hyperamylasemia could be prevented by the concomitant intraductal injection of fluorouracil, pituitrin, or chlorophyll-a. The clinical implication of the study is that these agents, if given intraductally, may be useful in the prevention of iatrogenic hyperamylasemia and acute pancreatitis that may occur after endoscopic retrograde pancreatocholangiography.
+
+PMID: 84661 [PubMed - indexed for MEDLINE]
+
+
+쥐에서 엔트로키나아제 관내 투여가 고아밀라아제혈증 및 급성 출혈성 췌장염을 일으켰습니다. Fluorouracil, pituitrin, 혹은 chlorophyll-a의 관내 주입으로 실험적 췌장염 및 고아밀라아제혈증을 예방할 수 있습니다. 관내로 투여된다면 이 인자들이 내시경역행췌담관조영술 후에 발생할 수도 있는, 의사에게 원인이 있는 고아밀라아제혈증 및 급성 췌장염의 예방에 유용할 수도 있다는 것을 본 임상연구가 암시합니다.
+
+
+enterokinase (엔테로키나아제)
+십이지장점막에 있는 단백질분해효소의 일종. 직접 음식물의 단백질을 분해하는 것이 아니라 이자액인 트립신을 활성화하는 작용을 한다. 트립신은 이자에서 분비될 때 비활성의 트립시노겐이라는 형태로 되어 있다. 이자액이 십이지장에 이르면 엔테로키나아제가 트립시노겐의 N말단부분에서 짧은 펩티드를 잘라내고 활성형트립신으로 만든다. 트립신도 트립시노겐을 활성화하므로 기하급수적으로 활성화가 진행된다. 활성화된 트립신은 또한 키모트립신 등의 다른 소화효소도 활성화하므로 엔테로키나아제의 작용은 여러 가지 소화효소가 작용하기 위한 시발점이 된다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[2형 당뇨병, 당대사, 인슐린내성관리]
+
+FASEB J. 2002 May;16(7):718-20. Epub 2002 Mar 26.
+
+Phytanic acid, a natural peroxisome proliferator-activated receptor (PPAR) agonist, regulates glucose metabolism in rat primary hepatocytes.
+쥐의 단일 간세포에서 천연 퍼옥시좀 증식체 활성화 수용체-감마 효능제인 피탄산이 당대사를 조절한다.
+
+Heim M, Johnson J, Boess F, Bendik I, Weber P, Hunziker W, Fluhmann B. 
+Roche Vitamins Ltd, Research and Development, Department of Human Nutrition and Health, 4070 Basel, Switzerland.
+
+Phytanic acid, a metabolite of the chlorophyll molecule, is part of the human diet and is present in normal human serum at low micromolar concentrations. It was previously shown to be a ligand of the 9-cis-retinoic acid receptor and peroxisome proliferator-activated receptor (PPAR) a. PPAR agonists are widely used in the treatment of type 2 diabetes. Here, we report that phytanic acid is not only a transactivator of PPARa, but it also acts via PPARb and PPARg in CV-1 cells that have been cotransfected with the respective full-length receptor and an acyl-CoA oxidase-PPAR-responsive element-luciferase construct. We observed that, in contrast to other fatty acids, phytanic acid at physiological concentrations enhances uptake of 2-deoxy-D-glucose in rat primary hepatocytes. This result could be explained by the increase in mRNA expression of glucose transporters-1 and -2 and glucokinase, as determined by quantitative real-time reverse transcriptase-polymerase chain reaction. Compared with the PPARg-specific agonist ciglitazone, phytanic acid exerts only minor effects on the differentiation of C3H10T1/2 cells into mature adipocytes. These results clearly demonstrate that phytanic acid acts via different PPAR isoforms to modulate expression of genes involved in glucose metabolism, thus suggesting a potential role of phytanic acid in the management of insulin resistance.
+
+PMID: 11923221 [PubMed - indexed for MEDLINE]
+
+
+엽록소분자의 대사산물인 피탄산은 인간의 음식의 부분이며 정상인의 혈청에 낮은 micromolar 농도로 존재합니다. 이미 9-cis-레티노익산 수용체 및 퍼옥시좀 증식체 활성화 수용체 (PPAR) a의 리간드라는 것은 밝혀져 있습니다. PPAR 감마 효능제는 2형 당뇨병의 치료에 널리 사용되고 있습니다. 여기에 피탄산이 PPARa의 전사촉진자일 뿐만 아니라, 또한 각각 표준 길이의 수용체 및 acyl-CoA oxidase-PPAR-반응인자-luciferase construct로 동시 핵산전달감염시킨 CV-1 세포에서 PPARb 및 PPARg를 통해서도 작용합니다. 다른 지방산과 대조적으로 생리적 농도에서 피탄산이 쥐의 단일 간세포에서 2-deoxy-D-glucose의 흡수를 증가시킨다는 것을 관찰했습니다. 정량 실시간 역전사 중합효소연쇄반응으로 확인된 것처럼, glucose transporters-1과 -2 그리고 glucokinase의 mRNA 발현의 증가로 이 결과가 설명될 수 있을 것입니다. PPARg-특정 감마 효능제 ciglitazone와 비교했을 때, 피탄산은 오직 C3H10T1/2세포가 성숙한 지방세포로 분화하는데 아주 미미한 영향만을 끼쳤습니다. 피탄산이 당대사에 관련되는 유전자의 발현을 조절하기 위해 다른 PPAR 구조적아형을 통해 작용하며, 이와 같이 인슐린 내성관리에서 피탄산의 잠재적 역할을 이 결과가 암시한다는 것이 분명합니다. 
+
+
+Phytanic acid(PhA, 피탄산)
+엽록소의 분해과정에서 발생되는 분지지방산(branced-chain fatty acid)이다. PhA는 주로 초식동물인 반추동물유래의 사료원료에 함유되어 있으나, 아직 많은 영양학자들이 관심을 두고 있는 상태는 아니다. PhA는 PPAR-gamma의 자극과정을 통해 지질대사, 인슐린 감수성, 염증을 유발하는 cytokine의 생산 그리고 세포성숙등의 과정에 관여하는 것으로 알려져 있어 비만 및 관련질병의 예방을 위한 사용이 검토되고 있다. 현재 PhA의 전구물질인 phytol을 여러 수준으로 이용가능여부를 검토하기 위한 실험들이 수행되고 있다.
+
+ [살균작용, 그람음성균]
+
+Acta Microbiol Pol. 2003;52(4):373-8.
+
+Synergistic action of photosensitizers and normal human serum in a bactericidal process. I. Effect of chlorophylls.
+살균과정 I 에서 광민감 물질과 정상 인간 혈청의 시너지효과.
+엽록소의 효능.
+
+Jankowski A, Jankowski S, Mironczyk A. 
+Institute of Biotechnology and Environment Protection, University of Zielona Gora, Monte Cassino 21b, 65-561 Zielona Gora, Poland. JJJ@WCHUWR.CHEM.UNI.WROC.Pl
+
+Susceptibility of some Gram-negative strains against the bactericidal action of normal human serum (NHS) and of chlorophyll, which induces production of reactive oxygen species by light, was studied. A synergistic bactericidal activity of NHS and chlorophyll against E. coli K1 and Shigella flexneri strains was observed.
+
+PMID: 15095924 [PubMed - indexed for MEDLINE]
+
+
+정상 인간 혈청(NHS) 및 엽록소(빛에 의해 활성산소생성을 유도)의 살균작용에 대항하는 몇 가지 그람음성종의 이환성을 연구했습니다. E. coli K1 및 세균성이질균종에 대항하는 NHS 및 엽록소의 상승 살균작용을 관찰했습니다. 
+
+
+
+Gram negative bacillus (그람음성균)
+그람염색을 했을 때 전염색액(前染色液)의 색소가 유기용매에 녹은 뒤 후염색액(後染色液)의 색깔로 되는 세균. 단순한 배지에서도 자라고 균체의 독소를 방출하지 않고 가열해도 잘 파괴되지 않는다. 또 소화효소·리조티움에 저항성이 약하고, 페니실린의 작용을 받기 힘들다. 티푸스균·이질균·대장균·페스트군·콜레라균·임균(淋菌)·수막염균(髓膜炎菌)·스피로헤타 등이 있다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[다이옥신, 체내 유해물질 배출,]
+
+Fukuoka Igaku Zasshi. 2005 May;96(5):241-8.
+
+Promotive excretion of causative agents of Yusho by one year intake of FBRA in Japanese people.
+일본인에서 일 년 간 FBRA섭취로 Yusho 원인물질의 배출자극.
+
+Nagayama J, Takasuga T, Tsuji H, Iwasaki T. 
+Laboratory of Environmental Molecular Epidemiology, School of Health Sciences, Faculty of Medicine, Kyushu University, Fukuoka 812-8582.
+
+Thirty-six years have passed since the outbreak of Kanemi rice oil poisoning, namely, Yusho in the western Japan. However, even now the patients with Yusho have been still suffering from several objective and subjective symptoms. In order to improve or, if possible, to cure the such symptoms, the most important therapeutic treatment is considered to actively excrete the causative agents, that is, polychlorinated dibenzofurans (PCDFs) and polychlorinated dibenzo-p-dioxins (PCDDs) from the bodies of the patients and to reduce their body burdens. In rats, dietary fiber and chlorophyll have been shown to promote the fecal excretion of dioxins and to reduce their levels in rat liver. In this study, we examined whether such kinds of effect were also observed by FBRA, which was the health food and relatively rich with dietary fiber and chlorophyll, in nine married Japanese couples. As a result, concentrations of PCDFs and PCDDs on the lipid weight basis in the blood of the FBRA-intake group in which they took 7.0 to 10.5g of FBRA after each meal and three times a day for one year were more lowered than those in the blood of the non-intake group; Blood levels of PCDFs and PCDDs in the FBRA-intake group were decreased by 41.0 and 37.2%, respectively, and those decreases were 33.7 and 29.4% in the non-intake group. Their total body burdens just before and one year after the study were calculated on the assumptions that the body fat was also contaminated with these dioxins at their blood levels on the lipid weight basis and the content of body fat was 20% of the body weight. Then, we computed the average amounts in excretion of PCDFs and PCDDs from the body in both the FBRA-intake and non-intake groups. Consequently, the amounts of excretion of PCDFs and PCDDs in the FBRA-intake group were 1.81 and 1.74 times, respectively, greater than those in the non-intake group. Therefore, FBRA seemed to promote the fecal excretion of causative agents of Yusho, from the human body. We also expect FBRA to reduce their body burdens of patients with Yusho and to improve some objective and subjective symptoms of Yusho patients.
+
+PMID: 15997780 [PubMed - indexed for MEDLINE]
+
+
+일본 서부지방에서 Kanemi 미강유 식중독, 즉, Yusho가 발발한지 36년이 지났습니다. 그러나 심지어 아직까지도 Yusho 환자들은 여러 가지 객관적이고, 주관적인 증상을 겪고 있습니다. 이런 증상을 향상시키거나, 가능하다면 치료하기 위해서는, 원인물질, 즉, polychlorinated dibenzofurans (PCDFs) 및 polychlorinated dibenzo-p-dioxins (PCDDs)를 환자의 신체로부터 활발히 배출하고 체내축적을 줄이기 위해, 가장 중요한 치료적 요법을 고려해야 합니다. 쥐에서 식이섬유 및 엽록소가 다이옥신의 대변 배출을 촉진하고, 쥐 간에서 다이옥신의 농도를 감소시킨다는 것이 밝혀졌습니다. 본 연구에서는 9쌍의 일본인 기혼커플에서 건강식품이자 비교적 식이섬유 및 엽록소가 풍부한 FBRA로 또한 이러한 효과를 볼 수 있는가를 실험했습니다. 결과적으로, 일 년 동안 하루 세 번 매끼 식사 후 FBRA를 7.0에서 10.5g 섭취한 FBRA섭취군의 혈액에서, 지질량을 기준으로 한 PCDFs 및 PCDDs농도가 FBRA을 섭취하지 않은 대조군 혈액에서의 수치보다 더 낮아졌습니다.; FBRA섭취군에서 PCDFs 및 PCDDs의 혈액농도가 각각, 41.0 및 37.2%까지 감소했으며, 비 섭취 대조군에서의 PCDFs 및 PCDDs 감소는 33.7 및 29.4%였습니다. 지질량을 기준으로 혈액수준으로 체지방 또한 이 다이옥신에 오염되었고 체지방이 체중의 20%라는 가정 하에서, 연구 직전 및 일 년 후의 총 체내축적을 계산했습니다. 그런 후 FBRA섭취군 및 비 섭취 대조군 모두에서 신체로부터의 PCDFs 및 PCDDs의 평균 배출량을 계산했습니다. 그 결과로서 FBRA섭취군의 PCDFs 및 PCDDs 배출량은  비 섭취 대조군보다 각각 1.81 및 1.74배 더 높았습니다. 따라서 FBRA가 인체로부터 Yusho 원인물질의 대변배출을 자극하는 것처럼 보입니다. 또한 FBRA가 Yusho환자의 유해물질 체내축적을 감소시키고 그들의 객관적 및 주관적 증상도 향상시키길 기대합니다.  
+
+
+

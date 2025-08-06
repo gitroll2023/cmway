@@ -1,0 +1,44 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hdsgj.co.kr)",
+      "mcp__playwright__browser_navigate",
+      "Bash(claude --debug)",
+      "Bash(npx:*)",
+      "Bash(curl:*)",
+      "mcp__supabase__get_project_url",
+      "mcp__supabase__apply_migration",
+      "mcp__supabase__get_anon_key",
+      "mcp__supabase__generate_typescript_types",
+      "mcp__supabase__list_tables",
+      "mcp__supabase__execute_sql",
+      "Bash(mkdir:*)",
+      "Bash(touch:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(npm run build:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git clone:*)",
+      "Bash(uv sync:*)",
+      "Bash(python SuperClaude install --profile developer)",
+      "Bash(.venvScriptsactivate)",
+      "Bash(python:*)",
+      "Bash(.venv\\Scripts\\python.exe -m SuperClaude install:*)",
+      "Bash(\".venv/Scripts/python.exe\" -m SuperClaude install --profile developer)",
+      "Bash(\".venv/Scripts/python.exe\" -m SuperClaude install --profile developer --yes)",
+      "Bash(dir:*)",
+      "Bash(ls:*)",
+      "Bash(claude mcp:*)",
+      "Bash(find:*)",
+      "Bash(claude config show)",
+      "mcp__ide__executeCode",
+      "Bash(npm install:*)",
+      "Bash(rm:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "supabase",
+    "playwright"
+  ]
+}
