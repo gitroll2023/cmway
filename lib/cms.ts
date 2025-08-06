@@ -409,7 +409,7 @@ export const products = {
       const productsList = data as unknown as Product[]
       cache.set(cacheKey, productsList)
       
-      return createResponse(productsList, null, count)
+      return createResponse(productsList, null, count || undefined)
     } catch (error) {
       return createResponse([], error)
     }
@@ -437,12 +437,13 @@ export const products = {
       const product = data as unknown as Product
       
       // Update view count
-      await client
-        .from('products')
-        .update({ 
-          'stats.view_count': (product.stats?.view_count || 0) + 1 
-        })
-        .eq('id', product.id)
+      // Note: View count increment disabled due to Supabase nested field limitations
+      // await client
+      //   .from('products')
+      //   .update({ 
+      //     'stats.view_count': (product.stats?.view_count || 0) + 1 
+      //   })
+      //   .eq('id', product.id)
 
       cache.set(cacheKey, product)
       
@@ -493,7 +494,8 @@ export const products = {
 
       if (productError) throw productError
 
-      const relatedIds = product?.related_products?.[type] || []
+      const relatedProducts = product?.related_products as any
+      const relatedIds = relatedProducts?.[type] || []
       if (relatedIds.length === 0) {
         return createResponse([])
       }
@@ -639,11 +641,11 @@ export const categories = {
       }
 
       if (params?.showInMenu !== undefined) {
-        query = query.eq('display_settings->>show_in_menu', params.showInMenu)
+        query = query.eq('display_settings->>show_in_menu', String(params.showInMenu))
       }
 
       if (params?.featured !== undefined) {
-        query = query.eq('display_settings->>featured', params.featured)
+        query = query.eq('display_settings->>featured', String(params.featured))
       }
 
       query = query.order('position', { ascending: true })
@@ -1127,7 +1129,7 @@ export const banners = {
   async incrementImpression(bannerId: string): Promise<void> {
     try {
       const client = getClient()
-      await client.rpc('increment_banner_impression', { banner_id: bannerId })
+      await (client.rpc as any)('increment_banner_impression', { banner_id: bannerId })
     } catch (error) {
       console.error('Failed to increment banner impression:', error)
     }
@@ -1136,7 +1138,7 @@ export const banners = {
   async incrementClick(bannerId: string): Promise<void> {
     try {
       const client = getClient()
-      await client.rpc('increment_banner_click', { banner_id: bannerId })
+      await (client.rpc as any)('increment_banner_click', { banner_id: bannerId })
     } catch (error) {
       console.error('Failed to increment banner click:', error)
     }
@@ -1186,13 +1188,34 @@ export const banners = {
   async create(bannerData: Omit<Banner, 'id' | 'created_at' | 'updated_at' | 'analytics'>): Promise<SupabaseResponse<Banner>> {
     try {
       const client = getClient()
+      // Transform Banner to database schema
+      const dbBanner = {
+        name: bannerData.name,
+        type: bannerData.type,
+        title: bannerData.title,
+        subtitle: bannerData.subtitle,
+        description: bannerData.description,
+        image: bannerData.image,
+        background_color: bannerData.background_color,
+        text_color: bannerData.text_color,
+        button: bannerData.button,
+        position: bannerData.position,
+        display_rules: bannerData.display_rules,
+        is_active: bannerData.is_active,
+        content: {
+          title: bannerData.title,
+          subtitle: bannerData.subtitle,
+          description: bannerData.description,
+          image: bannerData.image,
+          button: bannerData.button
+        },
+        created_at: new Date().toISOString(),
+        updated_at: new Date().toISOString()
+      }
+
       const { data, error } = await client
         .from('banners')
-        .insert({
-          ...bannerData,
-          created_at: new Date().toISOString(),
-          updated_at: new Date().toISOString()
-        })
+        .insert(dbBanner)
         .select()
         .single()
 
