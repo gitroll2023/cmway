@@ -116,7 +116,7 @@ export default function HeroSlider() {
       </AnimatePresence>
 
       {/* Slide Indicators - PC: 우측 세로, Mobile: 하단 가로 */}
-      <div className="absolute md:right-8 md:top-1/2 md:-translate-y-1/2 bottom-20 left-1/2 md:left-auto -translate-x-1/2 md:translate-x-0 flex md:flex-col items-center md:space-y-4 space-x-4 md:space-x-0 z-20">
+      <div className="absolute md:right-8 md:top-1/2 md:-translate-y-1/2 bottom-24 left-1/2 md:left-auto -translate-x-1/2 md:translate-x-0 flex md:flex-col items-center md:space-y-4 space-x-3 md:space-x-0 z-20">
         {slides.map((_, index) => (
           <button
             key={index}
@@ -127,20 +127,36 @@ export default function HeroSlider() {
             className="relative group"
             aria-label={`Go to slide ${index + 1}`}
           >
-            <div className={`transition-all duration-500 ${
+            <div className={`relative overflow-hidden transition-all duration-500 ${
               index === currentSlide
-                ? 'md:w-1 md:h-16 w-12 h-1 bg-white'
-                : 'md:w-1 md:h-8 w-6 h-1 bg-white/40 hover:bg-white/60'
-            }`} />
-            {index === currentSlide && (
-              <motion.div
-                className="absolute inset-0 bg-white"
-                initial={{ scaleY: 0, scaleX: 0 }}
-                animate={{ scaleY: 1, scaleX: 1 }}
-                transition={{ duration: 8, ease: "linear" }} // 인디케이터도 8초로 맞춤
-                style={{ transformOrigin: "left top" }}
-              />
-            )}
+                ? 'md:w-1 md:h-16 w-12 h-1 bg-white/30'
+                : 'md:w-1 md:h-8 w-8 h-1 bg-white/30 hover:bg-white/50'
+            }`}>
+              {index === currentSlide && (
+                <>
+                  {/* Mobile - 가로로 채워지는 애니메이션 */}
+                  <motion.div
+                    className="absolute bg-white left-0 top-0 bottom-0 right-0 origin-left md:hidden"
+                    initial={{ scaleX: 0 }}
+                    animate={{ scaleX: 1 }}
+                    transition={{ 
+                      duration: 8, 
+                      ease: "linear"
+                    }}
+                  />
+                  {/* PC - 세로로 채워지는 애니메이션 */}
+                  <motion.div
+                    className="absolute bg-white left-0 top-0 bottom-0 right-0 origin-top hidden md:block"
+                    initial={{ scaleY: 0 }}
+                    animate={{ scaleY: 1 }}
+                    transition={{ 
+                      duration: 8, 
+                      ease: "linear"
+                    }}
+                  />
+                </>
+              )}
+            </div>
           </button>
         ))}
       </div>
