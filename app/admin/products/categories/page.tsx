@@ -103,7 +103,13 @@ export default function CategoriesPage() {
 
       if (error) throw error
 
-      setCategories(data || [])
+      // Convert null parent_id to undefined for TypeScript compatibility
+      const formattedCategories = (data || []).map(cat => ({
+        ...cat,
+        parent_id: cat.parent_id || undefined
+      })) as Category[]
+      
+      setCategories(formattedCategories)
     } catch (error: any) {
       console.error('Error loading categories:', error)
       toast({
