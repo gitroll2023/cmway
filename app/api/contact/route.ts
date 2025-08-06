@@ -91,7 +91,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json(
         {
           error: '입력 정보가 올바르지 않습니다.',
-          details: error.errors.map(err => ({
+          details: error.issues.map(err => ({
             field: err.path.join('.'),
             message: err.message
           }))
